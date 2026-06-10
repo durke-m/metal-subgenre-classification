@@ -1,0 +1,951 @@
+track_id,artists,album_name,track_name,popularity,duration_ms,explicit,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,time_signature,genre
+2biGEMYnKkiqJXkS8Koiaw,Panopticon,Kentucky,Kentucky,18,201066,False,0.456,0.399,7,-16.311,1,0.0311,0.644,0.656,0.231,0.689,99.951,4,black-metal
+0WTc2jsUgF4Y2MOz0aYvsR,Megadeth,Hidden Treasures,Paranoid,65,152600,True,0.355,0.973,4,-7.004,0,0.071,0.000359,0.154,0.142,0.628,187.385,4,thrash-metal
+7aMY3p166A7gDvbugcE2Ao,Xandria,Ravenheart,Eversleeping,39,220040,False,0.501,0.339,7,-9.22,0,0.03,0.905,0.000105,0.104,0.133,130.026,4,symphonic-metal
+3oxjWhYHcHE3xtrpQulOmd,Exodus,Pleasures of the Flesh,Seeds of Hate,22,297306,False,0.209,0.947,11,-5.313,1,0.109,2.22e-06,0.197,0.247,0.23,89.54,4,thrash-metal
+3U9gogDStAfWxSm91PJuxb,Slayer,South Of Heaven,South Of Heaven,64,298533,True,0.31,0.991,5,-3.769,0,0.316,0.000132,0.085,0.0969,0.0395,140.071,4,thrash-metal
+3iSgRJUrMKHLglnrQrQ6kO,Within Temptation,The Unforgiving,Iron,51,341000,False,0.293,0.962,11,-2.981,0,0.121,3.42e-05,1.62e-05,0.367,0.27,198.121,3,symphonic-metal
+0QRxtcxL31dRAeiUUuENPu,Sepultura,Chaos A.D.,Territory,56,287480,False,0.332,0.946,2,-6.233,1,0.127,0.000275,0.0304,0.136,0.303,153.091,4,thrash-metal
+13Uvqll8OQDjw3wDweIK9y,Metallica,Death Magnetic,The Day That Never Comes,65,476266,False,0.334,0.982,4,-2.293,0,0.0619,9.11e-05,0.149,0.106,0.501,126.883,4,thrash-metal
+4OdTyeq4qCXepqucqCeTq2,The Acacia Strain,The Dead Walk,See You Next Tuesday,24,195653,False,0.389,0.991,1,-4.917,1,0.181,0.000529,8.47e-05,0.201,0.153,154.06,4,death-metal
+5s944C3ziYbQKqpm7IYqFr,LIK,Misanthropic Breed,Flesh Frenzy,20,150800,False,0.369,0.966,1,-6.014,0,0.199,1.57e-06,0.0703,0.367,0.155,120.302,1,black-metal
+4m9lCws9FeI0IwhVkHTb8P,Lifvsleda,Sepulkral Dedikation,Djefvulen,18,266254,False,0.376,0.866,9,-7.781,1,0.0587,9.12e-05,0.883,0.608,0.122,130.001,4,black-metal
+4hiCLNDmnoMbIxZyWquci7,D.F.C.,Igreja Quadrangular Do Triângulo Redondo,Mentira de Eleição,25,62537,True,0.305,0.972,0,-3.607,1,0.113,3.19e-05,0.429,0.0953,0.471,123.041,4,death-metal
+7wpxUFLO2n6zKzIIQk6Dbd,Månegarm,Fornaldarsagor,Slaget vid Bråvalla,18,302635,False,0.425,0.964,10,-3.955,0,0.0676,3.87e-06,0.000957,0.0724,0.152,140.024,4,black-metal
+3aRl57NL6tXbeXiUQSg4ls,The Agonist,Five,The Hunt,21,215546,False,0.377,0.935,7,-6.516,1,0.0531,0.000167,0.0035,0.0493,0.369,170.0,4,death-metal
+4E5xVW505akJX0wcKj8Mpd,Megadeth,Rust In Peace (Expanded Edition),Tornado Of Souls - Remastered 2004,68,319266,False,0.519,0.982,7,-3.547,1,0.108,0.00203,0.00055,0.0971,0.361,97.745,4,thrash-metal
+1EXeXN2Bd5R4IRRHQyGr7A,Winds of Plague,The Great Stone War,Forged In Fire,21,215240,False,0.415,0.997,11,-2.615,0,0.151,5.13e-05,0.000697,0.363,0.142,149.967,4,black-metal
+6ghmPHtzLrErgkXju7ZDao,Upon A Burning Body,Red. White. Green.,Predators,25,275813,False,0.318,0.975,9,-4.788,0,0.365,0.0083,0.0,0.123,0.0742,140.484,5,death-metal
+5lKeJIU0KnJZEF2FE76B3y,Samael,Telepath,Telepath,16,215480,False,0.518,0.971,2,-3.296,1,0.118,0.00266,0.00191,0.0735,0.304,145.811,4,black-metal
+5mUbYcKBo74303TmkY5GWR,Primordial,Exile Amongst the Ruins,Exile Amongst the Ruins,19,479763,False,0.135,0.782,4,-6.891,0,0.0439,0.00269,0.00583,0.251,0.0596,158.152,1,black-metal
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+4PWxt9Fy949kUtkEi2GI5V,Gojira,L'Enfant Sauvage (Special Edition),L'enfant sauvage,58,257733,False,0.143,0.995,8,-5.698,1,0.185,0.000146,0.438,0.364,0.079,87.803,3,death-metal
+5HmNls885b2Egmu60z4fo3,Within Temptation,Don't Pray For Me,Don't Pray For Me,54,221560,False,0.481,0.9,10,-3.988,0,0.0696,0.000163,3.2e-05,0.0783,0.503,141.938,4,symphonic-metal
+0iffHBKKs6CWZ4WmltlFXS,Avatar,Black Waltz,Use Your Tongue,22,575226,False,0.568,0.886,4,-4.355,1,0.0419,0.000537,0.23,0.206,0.218,137.681,4,death-metal
+6WREIMikCOAKdwqcO4jUI1,Bucovina,Septentrion,Septentrion,18,279733,False,0.498,0.977,7,-3.58,1,0.0388,0.000145,0.00539,0.11,0.475,136.027,4,black-metal
+7qL5NqnxckzlO3FqVSwmzg,Hulder,Godslastering: Hymns of a Forlorn Peasantry,A Forlorn Peasant's Hymn,18,362704,False,0.172,0.806,0,-9.751,0,0.175,0.0637,0.269,0.0796,0.0339,109.609,4,black-metal
+4iV38vAC2PYELykYAPvP4I,Epica,Design Your Universe (Gold Edition: Deluxe Edition),Semblance of Liberty,21,342137,False,0.514,0.966,4,-4.967,0,0.108,0.00012,0.0448,0.0781,0.429,140.019,4,symphonic-metal
+3PiCT4dYXktj8aXAwLdxnh,Alestorm,Sunset on the Golden Age,1741 (The Battle of Cartagena),29,437560,False,0.51,0.954,10,-4.079,0,0.0818,5.34e-05,0.0356,0.301,0.487,111.006,3,symphonic-metal
+5mo20UkX1ct2FrdBZDk7oi,Death,Scream Bloody Gore (Reissue),Mutilation,20,207597,False,0.165,0.911,11,-6.797,0,0.0874,1.09e-06,0.734,0.111,0.226,110.226,4,death-metal
+24cUJMEiMkGfdhTgt2ZUgV,Halestorm,Rock - Best of 2022,The Steeple,4,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,symphonic-metal
+2in67HRK0kG1fiCoXJdbYq,Horn,Verzet,Protektor,17,247174,False,0.219,0.788,9,-6.793,1,0.0536,0.000137,0.545,0.0658,0.591,80.118,4,black-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+3pKsUMqpVr4ZJ13Mm91Xig,Testament,The Gathering,Down for Life,60,203680,False,0.344,0.955,1,-10.614,1,0.0444,5.4e-06,0.111,0.0665,0.352,111.671,4,thrash-metal
+7IiqF2tYiixnpBcFjkocjA,Asking Alexandria,From Death To Destiny,Moving On,58,242593,False,0.446,0.761,3,-4.141,0,0.032,0.000569,0.0,0.182,0.336,134.971,4,symphonic-metal
+5Xod1NZrvEBucvQJIxI8O5,Arckanum,ÞÞÞÞÞÞÞÞÞÞÞ,Þann Svartís,16,246826,False,0.234,0.929,0,-3.059,0,0.0818,0.0,0.933,0.272,0.1,155.577,4,black-metal
+3vadV5PzHc3tB5S0CWCBmc,Body Void,Ruins,Swan,19,395035,False,0.293,0.584,7,-7.605,1,0.0593,0.0611,0.929,0.11,0.0574,129.667,4,black-metal
+0di1fFxZ2v814evMbAvnzI,Aversions Crown,Tyrant,Earth Steriliser,21,212613,False,0.447,0.983,7,-2.892,1,0.175,0.000231,0.845,0.107,0.0558,140.026,4,black-metal
+5U8xc7Ui7hC3o4X4KdR94V,Winds of Plague,Decimate the Weak,Angels of Debauchery,25,272693,False,0.481,0.959,4,-3.658,0,0.0944,3.55e-05,0.675,0.133,0.28,114.399,4,death-metal
+4Eg3w2y5JAiaVWTMWC6pHZ,Moonsorrow,Verisäkeet,Kaiku,17,499986,False,0.266,0.0887,9,-20.274,0,0.0585,0.0233,0.0889,0.465,0.0664,88.5,4,black-metal
+3bG1B0UTDX0UYg9qeec3gL,Halestorm,Metal Lives!,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+7JP8lWYrxpA8luKU8IPd3Y,Asking Alexandria,See What’s On The Inside,Alone Again,56,228977,False,0.496,0.969,10,-3.085,1,0.0688,7.49e-05,5.93e-06,0.242,0.199,109.977,4,symphonic-metal
+6vgCLXsuxbSTFn66QbEE3X,Moonsorrow,Suden Uni,Köyliönjärven jäällä (Pakanavedet II),19,388280,False,0.257,0.985,9,-4.431,1,0.0755,4.55e-06,0.919,0.583,0.174,97.753,4,black-metal
+27sTzAelgljD6Uxp88BqA3,Arch Enemy,Doomsday Machine,Nemesis,59,252280,False,0.246,0.954,8,-3.811,1,0.0975,5.79e-05,0.291,0.126,0.164,97.553,4,death-metal
+4vEmfvLSpk5KmVIM6jqae1,Goretrade,Ten Years Trading... (Bonus Remastered),Unholy Masturbation (Bonus Remastered),37,178316,True,0.257,0.974,7,-5.45,1,0.156,1.6e-06,0.868,0.302,0.467,153.083,4,death-metal
+7ijzfPlrrszfIllGC2FHgO,Bolt Thrower,Those Once Loyal,The Killchain,46,281120,False,0.402,0.86,8,-7.689,1,0.039,1.43e-06,0.895,0.103,0.427,108.118,4,death-metal
+7AIP5Lqy500r7pYtdCpphh,Wolves In The Throne Room,Celestite,Sleeping Golden Storm,16,541928,False,0.104,0.345,9,-14.844,0,0.0385,0.813,0.922,0.154,0.0379,91.211,4,black-metal
+0UHAvWWF7B6O0xVi3fW5P2,Signs of the Swarm,Vital Deprivation,Crown of Nails,22,204462,False,0.405,0.985,0,-2.345,0,0.118,4.19e-05,1.56e-05,0.454,0.0853,99.995,4,death-metal
+4lI1izPJwDoyDCrxgMCWtN,Epica,Live At Paradiso,Run For A Fall - Live At Paradiso,24,428187,True,0.271,0.583,4,-8.182,0,0.0517,0.246,1.59e-05,0.806,0.251,112.003,4,symphonic-metal
+7qaaixGlCzurV30loAGNyz,Unearth,III: In The Eyes Of Fire,This Glorious Nightmare,26,261920,False,0.309,0.981,11,-3.609,1,0.179,0.000211,0.0768,0.297,0.268,147.269,3,death-metal
+72U9ZWsYe3lWRjER7n5xX5,Velho,Vida Longa ao Primitivo,O Único Caminho,18,153253,True,0.159,0.949,2,-3.544,1,0.058,1.01e-06,0.613,0.223,0.477,144.244,4,black-metal
+6FPASokCZtXjBQl2jBKYxY,Bal-Sagoth,Battle Magic,Tale From The Deep Woods,18,336400,False,0.297,0.943,10,-8.156,0,0.0813,6.97e-05,0.0117,0.318,0.336,101.578,4,black-metal
+5DLN0LQbIAD28k53GJfRPq,Anthrax,Halloween Metal Nights,Indians,1,341066,False,0.349,0.983,4,-5.969,0,0.0564,0.00065,0.000892,0.0365,0.422,105.571,4,thrash-metal
+6nBZFWCx4X5EF50Php0vyy,Siebenbürgen,Loreia,Vampyria,19,309013,False,0.248,0.882,0,-7.996,1,0.0821,0.000317,0.0106,0.378,0.13,146.178,4,black-metal
+4uspQt7LvzZzpsIoMIepbz,DeadSquad,Horror Vision (original version 2009),Hiperbola Dogma Monoteis,25,149053,True,0.506,0.941,1,-6.241,1,0.136,0.0202,0.000183,0.295,0.381,139.98,4,death-metal
+0QV3swr7L8MZr72lL2izV1,Metallica,Hardwired…To Self-Destruct (Deluxe),Hardwired,63,189347,True,0.128,0.991,11,-3.289,1,0.0582,1.11e-05,0.00362,0.219,0.53,186.124,4,thrash-metal
+6i7s8dpwHLZdDYSzulYmWq,Bleed From Within,Fracture,Into Nothing,43,282426,False,0.461,0.959,6,-6.447,1,0.0701,0.000694,5.29e-06,0.0448,0.362,100.512,4,death-metal
+02oW7CYWjfiCs1rZs7GNes,Within Temptation,The Heart Of Everything,All I Need,57,290946,False,0.234,0.73,10,-4.854,1,0.0446,0.199,4.77e-06,0.13,0.12,152.972,3,symphonic-metal
+2KPcujYDaukvtfRR0Zmu0O,Slayer,South Of Heaven,Mandatory Suicide,50,245133,False,0.367,0.997,8,-2.911,1,0.106,0.000499,0.694,0.0928,0.269,148.005,4,thrash-metal
+5F2b8ExevODMQehJcEVjz9,Halestorm,Rock Brandneu,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+0qbV4e18lWrTTxlswVoLbI,Metallica,Death Magnetic,The Unforgiven III,60,466586,False,0.297,0.692,4,-5.625,0,0.0344,0.00196,3.75e-06,0.115,0.103,121.52,4,thrash-metal
+4qD1JzL9Dog8dbot4FAEZQ,Transmetal,Velóz y Devastador,Exhumado,23,246920,False,0.312,0.879,2,-11.445,0,0.0438,0.000139,0.538,0.0454,0.389,138.641,4,death-metal
+29imjH7sNO9BwGjGgoJRGg,Hellcrust,Kalamaut,Janji Api,26,210213,True,0.551,0.96,1,-2.637,1,0.0778,0.000528,0.0484,0.265,0.432,126.038,4,death-metal
+0uyvc0R0wJ6Fu3E01UtlzJ,Miss May I,Shadows Inside,Shadows Inside,54,236549,False,0.381,0.969,10,-4.956,0,0.141,4.59e-06,1.47e-05,0.143,0.338,179.987,4,death-metal
+0WXlCYlG6kmIGZToMZ0EcE,Transmetal,México Bárbaro,Ángel Enfermo,23,205496,False,0.467,0.977,6,-6.893,1,0.0527,0.00171,0.0577,0.147,0.173,97.169,4,death-metal
+3RqTWAc3noEuDS5B0BimD7,Nightwish,Century Child,End Of All Hope,57,233800,False,0.477,0.946,5,-6.734,1,0.0423,6.14e-05,0.0271,0.333,0.563,79.948,4,symphonic-metal
+18HnCeaGjRjCyhqrBG2xmR,Rose Funeral,The Resting Sonata,Embalming The Masses,20,279226,False,0.257,0.899,0,-8.823,0,0.0999,7.44e-06,0.684,0.0642,0.278,110.944,4,black-metal
+0PeeknWE7vgcMdwzbKRfCy,Mortuary Drape,All the Witches Dance,Primordial,22,187066,False,0.246,0.997,8,-5.478,1,0.0981,0.00013,0.000264,0.323,0.0828,169.21,4,black-metal
+4pwKVmEsLZAIFW05f88ZT4,Testament,The Formation of Damnation,More Than Meets the Eye,52,273226,False,0.458,0.984,11,-4.294,1,0.15,6.44e-06,0.515,0.0678,0.381,155.055,4,thrash-metal
+2LWgM8vzbLhlGRVCydRrEh,In Flames,Used and Abused (In Live We Trust),Only for the Weak - Live,23,291586,False,0.423,0.975,8,-5.254,1,0.102,2.76e-05,0.892,0.954,0.122,105.003,4,death-metal
+3r3KRYYOFjNGD4OJB5ddam,Nightwish,The Sound of Nightwish Reborn,"While Your Lips Are Still Red - Theme from the Movie ""Lieksa!""",56,258977,False,0.472,0.658,7,-4.971,0,0.0256,0.0244,0.000146,0.195,0.113,100.044,4,symphonic-metal
+6prvMx5SVgsFf8Iocaxvqz,Blind Witness,Nightmare On Providence Street,These Countless Sleepless Nights,22,278120,False,0.414,0.994,11,-2.634,0,0.243,1.24e-05,0.214,0.262,0.192,199.994,4,death-metal
+7jok5zvxnrQuK2N7psZHyN,Morbid Angel,Altars of Madness,Chapel of Ghouls,40,297493,False,0.177,0.965,4,-7.14,1,0.0809,3.29e-06,0.548,0.11,0.203,96.069,4,death-metal
+1YenEQ5vZytH31jdDlnXYu,The Acacia Strain,Continent,The Behemoth,23,397026,True,0.489,0.87,9,-8.622,0,0.06,0.0763,0.917,0.12,0.109,120.059,4,death-metal
+3qSiLolBeDlPkQw0pu2f28,Manes,Slow Motion Death Sequence,Night Vision,17,264893,False,0.403,0.623,4,-7.939,1,0.0337,0.00346,0.0627,0.118,0.0819,106.017,4,black-metal
+16yvB7exWWUBkZ9fFkLVMI,Gojira,The way of all flesh,Vacuity,53,291626,False,0.586,0.855,8,-3.356,1,0.0388,0.000318,0.000931,0.0798,0.302,88.046,4,death-metal
+1zNBVe8QG37iPLLQHlUS2u,Currents,The Way It Ends,Kill the Ache,57,233355,False,0.486,0.934,4,-6.064,0,0.0703,0.00171,0.0037,0.108,0.125,139.934,4,death-metal
+5ohfpKB5tt275f4Y4lQ9F7,Slayer,Reign In Blood (Expanded),Angel Of Death,60,291773,False,0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459,4,thrash-metal
+4ABDFuZgqdg9X8Rw02WfYF,Nightwish,Spooky Scary Season,The Phantom Of The Opera,1,248240,False,0.433,0.848,5,-6.92,0,0.0496,6.53e-06,0.0316,0.0982,0.324,131.9,4,symphonic-metal
+1lsV84a9EmAIS0isRG9tRp,Cannibal Corpse,Gallery of Suicide,Stabbed in the Throat,23,206400,True,0.274,0.987,1,-8.495,1,0.117,4.12e-05,0.416,0.141,0.156,93.735,4,death-metal
+6JGgZq7gwoW8TxMZOQCqSk,Burgerkill;Ahmad Dhani,Elang,Elang,37,252631,False,0.499,0.819,4,-12.636,0,0.0504,0.000803,0.62,0.277,0.475,95.007,4,death-metal
+0QSx3sQoHPNUfg2vwh5tOi,Therion,Theli,Nightside of Eden,25,449280,False,0.439,0.739,9,-7.746,1,0.0339,0.000155,0.0458,0.227,0.308,138.986,4,symphonic-metal
+3RqTWAc3noEuDS5B0BimD7,Nightwish,Century Child,End Of All Hope,57,233800,False,0.477,0.946,5,-6.734,1,0.0423,6.14e-05,0.0271,0.333,0.563,79.948,4,symphonic-metal
+4QWLhGVitrCCysR3ugX9Xw,Within Temptation,The Silent Force,Angels,56,240440,False,0.341,0.867,7,-4.727,0,0.0492,0.293,0.0,0.257,0.2,182.032,4,symphonic-metal
+3Jnxngdff0lVu2rza1GVx6,Black Sabbath,Paranoid,Paranoid (2009 - Remaster),42,167720,False,0.423,0.685,4,-9.651,0,0.078,6.28e-05,0.00642,0.133,0.328,162.78,4,thrash-metal
+13Uvqll8OQDjw3wDweIK9y,Metallica,Death Magnetic,The Day That Never Comes,65,476266,False,0.334,0.982,4,-2.293,0,0.0619,9.11e-05,0.149,0.106,0.501,126.883,4,thrash-metal
+0Esga9nT74zsIrvKQrkgzL,Death Angel,Metal,The Ultra-Violence,0,633600,False,0.242,0.99,4,-3.725,0,0.219,1.42e-05,0.693,0.153,0.19,110.976,4,thrash-metal
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+6PkOmPMlH5nPFeoCPU0lo2,Nightwish,Highest Hopes-The Best Of Nightwish,Nemo,59,273626,False,0.498,0.745,3,-6.537,1,0.0351,0.000167,0.000136,0.0681,0.346,125.014,4,symphonic-metal
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,thrash-metal
+3x9uPWasYQQn8WGUg1zuMm,Wormwood,Arkivet,Overgrowth,18,317386,False,0.265,0.904,4,-6.334,0,0.0901,0.00043,0.0513,0.0657,0.091,113.031,4,black-metal
+66iX4HzM7YnmxmUZOSCG2F,Epica,The Phantom Agony (Expanded Edition),"Cry for the Moon (The Embrace That Smothers , Pt. 4)",54,406040,False,0.446,0.902,2,-5.33,0,0.046,0.00634,0.000345,0.0813,0.302,180.115,4,symphonic-metal
+3P55qh6yd5B6Q19xgxQ4Cq,Sepultura,Under a Pale Grey Sky (Live),Arise / Dead Embryonic Cells - Live,21,189266,False,0.275,0.979,2,-5.412,1,0.0741,0.00108,0.0249,0.329,0.24,129.842,4,thrash-metal
+6bcIyAwnUIF34YelBWqMrS,Therion,Les Épaves,L'amour est bleu - Mellow Version,22,207306,False,0.556,0.675,7,-5.169,1,0.0238,0.0248,0.0016,0.144,0.357,105.024,4,symphonic-metal
+3PM1gGSwkq1Szoeb3BDRxU,Arkona,Lunaris,Nie Dla Mnie Litość,19,426461,False,0.298,0.798,11,-7.823,0,0.0618,0.000147,0.0593,0.0939,0.0443,129.898,4,symphonic-metal
+1uOsk0sVgOED6KtfLHy0Vs,Gideon,Cold,Scapegoat,23,241114,False,0.567,0.957,6,-4.154,1,0.057,3.13e-05,5.7e-05,0.333,0.444,104.999,4,death-metal
+0qkqKBRv8FJKx50yyI9B6b,Gideon,Milestone,Prodigal Son,25,172986,False,0.531,0.947,6,-3.903,1,0.0871,0.000102,0.0,0.126,0.285,105.009,4,death-metal
+5xaU2zWjNaTAxImnusCThR,Suicidal Tendencies,Freedumb,Scream Out,31,149466,False,0.292,0.991,2,-6.74,1,0.118,0.00635,3.17e-05,0.0826,0.221,160.498,4,thrash-metal
+7wcqsaVz5LadhwD12HtOu3,Deafheaven,Infinite Granite,Shellstar,43,366093,False,0.455,0.692,8,-6.914,1,0.0323,0.00751,0.8,0.0767,0.139,136.049,4,black-metal
+2WmbbiWfFEKsSZe6E5GeVe,Nightwish,Century Child,The Phantom Of The Opera,60,248706,False,0.431,0.829,5,-7.713,0,0.0491,7.33e-06,0.03,0.086,0.356,131.891,4,symphonic-metal
+3SGBjlzkYK52pRFisKT3pJ,Satyricon,Live at the Opera,The Pentagram Burns,16,384946,False,0.406,0.977,2,-10.303,1,0.0809,0.00794,0.0497,0.953,0.0594,125.004,4,black-metal
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,1,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+5SXom2SWwb8YxyfpUOQUp2,Cradle Of Filth,Thornography [Special Edition],Temptation,45,227706,False,0.574,0.925,10,-5.423,0,0.0336,0.000108,0.0659,0.214,0.593,135.011,4,death-metal
+35zwdnMhebt8gLF4WaCUMz,Within Temptation,The Unforgiving,In the Middle of the Night,51,311626,False,0.502,0.892,8,-4.014,1,0.0309,0.000197,0.000345,0.384,0.346,100.038,4,symphonic-metal
+77EvqDtVh7ivqcr3H3KRs7,Windir,Soknardalr,Mørket Sin Fyrste,17,447059,False,0.302,0.941,9,-8.74,0,0.0705,0.000533,0.932,0.11,0.0975,140.039,4,black-metal
+1Ap9wotYS99H8R17VONySZ,Megadeth,"The Sick, The Dying… And The Dead!",We’ll Be Back,61,269466,False,0.405,0.96,2,-3.916,1,0.074,0.0001,0.0576,0.182,0.417,174.952,4,thrash-metal
+7q8TrL8QgMP9lWTcaYmGZ5,D.F.C.,Igreja Quadrangular Do Triângulo Redondo,Lucro é o Fim,23,91219,True,0.191,0.944,7,-4.237,1,0.0761,2.34e-05,0.939,0.0905,0.807,196.822,4,death-metal
+67BMusU7lw2tEwR9mPiE5m,Anthrax;Public Enemy,Release Your ANGER,Bring The Noise,0,210493,False,0.599,0.831,2,-7.86,1,0.159,0.000155,2.13e-06,0.117,0.281,121.05,4,thrash-metal
+7v9HNMlAe2UBaEhvaCk5wX,Make Them Suffer,Doomswitch,Doomswitch,58,275205,True,0.25,0.952,9,-4.059,0,0.209,2.45e-05,0.0135,0.0892,0.126,143.022,3,black-metal
+0fPW7rsIvbUmXPpUib0zIl,Born Of Osiris,Angel or Alien,Angel or Alien,44,267649,False,0.447,0.979,4,-4.129,0,0.118,0.000893,0.00125,0.393,0.17,109.056,4,death-metal
+0doBBBGIPsA0rtRQCqQewB,Arch Enemy,The Root of All Evil,The Immortal - 2009 Version,22,227826,False,0.171,0.969,1,-4.388,1,0.092,5.56e-06,0.13,0.0621,0.352,183.496,4,death-metal
+7edQWzDDAPlTLFbwWlNTGy,Noxa,Legacy,The Leader Has Gone,24,121426,True,0.464,0.968,7,-4.667,1,0.123,1.96e-06,0.703,0.117,0.498,115.113,4,death-metal
+3uPgWkH9v25UH8lO0JHeEx,The Ghost Inside,Rise From The Ashes: Live At The Shrine,Mercy - Live,22,235681,False,0.414,0.933,6,-5.982,0,0.0595,8.39e-06,0.000603,0.558,0.142,123.717,4,death-metal
+0XHnYbXteyBDfVvk9EGaPu,Asking Alexandria,See What’s On The Inside,Never Gonna Learn,57,198041,True,0.274,0.922,1,-3.663,0,0.0593,0.000115,0.0,0.123,0.366,105.132,4,symphonic-metal
+1JrdNQDR2X9ZPSM8slPHHo,Anaal Nathrakh,Desideratum,Desideratum,17,238714,False,0.0871,0.789,6,-3.172,1,0.0738,1.92e-06,0.907,0.101,0.222,173.63,4,black-metal
+4wxm46qMm1P7JH1ivm1BQ2,Eluveitie,Ategnatos,Ambiramus,52,173213,False,0.434,0.908,6,-4.715,1,0.0936,0.00791,0.0,0.662,0.461,126.331,4,death-metal
+579dIsL1u8C60C4o1BD5Bp,Testament,Groove Metal Roots & Branches,Hail Mary,0,212733,False,0.38,0.935,1,-7.061,1,0.0595,6.45e-06,0.197,0.111,0.529,109.096,4,thrash-metal
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,thrash-metal
+2EUR6ueSTUDvxCogLDFcnn,I See Stars,Treehouse,Calm Snow,52,191766,False,0.494,0.873,2,-4.128,0,0.0833,0.00341,0.000229,0.136,0.185,90.003,4,death-metal
+3ogfZo3hQDkU2oX99Od2Av,The Browning,Hypernova,Black Hole,23,173373,False,0.524,0.987,0,-2.426,1,0.0638,0.0037,0.00406,0.262,0.441,135.003,4,death-metal
+4Xjj5GXm3uQGtkHmmWrLR2,Cradle Of Filth,Damnation And A Day,Thank God For The Suffering,17,373320,False,0.381,0.976,5,-4.982,0,0.108,0.000159,0.0164,0.539,0.207,161.057,4,black-metal
+6RnniuqnPX6vRyOLzT3HoO,Slaughter to Prevail,Kostolom,Agony,50,237000,True,0.214,0.991,11,-1.419,1,0.241,0.00118,1.62e-05,0.341,0.301,74.998,4,death-metal
+4aYLAF6ckQ5ooGGGM7sWAa,Metallica,Metallica,The Unforgiven,74,386493,False,0.54,0.584,7,-9.579,1,0.0254,0.0108,0.00296,0.253,0.244,139.261,4,thrash-metal
+6J4VOoKhRZFNeWkVH0WTzH,Testament,The Formation of Damnation,For the Glory of...,58,72493,False,0.45,0.892,8,-5.099,1,0.0466,2.8e-06,0.883,0.0878,0.49,120.048,4,thrash-metal
+4LSPVzDF1WcUedAG4hqtcm,Myrkur,Myrkur,Nattens Barn,21,355605,False,0.103,0.846,9,-4.866,1,0.108,0.00814,0.000539,0.0511,0.0588,91.081,5,black-metal
+6byH6lnXKYq7Nsp6uykF4d,Delain,Interlude,We Are the Others - New Ballad Version,41,222200,False,0.509,0.571,0,-6.226,1,0.031,0.0328,0.0,0.106,0.249,119.992,4,symphonic-metal
+29NRiXZGRedKLsb158Wjsu,D.F.C.,Sequência Animalesca De Bicudas E Giratórias,Conversa Pra Boy Dormir,26,69720,True,0.468,0.988,11,-5.415,0,0.111,0.000368,0.0,0.0889,0.371,102.115,3,death-metal
+2wURETE2Z6UwmljCMyEgtY,Impaled Nazarene,Suomi Finland Perkele & Motorpenis,"Total War, Winter War",17,226826,False,0.281,0.972,6,-7.415,0,0.115,1.47e-05,0.0269,0.0676,0.0554,124.823,4,black-metal
+4AF27ulAT3STiX4YcmyZfE,Goretrade,Ten Years Trading... (Bonus Remastered),Cannibal Instinct (Bonus Remastered),34,175348,True,0.288,0.976,7,-5.544,1,0.139,2.47e-06,0.943,0.445,0.349,142.201,3,death-metal
+4SkXeoVShiJY17DfB1hp4p,Brownout;Brown Sabbath,"Brownout Presents Brown Sabbath, Vol. II",Snowblind,17,375112,False,0.438,0.737,1,-6.648,0,0.0335,0.00038,0.00358,0.339,0.402,113.957,4,thrash-metal
+5EtMSb48HPvR3cV7CkEKvX,Therion,Theli,Invocation of Naamah,24,329360,False,0.403,0.727,6,-7.943,0,0.0372,0.000337,0.00218,0.199,0.141,83.934,4,symphonic-metal
+2UbIZiTmozBrmceDdjqqOY,Aversions Crown,Hell Will Come for Us All,Scourge of Violence,20,250377,False,0.38,0.967,1,-3.779,1,0.1,0.00144,8.49e-06,0.111,0.103,135.08,4,death-metal
+7j6b1wVBo73RNkNHFtERPb,Nightwish,Over The Hills And Far Away,Walking In The Air - Live,23,310773,False,0.253,0.695,2,-6.866,0,0.0371,0.0265,0.00142,0.945,0.312,119.181,4,symphonic-metal
+2o3OUVwsBPBypjRQObZsVj,Within Destruction,Lotus,Lotus,47,212858,True,0.33,0.97,8,-4.042,1,0.182,2.77e-05,0.000117,0.355,0.251,82.862,4,death-metal
+6ya3TJYVQfmfpgXdrQlicL,Samael,Worship Him,Morbid Metal,17,294746,False,0.241,0.948,11,-6.984,1,0.114,0.000386,0.614,0.0994,0.0908,139.939,4,black-metal
+5awljpWNO5TpXCyjpvCBbs,Testament,The Ritual,Return to Serenity,53,390800,False,0.294,0.613,1,-10.527,1,0.0384,0.235,0.000494,0.139,0.228,112.385,3,thrash-metal
+6V3SNkvi4BnfmZU0j7s9TQ,Cannibal Corpse,Torture,Scourge of Iron,55,284400,False,0.446,0.977,10,-5.036,0,0.0781,0.000535,0.472,0.105,0.339,172.059,4,death-metal
+4m6sjTCSlVKhy91fE4ZmBI,Liferuiner,No Saints,I Don't Need to Be Straight Edge to Be Better Than You,22,149906,False,0.291,0.786,6,-5.667,1,0.086,1.14e-05,0.446,0.379,0.358,169.085,3,death-metal
+2dXsILW8gzkosqleHAvl0v,Metallica,Ride The Lightning (Remastered),For Whom The Bell Tolls - Remastered,73,309973,False,0.518,0.858,0,-6.147,1,0.0672,0.00563,0.00349,0.0598,0.249,117.897,4,thrash-metal
+5CG9qgl3R1zlKbK6sb9q4Z,Toxic Holocaust,Hell on Earth,Send Them to Hell,21,187533,True,0.324,0.989,9,-3.044,1,0.234,5.1e-05,0.0389,0.113,0.334,178.297,4,black-metal
+7aMY3p166A7gDvbugcE2Ao,Xandria,Ravenheart,Eversleeping,39,220040,False,0.501,0.339,7,-9.22,0,0.03,0.905,0.000105,0.104,0.133,130.026,4,symphonic-metal
+2kcuxvwKb1EP6y15xOF0dP,In Flames,Colony,Pallar Anders Visa,41,101266,False,0.447,0.311,6,-14.888,0,0.0412,0.034,0.791,0.215,0.237,154.91,4,death-metal
+4QN84nnyjO2fhZMbrQJk1g,Annihilator,Metal,Alison Hell,0,300746,False,0.382,0.979,1,-6.113,0,0.0623,0.000213,0.00328,0.17,0.122,101.784,4,thrash-metal
+0t8rptID6gfVZ2oHat2Omj,Nightwish,Highest Hopes-The Best Of Nightwish,Sleeping Sun - 2005 Version,38,264680,False,0.402,0.5,2,-8.18,0,0.0313,0.0443,0.000136,0.0948,0.0729,110.38,4,symphonic-metal
+1pm19jjuM0shHxBGUn619j,Epica;Roy Khan,Live At Paradiso,Trois Vierges - Live At Paradiso,25,312125,False,0.194,0.325,1,-11.794,1,0.0339,0.755,0.0,0.796,0.271,91.343,3,symphonic-metal
+6bcIyAwnUIF34YelBWqMrS,Therion,Les Épaves,L'amour est bleu - Mellow Version,22,207306,False,0.556,0.675,7,-5.169,1,0.0238,0.0248,0.0016,0.144,0.357,105.024,4,symphonic-metal
+3niz4765xdQsl0DSMf4DIx,Rotting Christ,Rituals,Ze Nigmar,44,283380,False,0.414,0.827,5,-4.871,1,0.0518,2.35e-05,0.634,0.359,0.155,123.992,4,black-metal
+5KZZjIPQbnBGbi6y4DEm9H,THOUSAND EYES,BETRAYER,Bastard Angel,21,200613,False,0.435,0.996,4,-2.055,0,0.111,1.19e-06,0.945,0.175,0.123,104.977,4,death-metal
+0QSx3sQoHPNUfg2vwh5tOi,Therion,Theli,Nightside of Eden,25,449280,False,0.439,0.739,9,-7.746,1,0.0339,0.000155,0.0458,0.227,0.308,138.986,4,symphonic-metal
+2gG1YLJfNnuPW8AYNUsaM4,The Browning,Release Your ANGER,Final Breath,0,217371,False,0.137,0.946,7,-4.628,1,0.0988,0.00243,0.00444,0.168,0.171,175.02,4,death-metal
+5MuWGLrqeqYEcpqWMq5M1w,Asking Alexandria,The Black,I Won't Give In,60,229600,False,0.428,0.914,2,-3.017,1,0.0762,0.00594,0.0,0.309,0.494,74.989,4,symphonic-metal
+0IVdlBreRkZn0ftoUwB0T6,Cradle Of Filth,Midian,Her Ghost in the Fog,48,384813,False,0.379,0.996,2,-3.023,0,0.285,0.00457,9.26e-06,0.0981,0.0386,128.049,4,black-metal
+7MvuFyAPlXazo6NUuei5Di,Therion,Les Fleurs du mal,Lilith,26,148626,False,0.328,0.8,7,-4.682,1,0.0374,0.00193,0.00171,0.265,0.428,81.455,4,symphonic-metal
+4rdkmnF3PNXwb9lzShTeIv,Vermilia,Kätkyt,Vedestä Vieraantunut,17,395066,False,0.169,0.878,9,-5.34,1,0.0542,6.37e-06,0.625,0.389,0.306,103.0,4,black-metal
+4N4N0iUDXixLEm7RIIVBJt,Visions of Atlantis,Pirates,Melancholy Angel,49,235520,False,0.544,0.888,2,-8.452,0,0.0355,0.000111,4.71e-06,0.215,0.599,126.001,4,symphonic-metal
+19CKLFb8SrjZ3IlpalE3RU,Nightwish,Decades,"Nightwish - Demo, Remastered",22,348581,False,0.593,0.378,9,-12.861,0,0.0353,0.492,0.000778,0.112,0.0431,121.176,4,symphonic-metal
+45eGeRq5VjhY6RTN1TOefI,Arch Enemy,War Eternal,You Will Know My Name,51,277320,False,0.35,0.947,11,-5.126,0,0.0749,0.000137,0.0196,0.128,0.104,137.137,4,death-metal
+1EcNJPxbjvi4HJ0iPBDkJp,Aversions Crown,Hell Will Come for Us All,Hymn of Annihilation,19,271097,False,0.423,0.978,10,-4.076,1,0.131,0.00165,7.22e-05,0.301,0.0413,120.009,4,black-metal
+2rRR9o5zjuSUwrspfyXKPr,I AM,Eternal Steel,Heaven on Earth,27,209346,False,0.185,0.937,5,-2.979,1,0.0799,8.28e-05,0.862,0.125,0.0599,80.13,4,black-metal
+799XxzSlWNYkuWJxUbuGnF,Metallica,"Stranger Things: Soundtrack from the Netflix Series, Season 4",Master of Puppets,69,514479,False,0.538,0.868,4,-7.357,0,0.0377,0.000599,0.482,0.199,0.556,105.164,4,thrash-metal
+2tsJUuft7vX6VvmnHJuh68,Therion,Beloved Antichrist,Garden of Peace,18,205413,False,0.388,0.578,0,-8.897,1,0.0287,0.000513,0.351,0.122,0.22,88.006,3,symphonic-metal
+2OoS1aZFAFscH1cUiKlazH,Sepultura,Chaos A.D.,Refuse / Resist,57,199226,True,0.475,0.953,2,-6.951,1,0.15,0.000291,0.00338,0.104,0.232,118.033,4,thrash-metal
+17ySQqgJDkPGjtGTIqZAV0,Nightwish,Metal Rock Cavalcade I,10th man down,21,323040,False,0.493,0.911,9,-3.861,0,0.0584,0.0024,0.038,0.0775,0.295,125.799,4,symphonic-metal
+5uh9wvwU20dUHQXo6eAVhG,Therion,Les Fleurs du mal,En Alabama,22,157440,False,0.497,0.919,8,-2.693,0,0.0297,6.95e-05,0.323,0.0565,0.643,101.984,4,symphonic-metal
+2Zm58KSh6PsjO87B9ut5SM,We Butter The Bread With Butter,Der Tag an dem die Welt unterging,Wir gehen an Land,34,144552,False,0.524,0.941,10,-3.762,1,0.0438,0.000273,0.345,0.396,0.346,109.96,4,death-metal
+3337Hpv6XBBEWLwoRsSMxT,Tersivel,For One Pagan Brotherhood,Cruzat Beer House Song,16,241951,False,0.419,0.877,7,-5.468,1,0.102,0.0285,0.00088,0.712,0.397,170.025,4,black-metal
+6WNI9ZetcgXFiISYuJAy6O,Horn,Verzet,Alpenrekorder,19,349565,False,0.402,0.882,11,-6.35,0,0.0446,6.14e-05,0.213,0.273,0.408,90.025,4,black-metal
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+4cmvCy1qP351G79TVpv3cc,Noxa,Propaganda,Negri Kaya,22,121506,True,0.24,0.975,1,-3.231,1,0.126,0.000434,0.000767,0.191,0.41,155.13,4,death-metal
+1erRDf98WX0VllciGPYO1H,Sepultura,Arise,Arise,54,198226,False,0.372,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+4IYykhQKBft7YAM9nlfZVP,Sodom,Bombenhagel,Pestiferous Posse,18,305346,False,0.35,0.985,4,-4.832,0,0.0885,0.000691,0.175,0.106,0.12,105.932,4,thrash-metal
+29mVc6JEoHcHrTzJGSTuz0,Nightwish,Imaginaerum (The Score),Orphanage Airlines,21,274240,False,0.144,0.327,5,-13.468,0,0.0467,0.556,0.865,0.116,0.123,75.915,4,symphonic-metal
+0di1fFxZ2v814evMbAvnzI,Aversions Crown,Tyrant,Earth Steriliser,21,212613,False,0.447,0.983,7,-2.892,1,0.175,0.000231,0.845,0.107,0.0558,140.026,4,death-metal
+5a2hIQWInPjqkkFiUEgxoX,Megadeth,Peace Sells...But Who's Buying (25th Anniversary),Peace Sells - Remastered,63,244160,False,0.322,0.932,4,-4.252,0,0.163,8.57e-05,0.817,0.0969,0.376,138.042,4,thrash-metal
+54nsNmxvp1ZxWcbKTcJynp,Arch Enemy,Deceivers,"Deceiver, Deceiver",55,231773,False,0.185,0.983,1,-7.301,1,0.235,1.66e-05,0.191,0.197,0.102,178.864,4,death-metal
+5UEQgrbhzRSn61cawiXtOP,Nightwish,Oceanborn,Passion And The Opera,22,290626,False,0.526,0.944,9,-3.301,1,0.0461,0.000175,0.0376,0.333,0.441,126.587,4,symphonic-metal
+7KUY10mUbRZuXOlogTckjN,Toxic Holocaust,Chemistry of Consciousness,I Serve...,19,150520,False,0.135,0.988,9,-4.885,0,0.163,1.68e-06,0.163,0.125,0.202,94.429,4,black-metal
+6KqSLa2tVMwtbVGPwss78F,Xandria,Neverworld's End,Euphoria,22,270253,False,0.471,0.895,7,-3.538,0,0.0462,0.00127,0.624,0.092,0.407,94.983,4,symphonic-metal
+3iUJrkMilUVkUKtYZK7Th4,Exodus,Tempo of the Damned,Blacklist,57,376920,False,0.534,0.969,3,-3.378,1,0.0535,0.000359,0.564,0.269,0.598,75.005,4,thrash-metal
+06WUUNf7q18NZfjIsQFsfa,Slayer,Repentless,Delusions of Saviour,73,115413,False,0.223,0.805,8,-8.969,1,0.037,0.000179,0.814,0.0849,0.25,168.165,4,thrash-metal
+28WmNsclKsrVmdv3tDmoYU,Metallica,Kill 'Em All (Remastered),Seek & Destroy - Remastered,69,414720,False,0.445,0.964,9,-5.493,1,0.282,0.037,0.0132,0.0773,0.448,140.817,4,thrash-metal
+4yUk1knKtOuUEPT2iy85Xp,Halestorm,Metal,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+3XclwoQxz4p6Dl7VUf90KW,Black Sabbath,Black Sabbath,N.I.B. (2009 - Remaster),30,366173,False,0.463,0.552,4,-9.403,0,0.0605,0.141,9.66e-06,0.129,0.421,105.495,4,thrash-metal
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+4vWB3h09KFwuS62Ex7NllR,Infant Annihilator,The Elysian Grandeval Galèriarch,Soil the Stillborn,46,239696,True,0.236,0.981,6,-2.635,1,0.299,7.94e-06,0.874,0.325,0.134,160.114,4,thrash-metal
+5uh9wvwU20dUHQXo6eAVhG,Therion,Les Fleurs du mal,En Alabama,22,157440,False,0.497,0.919,8,-2.693,0,0.0297,6.95e-05,0.323,0.0565,0.643,101.984,4,symphonic-metal
+1XIlhPjBt4udymVWzcPrwm,Deafheaven,Sunbather,Sunbather,41,616786,False,0.106,0.804,4,-4.727,0,0.0734,3.25e-06,0.908,0.31,0.112,154.99,4,black-metal
+31Mf3aGYOpabMv9Nl6bLPn,Toxic Holocaust,Hell on Earth,Intro,19,86373,True,0.146,0.993,9,-3.506,1,0.091,1.4e-06,0.91,0.266,0.502,190.151,4,black-metal
+5l4DU5tgUtLqFSxir6y0dp,Asking Alexandria;Within Temptation,Faded Out (feat. Within Temptation),Faded Out (feat. Within Temptation),65,185542,False,0.478,0.937,8,-4.775,1,0.0938,0.000151,0.0,0.198,0.526,74.966,4,symphonic-metal
+13ORo6nuNhNLniacmJVocI,Deicide,Serpents of the Light,The Truth Above,20,165573,False,0.243,0.968,1,-5.706,1,0.135,0.00966,0.952,0.162,0.0792,100.255,4,death-metal
+3U9gogDStAfWxSm91PJuxb,Slayer,South Of Heaven,South Of Heaven,64,298533,True,0.31,0.991,5,-3.769,0,0.316,0.000132,0.085,0.0969,0.0395,140.071,4,thrash-metal
+5hLmTzCYcDgk5Xg65ZR1mv,Undeath,It's Time...To Rise from the Grave,Human Chandelier,22,233237,False,0.213,0.948,1,-5.977,1,0.137,0.000761,0.428,0.385,0.133,102.935,4,death-metal
+2VvmryAbIRod1FwZHtwqC5,Nightwish,Highest Hopes-The Best Of Nightwish,Wish I Had An Angel,60,243213,False,0.438,0.936,0,-6.465,1,0.0533,9.68e-06,0.029,0.47,0.58,79.512,4,symphonic-metal
+57iwwyZCpRRrg1Szgx80Ep,Signs of the Swarm,Vital Deprivation,Malformed Dissonance,21,155122,False,0.432,0.988,5,-3.044,1,0.19,0.000269,0.707,0.201,0.109,120.007,4,death-metal
+2VgyA66xbFdyZ2gBulBA4O,Månegarm,Månegarm,Mother Earth Father Thunder - Bonus Track,18,368250,False,0.424,0.594,0,-8.637,0,0.0391,0.00897,0.056,0.162,0.17,130.001,4,black-metal
+20hf3JXH3YwuWZlpHKW0vd,Incantation,Sect of Vile Divinities,Ritual Impurity (Seven of the Sky is One),18,195217,False,0.196,0.897,0,-11.85,1,0.081,2.22e-05,0.905,0.154,0.063,99.168,4,black-metal
+3pEVBh8MTdpOvVsWrC8Tsr,Nightwish,Oceanborn,The Pharaoh Sails To Orion,22,386519,False,0.346,0.967,2,-3.01,0,0.0613,8.9e-06,0.555,0.713,0.299,157.507,4,symphonic-metal
+4cJhBmeJ7KiBeuy7oxRnZ3,Slayer,Show No Mercy,Black Magic,54,243360,False,0.148,0.908,9,-7.336,1,0.117,4.66e-06,0.614,0.0723,0.0707,93.888,4,thrash-metal
+6FmQMYlxRl56FIgOwvRBil,Whoredom Rife,Pakt,En Lenke Smidd I Blod,16,396210,False,0.355,0.952,6,-6.477,0,0.0814,4.19e-06,0.176,0.36,0.0362,94.972,3,black-metal
+1CWbHFlEu2B9vgdhlvXZD3,Therion,Les Fleurs du mal,Wahala manitou,21,152880,False,0.538,0.937,7,-3.27,1,0.0468,0.00223,0.000895,0.124,0.475,120.016,3,symphonic-metal
+2k96T62rRwtvgFk7Uatx2G,Sodom,Code Red,Addicted to Abstinence,22,126573,False,0.365,0.973,10,-6.117,1,0.242,3.23e-05,1.73e-06,0.0969,0.301,165.225,4,thrash-metal
+5DLN0LQbIAD28k53GJfRPq,Anthrax,Halloween Metal Nights,Indians,1,341066,False,0.349,0.983,4,-5.969,0,0.0564,0.00065,0.000892,0.0365,0.422,105.571,4,thrash-metal
+2t1G0rDxUY9zjML3f5mObb,In Flames,"I, the Mask",I Am Above,58,229816,False,0.545,0.977,10,-5.033,0,0.106,3.12e-05,4.38e-06,0.0704,0.172,120.018,4,death-metal
+4vK7YxgpYLEU97fA3M3EeI,Watain,The Wild Hunt,They Rode On,43,522813,False,0.295,0.44,4,-9.151,0,0.0314,4.16e-05,0.498,0.0811,0.039,133.988,3,black-metal
+25aS4iKJ3DXGN3hpZD9P9W,Skyforger,Kurbads,The Devil Slayer,16,305213,False,0.468,0.997,11,-4.756,0,0.172,3.88e-06,0.696,0.154,0.0389,150.006,4,black-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+60e7mapCS3fWZQukjLXU1H,Chapel Of Disease,"...And as We Have Seen the Storm, We Have Embraced the Eye",Song of the Gods,20,432106,False,0.199,0.953,7,-6.771,0,0.126,4.24e-05,0.745,0.114,0.136,151.273,4,death-metal
+6PkOmPMlH5nPFeoCPU0lo2,Nightwish,Highest Hopes-The Best Of Nightwish,Nemo,59,273626,False,0.498,0.745,3,-6.537,1,0.0351,0.000167,0.000136,0.0681,0.346,125.014,4,symphonic-metal
+5dopdQjLF5kwXNBBSFLr5E,Belphegor,The Last Supper (Remastered 2021),The Last Supper - Remastered 2021,16,237826,True,0.099,0.974,8,-3.688,1,0.0931,3.77e-06,0.843,0.0547,0.147,166.572,4,black-metal
+6UWH9wCKReQNgHHajRCJ3Y,Hulder,Godslastering: Hymns of a Forlorn Peasantry,De Dijle,17,392577,False,0.225,0.25,3,-14.85,1,0.0385,0.921,0.971,0.382,0.0395,124.915,4,black-metal
+7uQF7RMPg9ffIRYIFdDsAJ,The Black Dahlia Murder,Miasma,Novelty Crosses,29,231626,False,0.282,0.989,7,-4.899,1,0.0887,2.89e-05,0.00292,0.392,0.104,105.285,4,death-metal
+2MuWTIM3b0YEAskbeeFE1i,Metallica,Master Of Puppets (Remastered),Master Of Puppets,81,515386,False,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,4,thrash-metal
+0SsQVboirFwfhet6WXUoCk,Therion,Crowning of Atlantis,Mark of Cain,20,301293,False,0.567,0.83,2,-4.733,1,0.0322,3.83e-05,0.47,0.276,0.465,120.003,4,symphonic-metal
+4IUx4rx5SGWSodHpaSvBFO,Nightwish,Hell Rock 2022,End Of All Hope,30,233800,False,0.477,0.946,5,-6.734,1,0.043,6.14e-05,0.0271,0.333,0.559,79.945,4,symphonic-metal
+6QbM4HWbXwOyHLhgLXwjwW,Kampfar,Mellom Skogkledde Aaser,Valdogg,15,526933,False,0.235,0.998,9,-6.489,1,0.139,0.00334,0.094,0.34,0.0256,122.277,4,black-metal
+39CWhngoWrX3oxZM8Y15H0,Hypocrisy,End of Disclosure,Tales of Thy Spineless,25,276324,False,0.169,0.958,10,-5.11,0,0.13,1.87e-06,0.703,0.171,0.139,110.0,3,death-metal
+1R2I1JasOG1PibcUUitvQG,DeadSquad,Horror Vision (original version 2009),Horror Vision,24,244720,True,0.278,0.945,1,-6.767,1,0.16,0.00346,3.12e-05,0.363,0.0706,139.6,4,death-metal
+1ZlTDTGu86Bxf0RQX2RjMz,Miss May I,Curse Of Existence,Into Oblivion,53,255573,False,0.284,0.973,11,-2.558,0,0.111,1.07e-05,0.0,0.51,0.0821,149.065,4,death-metal
+5izs4NElu6H1qZe1xtP4xO,Epica,We Will Take You With Us,Cry For The Moon - Sahara Dust Demo,21,405986,False,0.427,0.625,2,-9.084,0,0.0272,0.108,0.0133,0.0956,0.192,89.978,4,symphonic-metal
+51TG9W3y9qyO8BY5RXKgnZ,Megadeth,Countdown To Extinction,Symphony Of Destruction,74,246733,False,0.61,0.891,4,-5.452,0,0.0587,0.000805,0.0928,0.0657,0.51,139.903,4,thrash-metal
+0bKs1y9PTFBddM9qj0JGvb,Dimmu Borgir,Puritanical Euphoric Misanthropia,Puritania,54,186488,False,0.303,0.969,8,-2.466,1,0.162,9.03e-05,0.844,0.417,0.163,109.384,5,death-metal
+5UEQgrbhzRSn61cawiXtOP,Nightwish,Oceanborn,Passion And The Opera,22,290626,False,0.526,0.944,9,-3.301,1,0.0461,0.000175,0.0376,0.333,0.441,126.587,4,symphonic-metal
+3Tg8JctqoeIwZ3Rue8BjaI,Sepultura,Roots,Ratamahatta,56,270640,False,0.53,0.95,10,-5.402,0,0.0959,0.00801,0.205,0.33,0.411,112.627,4,thrash-metal
+0bKs1y9PTFBddM9qj0JGvb,Dimmu Borgir,Puritanical Euphoric Misanthropia,Puritania,54,186488,False,0.303,0.969,8,-2.466,1,0.162,9.03e-05,0.844,0.417,0.163,109.384,5,black-metal
+2O252lbbCXfgM4xkhLrWD9,Toxic Holocaust,Evil Never Dies,Warfare,19,104493,True,0.341,0.976,2,-5.634,1,0.0716,4.35e-06,0.0125,0.141,0.399,105.38,4,black-metal
+1nLF4GpaJe54kjjBVxIBRS,Bathory,Blood Fire Death,A Fine Day to Die,48,516266,False,0.232,0.931,9,-8.804,1,0.0808,0.00413,0.756,0.0927,0.0371,122.684,4,black-metal
+6lkVbijlh932FSS2I0gDrR,Nightwish,HUMAN. :II: NATURE.,How's the Heart?,52,302179,False,0.543,0.643,2,-8.649,0,0.0278,0.00448,9.51e-06,0.111,0.272,104.006,4,symphonic-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+5sq6Fz0psTD6dNEe2eWvzQ,Brujeria,Brujerizmo,La Traicion,22,117200,False,0.388,0.93,6,-5.208,1,0.17,0.00906,0.00128,0.527,0.502,193.49,4,death-metal
+2m6WXxZmtDQLXVNrL4HOsM,Sepultura,Under a Pale Grey Sky (Live),Orgasmatron - Live Under a Pale Grey Sky,22,396000,False,0.353,0.942,7,-4.512,1,0.081,0.0317,5.79e-05,0.771,0.172,82.549,4,thrash-metal
+3pEVBh8MTdpOvVsWrC8Tsr,Nightwish,Oceanborn,The Pharaoh Sails To Orion,22,386519,False,0.346,0.967,2,-3.01,0,0.0613,8.9e-06,0.555,0.713,0.299,157.507,4,symphonic-metal
+57I1oA81h7ZrvrWkcWKwSU,Heaven Shall Burn,Veto,You Will Be Godless,22,190613,False,0.454,0.987,8,-4.147,1,0.11,6.12e-06,0.663,0.284,0.0619,129.969,4,death-metal
+3MjPdZbYSgzAXjX1ScbSbu,Gruzja,Vulgator (Priest Simulator Ost),Game Over,21,271255,True,0.619,0.865,9,-4.709,1,0.0624,0.0448,0.591,0.126,0.504,129.946,4,black-metal
+4ToRjW6d1RCptxXmdtl28a,Winds of Plague,Against the World,Drop the Match,22,214720,False,0.215,0.894,6,-5.774,0,0.125,3.63e-05,0.0713,0.276,0.35,199.794,4,death-metal
+4IUx4rx5SGWSodHpaSvBFO,Nightwish,Hell Rock 2022,End Of All Hope,30,233800,False,0.477,0.946,5,-6.734,1,0.043,6.14e-05,0.0271,0.333,0.559,79.945,4,symphonic-metal
+7bw1XVQuxg9SmXsoaBWcjJ,Cruel Force,The Rise Of Satanic Might,Queen Of Heresy,19,216213,True,0.188,0.984,6,-5.223,1,0.0945,1.62e-06,0.847,0.195,0.446,186.646,4,black-metal
+7B8vbKyeFTqxCVKvq0nJdt,In The Burial,Lamentations: Of Deceit & Redemption,In Linear Lights,23,478760,False,0.159,0.944,5,-5.807,1,0.0843,0.000388,0.135,0.0925,0.0375,99.721,4,black-metal
+4ABDFuZgqdg9X8Rw02WfYF,Nightwish,Spooky Scary Season,The Phantom Of The Opera,1,248240,False,0.433,0.848,5,-6.92,0,0.0496,6.53e-06,0.0316,0.0982,0.324,131.9,4,symphonic-metal
+3nzC7h6uULmlCuLHoeMGJ7,Bleed From Within,Shrine,Levitate,53,270800,True,0.34,0.977,4,-4.947,0,0.145,0.000311,0.468,0.104,0.118,152.056,4,death-metal
+1WAafipEtn2pAtHYBkBnk6,George Jones;Merle Haggard,"Kickin' Out The Footlights... Again: Jones Sings Haggard, Haggard Sings Jones","Sick, Sober & Sorry",13,185786,False,0.486,0.565,7,-10.279,1,0.0458,0.493,1.11e-05,0.108,0.778,199.911,4,symphonic-metal
+1WAYqvDM2RIEZyrU8sDbVQ,Emmure,Goodbye To The Gallows,"When Everything Goes Wrong, Take The Easy Way Out",22,242213,False,0.338,0.58,0,-8.493,0,0.0597,0.000716,0.505,0.0797,0.0353,81.285,4,death-metal
+2fqzTsHIOdvb0v1GFawwUW,Djevel,Tanker Som Rir Natten,"Vinger som tok oss over en brennende himmel, vinger som tok oss hjem",15,760138,False,0.254,0.67,0,-4.519,1,0.124,6.71e-05,0.696,0.133,0.196,90.286,4,black-metal
+2ZYzHk9xJsGuj7BVtmnyrG,Epica,Design Your Universe,Incentive,22,254905,False,0.612,0.967,7,-5.059,1,0.0778,0.00109,0.396,0.0624,0.302,113.895,4,symphonic-metal
+3pJIlfJpdSYDSjjs5tVWSZ,Yoth Iria,As The Flame Withers,The Great Hunter,34,263454,False,0.145,0.971,6,-4.928,0,0.12,6.89e-06,0.246,0.307,0.0887,199.903,4,black-metal
+6TYQRlRci6AkVrN9a5C7ne,Black Sabbath,Paranoid,War Pigs (2009 - Remaster),33,475000,False,0.369,0.679,6,-9.729,0,0.0742,0.128,0.0125,0.197,0.508,91.883,4,thrash-metal
+6us7QqYJGMGZqej8dKCFGC,Bury Your Dead,Cover Your Tracks,Mission: Impossible,21,162973,True,0.307,0.976,2,-3.552,0,0.279,3.28e-05,0.0106,0.311,0.488,83.527,4,death-metal
+1u2kXFKLaZu0VEpwBy3oQO,Therion,Leviathan,Aži Dahāka,23,186635,False,0.359,0.87,9,-11.567,0,0.0641,0.000486,0.00031,0.103,0.264,186.046,4,symphonic-metal
+5KsKRVuyqD7AvNdpZf0T9g,Anaal Nathrakh,Endarkenment,Punish Them,21,217773,False,0.193,0.696,6,-4.937,1,0.0907,1.06e-06,0.789,0.227,0.0737,170.061,4,death-metal
+799XxzSlWNYkuWJxUbuGnF,Metallica,"Stranger Things: Soundtrack from the Netflix Series, Season 4",Master of Puppets,69,514479,False,0.538,0.868,4,-7.357,0,0.0377,0.000599,0.482,0.199,0.556,105.164,4,thrash-metal
+1L6yEgyroIBQ5dpJRyDs13,Alcest,Spiritual Instinct,Le miroir,38,331048,False,0.237,0.562,3,-11.456,0,0.0285,0.0915,0.815,0.121,0.14,89.009,3,black-metal
+0P1bhrbR7Jgqfj8M7lPt8T,Norma Jean,Meridional,Falling From The Sky: Day Seven,23,377373,False,0.238,0.746,10,-7.64,0,0.0626,0.00183,0.63,0.141,0.177,133.838,4,death-metal
+61AvbHObN4MjfUpJOcOMc0,Rotting Christ,Thy Mighty Contract (Re-issue),Dive the Deepest Abyss,18,350293,False,0.454,0.981,2,-6.525,1,0.169,0.0126,0.741,0.375,0.243,141.338,4,black-metal
+2QW96nCbErC7LypG6k7Yv1,Carach Angren,Lammendam,Phobic Shadows and Moonlit Meadows,17,414866,False,0.199,0.942,5,-5.304,1,0.0804,1.36e-05,0.236,0.288,0.152,151.757,4,black-metal
+35G3OPh6mgKHN9I0W76Ybi,Sargeist,Let the Devil In,As Darkness Tears the World Apart,17,235440,True,0.127,0.971,7,-6.834,0,0.0872,2.27e-06,0.931,0.0727,0.0244,84.483,4,black-metal
+6R9j9XEisGCoIE8r8UtbiS,Nightwish,Imaginaerum,Last Ride of the Day,53,271120,False,0.448,0.951,2,-3.391,0,0.0522,0.00247,0.0,0.0862,0.581,161.974,3,symphonic-metal
+755bvJDSA3LNcNuFgBT9LK,Black Sabbath,Paranoid,Iron Man (2009 - Remaster),37,354213,False,0.334,0.828,9,-9.168,1,0.0985,0.00312,0.0043,0.0949,0.515,157.891,4,thrash-metal
+7xNQMlboWKQvUzI1FxG6Cs,Behemoth,The Satanist,Ora Pro Nobis Lucifer,44,335213,True,0.105,0.986,1,-4.138,1,0.108,1.51e-05,4.6e-05,0.0746,0.0591,176.042,4,death-metal
+5sICkBXVmaCQk5aISGR3x1,Metallica,Metallica,Enter Sandman,81,331266,False,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,4,thrash-metal
+0Yn8DDcuPgxX2zHNM6rfWm,Gaahls WYRD,The Humming Mountain,Awakening Remains - Before Leaving,18,437732,False,0.14,0.789,7,-7.672,1,0.0742,8.02e-06,0.977,0.353,0.0392,100.091,4,black-metal
+6ursmCnbc9oDRGa2yHKkoZ,Sepultura,Roots,Roots Bloody Roots,62,212253,False,0.428,0.874,4,-6.664,0,0.128,0.000337,0.0419,0.311,0.261,119.708,4,thrash-metal
+1fHpIPZ2kQdu8P5BvKLSjP,Asking Alexandria,The Death of Me,The Death of Me - Rock Mix,23,204817,False,0.383,0.973,11,-2.305,0,0.0691,2.92e-05,0.0,0.408,0.264,95.106,4,symphonic-metal
+4QN84nnyjO2fhZMbrQJk1g,Annihilator,Metal,Alison Hell,0,300746,False,0.382,0.979,1,-6.113,0,0.0623,0.000213,0.00328,0.17,0.122,101.784,4,thrash-metal
+09vdbE9riiqUAnS8RNSZ0z,Bodysnatcher,Behind The Crowd,Behind the Crowd,48,194208,True,0.436,0.917,1,-5.125,0,0.152,8.7e-05,0.00159,0.313,0.357,132.282,4,death-metal
+2AuCk65ltMN2JlleGQDVqB,Upon A Burning Body,The World Is My Enemy Now,Fountain of Wishes,25,212453,False,0.337,0.994,1,-2.672,0,0.152,0.000117,0.0,0.182,0.133,110.542,4,death-metal
+01cGujYWGF7JchJLSgf6Ta,Obituary,Cause of Death (Reissue),Chopped in Half,46,225360,False,0.257,0.989,10,-5.918,0,0.0867,6.72e-06,0.521,0.263,0.385,109.267,4,death-metal
+64hNdcvvPXoa1FieLcmvgo,Black Pantera,Agressão,Prefácio,22,187904,False,0.569,0.854,11,-10.937,1,0.102,0.0144,0.0,0.67,0.408,99.029,4,death-metal
+62FvxmmrGxBBEBI6yBkI0E,Suicide Silence,You Must Die,You Must Die,49,162894,True,0.365,0.979,11,-2.911,0,0.214,0.00132,0.000109,0.0803,0.231,123.953,4,death-metal
+6aTxXPFOGzCHzVaN7rn1tH,Misery Signals,Post-Millennial Noise,The Failsafe,0,321880,False,0.262,0.957,10,-4.543,1,0.102,0.0227,0.415,0.211,0.0405,114.814,3,death-metal
+5GqXOR9mrPWRmpRBiJPD24,Sunken,Livslede,Delirium,18,537544,False,0.353,0.363,7,-12.685,1,0.0333,0.00293,0.836,0.1,0.0777,89.999,4,black-metal
+6BOMtKJHWv7ckkV7QN9lCj,Power From Hell,Devil's Whorehouse,Old Metal,20,201131,False,0.331,0.834,7,-9.069,1,0.0752,3.56e-06,0.948,0.0791,0.44,78.337,4,black-metal
+2T8a22ObBmveYxlo98dBIA,Therion,Sitra Ahra,Unguentum Sabbati,19,309986,False,0.521,0.94,7,-4.8,1,0.0627,0.0116,0.000108,0.0988,0.206,115.913,4,symphonic-metal
+6KRyTDrXw3InXjfnOB3iCR,Distinguisher,Under the Weight of Things I Couldn't Change,Without End,22,154000,True,0.307,0.995,1,-1.696,1,0.274,0.00015,0.0416,0.187,0.114,197.087,4,death-metal
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,thrash-metal
+2uWUu4IDtlb3lbBXnMHP8a,Sabbat,Evoke,Godz Of Satan,20,286879,False,0.238,0.976,0,-7.747,1,0.151,0.00158,0.263,0.0969,0.158,89.477,4,thrash-metal
+6tUzFC7gqFurOE3DY3vaO6,Epica,Live At Paradiso,The Phantom Agony - Live At Paradiso,25,653187,False,0.177,0.772,4,-8.065,0,0.159,0.0219,0.0151,0.688,0.0961,169.494,3,symphonic-metal
+0Jt4oMpZKEFRrHYBNglgzt,Dissection,Reinkaos,Maha-Kali,40,366333,False,0.571,0.853,1,-4.733,0,0.0303,3.37e-05,0.126,0.0919,0.648,109.019,4,death-metal
+4GSjFSK1SM78wPTVbsSB0S,Within Temptation;Jacoby Shaddix,The Reckoning,The Reckoning,53,251106,False,0.31,0.825,1,-4.53,1,0.0563,0.00356,0.0,0.641,0.475,89.885,4,symphonic-metal
+1FPSkRkDlthbAceSIIWc4C,Metallica,Master Of Puppets (Deluxe Box Set / Remastered),Welcome Home (Sanitarium) - Remastered,59,387146,False,0.306,0.766,0,-9.693,1,0.0329,0.000324,0.101,0.102,0.42,96.668,4,thrash-metal
+2o62Vcp8ssmCES8M9ncuL8,Malevolence,Self Supremacy,Outnumbered,24,181755,True,0.368,0.973,0,-1.864,1,0.134,0.000496,1.25e-05,0.218,0.293,106.722,3,death-metal
+28WmNsclKsrVmdv3tDmoYU,Metallica,Kill 'Em All (Remastered),Seek & Destroy - Remastered,69,414720,False,0.445,0.964,9,-5.493,1,0.282,0.037,0.0132,0.0773,0.448,140.817,4,thrash-metal
+2jz9uL1m8Ke92TU8qV2PKU,Epica,Live At Paradiso,Façade of Reality - Live At Paradiso,26,529239,False,0.327,0.876,8,-6.83,1,0.0812,0.0177,0.00723,0.765,0.26,177.882,3,symphonic-metal
+4PgjfAQVdKbPiJDhDxcu8i,Epica;Jan Chris de Koeijer,Live At Paradiso,Consign To Oblivion - Live At Paradiso,24,695090,False,0.472,0.834,5,-7.19,1,0.0495,0.0293,0.000514,0.696,0.142,90.032,4,symphonic-metal
+6hFxmjaYW1UZpUFtd4brjm,Epica,Design Your Universe (Gold Edition: Deluxe Edition),The Price of Freedom - Interlude,21,73362,False,0.498,0.616,0,-13.402,1,0.06,0.792,0.791,0.956,0.113,126.021,1,symphonic-metal
+3xa5qphZHzkUVTQmvqxZ82,Within The Ruins,Black Heart,RCKLSS,23,268750,False,0.13,0.95,2,-5.367,1,0.225,0.00652,0.118,0.145,0.0477,199.532,4,death-metal
+4OcselaNWxmd2leSIlT2Uu,Akitsa,Grands Tyrans,Naufrage Contemporain,20,264340,False,0.245,0.991,3,-7.851,1,0.0483,0.000306,0.893,0.197,0.031,194.789,4,black-metal
+0Cubl3v1HBvVdsGpGpHrOD,Black Sabbath,The Mob Rules (2021 Mix),The Mob Rules (2021 Mix),0,204213,False,0.302,0.96,6,-6.242,0,0.0866,0.00052,0.000588,0.261,0.373,144.712,4,thrash-metal
+3HCzXf0lNpekSqsGBcGrCd,Nightwish,Imaginaerum,I Want My Tears Back,48,307533,False,0.492,0.959,4,-3.721,0,0.064,0.00065,0.00013,0.0524,0.558,139.968,4,symphonic-metal
+0hYluuaTZEu95xFDSwFWl5,Panopticon,Kentucky,Killing the Giants as They Sleep,19,744720,False,0.0728,0.873,10,-9.159,0,0.127,0.000941,0.755,0.608,0.0375,177.672,5,black-metal
+5stvXtndN1qb5ZjfNgvP34,Hypocrisy,Virus,Craving for Another Killing,19,230160,False,0.441,0.996,1,-4.058,0,0.157,1.17e-06,0.00376,0.337,0.0861,114.968,4,black-metal
+2ilMGd1JXL1xBXz0IgZL6J,Absu,Tara,She Cries The Quiete Lake,17,250973,False,0.212,0.994,8,-6.043,1,0.125,5.59e-05,0.879,0.304,0.35,89.235,4,black-metal
+1A2MvoVOlxlPlPKJGrKjGY,Chelsea Grin,Desolation Of Eden,Recreant,50,266826,True,0.514,0.935,9,-4.614,1,0.177,0.00104,0.00552,0.255,0.205,125.02,4,death-metal
+6GouRVZ275NAcveDfHW8Z1,The Contortionist,Early Grave,Early Grave,43,231220,False,0.202,0.827,7,-5.838,0,0.0892,0.00148,0.00556,0.0781,0.363,153.247,3,death-metal
+5D14Kvd3GbWhZqKF2tp8MK,Nervosa,Perpetual Chaos,Under Ruins,26,237941,False,0.54,0.91,0,-8.081,1,0.0516,3.37e-05,0.000125,0.104,0.104,125.018,4,death-metal
+7dU9Z24yR9AKuS9cAe2Tj7,Dying Fetus,Reign Supreme,Subjected to a Beating,46,293386,False,0.231,0.983,8,-5.199,1,0.0977,0.000254,0.059,0.506,0.336,161.044,4,death-metal
+6b6uLZsoGhObYexIxnRbIb,Megadeth,Rust In Peace (Expanded Edition),Hangar 18 - Remastered,63,311200,False,0.248,0.988,2,-3.74,1,0.144,5.87e-05,0.84,0.323,0.149,115.301,4,thrash-metal
+63Uyol7YBYfdHpJ9HJDmhN,Hypocrisy,End of Disclosure,44 Double Zero,20,267851,False,0.35,0.891,10,-6.373,0,0.0667,7.8e-06,0.849,0.129,0.179,149.938,4,black-metal
+3RuIhrs6JiJOBQDLtqiJXs,Therion,Cover Songs 1993-2007,Crying Days - 2000,18,271760,False,0.467,0.643,6,-4.501,0,0.0328,0.000542,0.0405,0.334,0.153,120.064,4,symphonic-metal
+2dXsILW8gzkosqleHAvl0v,Metallica,Ride The Lightning (Remastered),For Whom The Bell Tolls - Remastered,73,309973,False,0.518,0.858,0,-6.147,1,0.0672,0.00563,0.00349,0.0598,0.249,117.897,4,thrash-metal
+0XHnYbXteyBDfVvk9EGaPu,Asking Alexandria,See What’s On The Inside,Never Gonna Learn,57,198041,True,0.274,0.922,1,-3.663,0,0.0593,0.000115,0.0,0.123,0.366,105.132,4,symphonic-metal
+5pFg6HasOgUtvo8o1o03Mp,Midnight,Complete and Total Hell,I Am Violator,18,197680,False,0.188,0.972,11,-3.561,0,0.176,1.2e-05,0.00262,0.108,0.166,125.074,1,black-metal
+7MvuFyAPlXazo6NUuei5Di,Therion,Les Fleurs du mal,Lilith,26,148626,False,0.328,0.8,7,-4.682,1,0.0374,0.00193,0.00171,0.265,0.428,81.455,4,symphonic-metal
+5ayf7MiGb4OleRyIg8wOn5,Therion,The Miskolc Experience (Live),Draconian Trilogy - Live in Miskolc,20,517600,False,0.403,0.693,2,-7.506,0,0.0301,0.0091,0.479,0.93,0.169,95.052,4,symphonic-metal
+4nJzTpnrmdSw6QuAXnZh4S,Betraying The Martyrs,Black Hole,Black Hole,56,231762,False,0.518,0.861,6,-6.998,0,0.0493,0.00189,0.000539,0.0747,0.317,100.08,4,death-metal
+6fD8ugOa1yUsW8lGnLFSCZ,Varials,Failure//Control,308,22,180000,True,0.418,0.954,1,-5.608,1,0.104,1.82e-05,0.287,0.312,0.185,92.459,4,death-metal
+7EtQ5CqjSRgItuTYXeEtc9,Orbit Culture,Vultures of North,Vultures of North,54,278181,False,0.402,0.912,9,-3.108,1,0.0711,2.07e-05,0.0165,0.159,0.217,176.007,4,death-metal
+5l5XKQmo9M0XHdNAPddq0i,Surra,Bica na Cara,Vida de Babaca,22,135893,True,0.362,0.994,6,-1.722,1,0.126,0.038,0.000268,0.36,0.454,103.668,4,death-metal
+5FuSVfwydyOF2ikIRdTBj8,Eldamar,The Force of the Ancient Land,The Border of Eldamar,19,801287,False,0.405,0.428,4,-8.845,0,0.0295,0.00189,0.944,0.289,0.103,99.994,4,black-metal
+3leX6DLRl06RD1effNpB0Q,Wormwood,Arkivet,The Archive,22,429540,False,0.424,0.948,9,-6.401,0,0.096,0.0002,0.00104,0.111,0.134,136.047,4,black-metal
+6bcIyAwnUIF34YelBWqMrS,Therion,Les Épaves,L'amour est bleu - Mellow Version,22,207306,False,0.556,0.675,7,-5.169,1,0.0238,0.0248,0.0016,0.144,0.357,105.024,4,symphonic-metal
+22GbAGb80ZZNgm2yrBMnpR,Metallica,Metallica,Wherever I May Roam,66,403866,False,0.55,0.824,9,-7.848,0,0.0347,0.000362,0.00115,0.0865,0.332,131.387,4,thrash-metal
+6nswV1Lz3OZkaiCJfmVUOa,Metallica,Reload,The Unforgiven II,66,396440,False,0.497,0.89,8,-4.559,0,0.0445,0.00055,0.00129,0.255,0.249,133.047,4,thrash-metal
+0HePrRuNswH5vUk7LgEMDZ,Midnight,Sweet Death and Ecstasy,Poison Trash,18,197224,True,0.111,0.982,8,-3.348,1,0.0949,3.47e-05,0.000157,0.105,0.178,169.426,4,black-metal
+2vnqCuzEiphRxmqeNwoMM5,Suicidal Tendencies,Freedumb,Hippie Killer,30,189906,False,0.464,0.991,5,-4.083,1,0.0817,0.00456,0.0,0.172,0.394,97.341,4,thrash-metal
+5WSqNyypJ0hITVpvJMetqQ,Thurisaz,Scent of a Dream,Years of Silence,49,431293,False,0.26,0.738,1,-7.454,0,0.0378,0.283,0.0782,0.0799,0.242,117.157,3,black-metal
+0v3WyEt2g04WFpfVwcnfXm,Candlemass,Epicus Doomicus Metallicus,Solitude,49,338440,False,0.229,0.704,9,-4.692,1,0.0342,0.000135,0.000384,0.15,0.179,74.6,4,death-metal
+5LyRtsQLhcXmy50VXhQXXS,Megadeth,Rust In Peace (Expanded Edition),Holy Wars...The Punishment Due - Remastered,69,392600,False,0.325,0.985,11,-3.941,1,0.151,0.00177,0.107,0.351,0.221,125.307,4,thrash-metal
+0iOBEYsK8sNboeXr4RvDdu,Kvelertak,Splid,Delirium tremens,18,490886,True,0.327,0.941,4,-7.591,0,0.107,3.78e-05,0.88,0.236,0.093,80.2,4,black-metal
+1nsmgPBGEqwseR25HqcjK5,Benediction,Scriptures,Tear Off These Wings,21,259820,True,0.218,0.995,8,-5.973,1,0.1,2.78e-05,0.536,0.34,0.204,145.233,4,death-metal
+0snhTvHSZ5ACrvdcVWeCDS,Make Them Suffer,How To Survive A Funeral,Erase Me,51,224610,False,0.488,0.903,6,-5.244,1,0.0698,0.000103,0.000219,0.218,0.189,94.037,4,black-metal
+3iVv2yAUAlh6rzVrqV55xU,Bleeding Through,The Truth,For Love And Failing,23,213640,True,0.268,0.985,4,-2.406,0,0.211,0.000907,0.0,0.361,0.121,144.854,4,death-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+1FUyPiN2gSCXDNVuD5MgvE,Vintersorg,Cosmic Genesis,The Enigmatic Spirit,20,283386,False,0.579,0.534,9,-8.287,0,0.0406,0.226,0.0,0.1,0.145,120.01,4,black-metal
+0lx2eqqsCRaTHlUU0PPZ5O,Within Temptation;Annisokay,Shed My Skin,Shed My Skin (feat. Annisokay),53,270479,False,0.476,0.941,4,-3.488,0,0.0697,0.000224,5.5e-06,0.0999,0.222,93.478,4,symphonic-metal
+28xBhJANeXqB22ATSpTYiv,Moonspell,Wolfheart [Deluxe Edition (re-mastered & live versions)],Ataegina - re-mastered version,21,240133,False,0.47,0.799,4,-5.456,0,0.0317,0.00279,0.489,0.633,0.101,130.94,4,black-metal
+5IZHpZCVn1GnoPlODpsfmx,Burzum,Det Som Engang Var,Lost Wisdom,43,278173,False,0.235,0.71,4,-7.075,0,0.0535,0.000242,0.806,0.0642,0.182,134.746,4,black-metal
+13TqvB91x3vY05Ym9OJ9It,Astronoid,Astronoid,Fault,17,334000,False,0.379,0.93,0,-8.233,1,0.102,0.000124,0.208,0.0771,0.0396,155.01,4,black-metal
+0qwMoAstkTXlWE8lQJBRzY,SLANDER;Crankdat;Asking Alexandria,Kneel Before Me,Kneel Before Me,54,201600,False,0.596,0.97,11,-2.7,0,0.0691,0.00208,0.00419,0.101,0.279,150.003,4,symphonic-metal
+14JG4VbsqeLsFuDJlkybOT,Cradle Of Filth,From The Cradle To Enslave,From the Cradle to Enslave,48,397160,False,0.342,0.926,7,-6.313,0,0.0939,3.96e-05,0.683,0.186,0.0972,147.313,4,black-metal
+7MvuFyAPlXazo6NUuei5Di,Therion,Les Fleurs du mal,Lilith,26,148626,False,0.328,0.8,7,-4.682,1,0.0374,0.00193,0.00171,0.265,0.428,81.455,4,symphonic-metal
+1Q2m9FSjgRdE6fQIXhNSLH,Delain,Interlude,Collars and Suits,21,281093,False,0.459,0.881,1,-5.597,0,0.19,0.000386,0.000493,0.0515,0.324,140.076,4,symphonic-metal
+1ta6KHy4yuGSxW3mKNcvZN,Rotting Christ,Triarchy of the Lost Lovers,One With the Forest,18,273733,False,0.29,0.922,6,-7.833,0,0.051,4.48e-05,0.783,0.0749,0.323,137.527,4,black-metal
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,thrash-metal
+7ewvRAerH1lASqFO76svOL,Desaster,Churches Without Saints,Learn to Love the Void,18,238000,False,0.227,0.962,8,-6.199,1,0.219,1.81e-06,0.349,0.0809,0.434,92.738,4,black-metal
+6orPCwBWW9Li0CBseEcDHJ,Portrayal of Guilt,CHRISTFUCKER,Possession,20,242055,False,0.283,0.873,6,-7.383,1,0.103,0.000396,0.663,0.151,0.256,129.905,3,black-metal
+45QBxSzECtkZ6oiOP5etEw,Nordjevel,Nordjevel,Denne Tidløse Krigsdom,16,265333,True,0.312,0.952,1,-5.986,1,0.188,1.99e-05,0.825,0.234,0.0375,119.925,3,black-metal
+4Qe4jyrOpoUeph5U8gwwxA,Avantasia,"The Metal Opera, Pt. I",Farewell,49,392400,False,0.457,0.645,11,-5.97,1,0.0267,0.00388,0.0,0.185,0.148,98.679,3,symphonic-metal
+1GzwDazWVTlh2GxPiCTAPc,Hypocrisy,Hypocrisy,Apocalyptic Hybrid,21,244533,True,0.366,0.97,2,-7.273,0,0.0836,1.64e-06,0.0533,0.415,0.0664,122.419,4,death-metal
+0Y32zGpqjKqDVZNelcqILu,Sólstafir,Svartir Sandar,Stormfari,17,217533,False,0.265,0.932,5,-2.794,1,0.123,0.0302,0.434,0.112,0.175,75.024,4,black-metal
+0Fk2NcRQpungRyAx9Y6KTk,Asking Alexandria,Stand Up And Scream,A Prophecy,58,213640,True,0.233,0.943,2,-3.443,0,0.171,0.00878,0.0,0.359,0.0501,149.992,4,symphonic-metal
+0QSx3sQoHPNUfg2vwh5tOi,Therion,Theli,Nightside of Eden,25,449280,False,0.439,0.739,9,-7.746,1,0.0339,0.000155,0.0458,0.227,0.308,138.986,4,symphonic-metal
+1bMvYcb56PjZmxjvAxckGz,Deströyer 666,Wildfire,Wildfire,17,212040,False,0.126,0.993,1,-4.156,1,0.117,0.00123,0.906,0.0879,0.0377,180.015,4,black-metal
+6KQ7xFNoyUdTR12ZtEpIBB,Månegarm,Fornaldarsagor,Krakes sista strid,17,458747,False,0.203,0.876,7,-4.834,1,0.0388,9.7e-06,0.00137,0.335,0.332,140.014,3,black-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+430b2oO6J44m39VBLKE2De,Vargrav,Reign in Supreme Darkness,In Streams from Great Mysteries,17,354051,False,0.124,0.871,0,-8.292,1,0.0806,1.65e-05,0.908,0.37,0.0359,82.308,3,black-metal
+6WuqJLVZcyJklg7lIozAO8,Cradle Of Filth,Nymphetamine Special Edition,Nymphetamine Fix,54,302360,False,0.462,0.905,0,-3.825,0,0.0438,0.00066,0.0402,0.0839,0.253,122.925,3,black-metal
+7H65hYIqd6bb3q57tUBiI5,At The Gates,To Drink From The Night Itself,Daggers of Black Haze,22,282133,False,0.202,0.909,4,-6.283,0,0.0609,6.76e-06,0.847,0.142,0.325,114.948,4,death-metal
+4aYLAF6ckQ5ooGGGM7sWAa,Metallica,Metallica,The Unforgiven,74,386493,False,0.54,0.584,7,-9.579,1,0.0254,0.0108,0.00296,0.253,0.244,139.261,4,thrash-metal
+3Da5CbGVl354ZoVhOaUUEW,SuidAkrA,Book of Dowth,Over Nine Waves,45,117960,False,0.261,0.954,1,-5.707,1,0.0795,1.98e-05,0.744,0.757,0.0776,174.949,4,black-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+3xDalRZsaBGpjlaOAD5l1R,Finntroll,Jaktens Tid,Födosagan,24,302866,False,0.409,0.97,4,-5.346,1,0.0574,6.21e-06,0.0582,0.309,0.392,136.395,4,death-metal
+0J1SNj1evDHEYHZzHT7Zps,Aversions Crown,Hell Will Come for Us All,Caught in the System,21,240381,False,0.41,0.946,5,-3.776,1,0.066,0.00692,0.0,0.35,0.0781,135.036,4,black-metal
+39k3wsNvgJ9dEyhPPraXzZ,Xanthochroid,Blessed He With Boils,Long Live Our Lifeless King,16,535133,False,0.271,0.815,9,-7.045,0,0.06,0.00013,0.105,0.412,0.11,126.994,4,black-metal
+4ylGrwZtV1LlXtCYKldorX,Epica,The Solace System,Decoded Poetry,23,385556,False,0.469,0.931,7,-5.361,1,0.0463,0.000154,0.0501,0.341,0.383,91.981,4,symphonic-metal
+0XikAPBz2QDHjZxDQCGe06,Midnight,Shox of Violence,Who Gives a Fuck?,19,175667,True,0.228,0.971,10,-4.048,0,0.0798,3.51e-06,0.75,0.152,0.628,160.195,4,black-metal
+6uwjUM0Y0NfPmLBKVAbUXW,Nightwish,Dark Passion Play,Bye Bye Beautiful,47,254615,False,0.489,0.873,9,-5.38,1,0.045,0.000127,0.000778,0.108,0.386,148.046,4,symphonic-metal
+0njSyA8BBKgkX0ihQcqeN7,Les Discrets,Septembre et ses dernières pensées,Song for Mountains,39,358866,False,0.42,0.894,8,-6.813,0,0.0609,0.00714,0.526,0.336,0.198,139.967,3,black-metal
+39lsUA9UsXxOly6beQTDmq,Within The Ruins,Elite,New Holy War,20,222093,False,0.524,0.982,11,-3.318,1,0.112,0.00203,0.00103,0.186,0.37,119.976,3,death-metal
+1gUrib1Zs9FCjWQhqQX6dh,Eisregen,Marschmusik,Fleischbrand,24,329426,False,0.446,0.939,9,-6.032,1,0.0771,2.06e-05,0.00343,0.354,0.315,140.049,4,death-metal
+0qwMoAstkTXlWE8lQJBRzY,SLANDER;Crankdat;Asking Alexandria,Kneel Before Me,Kneel Before Me,54,201600,False,0.596,0.97,11,-2.7,0,0.0691,0.00208,0.00419,0.101,0.279,150.003,4,symphonic-metal
+0aSUQTpQ4JsXPKh4xpTtoK,LIK,Misanthropic Breed,Faces of Death,18,213493,False,0.269,0.986,6,-5.581,0,0.163,1.36e-06,0.00359,0.343,0.174,164.093,4,black-metal
+4ps1FV7eEM3WE9JzqwQn0s,Mercyful Fate,Return of the Vampire,Burning the Cross,23,527466,False,0.23,0.842,4,-9.015,0,0.048,0.0177,0.623,0.196,0.549,142.633,4,death-metal
+5IX4TbIR5mMHGE4wiWwKW0,Metallica,...And Justice For All,One,73,447440,False,0.437,0.695,7,-9.447,1,0.0617,0.00111,0.0857,0.124,0.413,102.178,3,thrash-metal
+24cUJMEiMkGfdhTgt2ZUgV,Halestorm,Rock - Best of 2022,The Steeple,4,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,symphonic-metal
+3WqC2pXnXyQHV6sxpKmiLk,Burgerkill,Killchestra,Only the Strong,28,349013,True,0.513,0.941,5,-7.257,0,0.0709,6.79e-06,0.0249,0.165,0.251,121.891,3,death-metal
+1uUq5kvGpoH5HTyw3nuh4X,Vader;Maciej Taff,Necropolis,Fight Fire With Fire,49,245853,False,0.404,0.996,6,-2.738,1,0.141,4.34e-06,0.162,0.303,0.185,187.018,4,black-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+2YTwVDQOSGclX2N3AKetOP,Metallica,Kill 'Em All (Deluxe / Remastered),The Four Horsemen - Remastered,60,432546,False,0.224,0.938,0,-6.907,1,0.408,0.00157,0.0765,0.106,0.327,203.79,4,thrash-metal
+16QKHy8t8ahorxJd2Gn2Eu,Nightwish,From Wishes To Eternity (Live),The Pharaoh Sails To Orion - Live,21,399733,False,0.191,0.978,7,-3.395,1,0.0987,0.000112,0.00649,0.964,0.269,155.759,4,symphonic-metal
+0BuW9fqt8OwlvrId32gH10,The Contortionist,Language,Language I: Intuition,47,324106,False,0.304,0.737,5,-5.976,0,0.0379,0.0143,0.74,0.279,0.156,97.583,3,death-metal
+755bvJDSA3LNcNuFgBT9LK,Black Sabbath,Paranoid,Iron Man (2009 - Remaster),37,354213,False,0.334,0.828,9,-9.168,1,0.0985,0.00312,0.0043,0.0949,0.515,157.891,4,thrash-metal
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+7qCHqtiSiX3T09ErW718yQ,J Balvin;Metallica,Wherever I May Roam,Wherever I May Roam,54,158573,False,0.685,0.731,5,-6.121,1,0.033,0.00217,0.0,0.372,0.171,128.968,4,thrash-metal
+61Hd6XNqSpreYVEiMkaHvq,Opeth,Damnation,Death Whispered a Lullaby,44,349746,False,0.567,0.445,7,-7.226,1,0.0283,0.0207,0.000887,0.0882,0.143,149.985,4,death-metal
+07eSFBlsPsdyi6GPofl6Y9,Darkthrone,Arctic Thunder,Deep Lake Trespass,18,288491,False,0.294,0.998,11,-4.266,1,0.162,1.69e-05,0.352,0.152,0.0339,133.99,4,black-metal
+1AHKz2rFjUWKyC7D2nir5Q,Overkill,Groove Metal Roots & Branches,Dreaming in Columbia,0,240960,False,0.513,0.955,6,-6.854,0,0.0673,0.00047,0.687,0.0419,0.417,132.112,4,thrash-metal
+4XBtYPGMAYJkuJu2w4pmYl,Within Temptation,The Unforgiving,Faster,61,263973,False,0.505,0.932,6,-2.894,0,0.0412,0.00115,0.000195,0.135,0.486,120.008,4,symphonic-metal
+69Yia3qCLw6N9U80WhLwLn,Death,The Sound of Perseverance - Reissue,Voice of the Soul,58,223933,False,0.158,0.572,7,-6.293,0,0.0346,0.000926,0.893,0.144,0.347,79.176,3,death-metal
+2hh0DDX5PQH8xvS02VHSbP,DeadSquad,Catharsis,Augmented Devastation,25,163905,False,0.26,0.956,8,-3.577,1,0.191,6.4e-05,0.716,0.0828,0.104,130.582,3,death-metal
+1yk4Uky6oS50wHByc90zsq,Kvelertak,Kvelertak,Utrydd Dei Svake,25,382893,True,0.364,0.747,9,-4.582,1,0.057,0.000163,0.75,0.102,0.117,161.953,4,black-metal
+7c0k1qJjbnu3cvGLcxPs52,Warmoon Lord,Battlespells,The Key of The Moonpiercer,20,415491,False,0.167,0.855,0,-13.9,1,0.0575,1.79e-05,0.883,0.116,0.0757,154.105,4,black-metal
+0WTc2jsUgF4Y2MOz0aYvsR,Megadeth,Hidden Treasures,Paranoid,65,152600,True,0.355,0.973,4,-7.004,0,0.071,0.000359,0.154,0.142,0.628,187.385,4,thrash-metal
+6wbbbTyX0vqVN85ZwiRIm3,Burgerkill,Beyond Coma and Despair,Atur Aku,36,273880,True,0.462,0.98,4,-5.191,0,0.0912,0.00015,0.0278,0.138,0.244,99.827,4,death-metal
+5BPt6TIksOE5kpBR9QQO9n,Centinex,Redeeming Filth,Death Glance,20,144822,False,0.369,0.959,10,-4.954,0,0.107,3.57e-06,0.905,0.187,0.401,154.752,4,death-metal
+2pEqnB3FpBHDKJrsXI93Jf,Amorphis,Circle (Bonus Version),Shades of Grey,21,327814,False,0.394,0.885,9,-4.079,0,0.0575,8.68e-05,0.856,0.0956,0.349,135.024,4,death-metal
+5faD0zZ9fMa3J5ZN3lIWtp,Entombed,Left Hand Path,Left Hand Path,46,399093,False,0.166,0.927,7,-8.797,1,0.0736,3.94e-06,0.651,0.344,0.219,131.984,4,death-metal
+4ojxYY8trYxQBH06Ej6EPk,Overkill,Metal,Ignorance & Innocence,0,300373,False,0.496,0.853,7,-6.728,1,0.0383,0.000531,0.0959,0.266,0.612,137.295,4,thrash-metal
+6mRBgY035bPtHXGen5XsYg,Burgerkill;Ahmad Dhani,Satu Sisi,Satu Sisi,32,266666,False,0.468,0.865,7,-12.299,1,0.0841,4.36e-05,0.0467,0.0866,0.286,144.06,4,death-metal
+3sXpEwbsoFfneTtOLwrbyu,Primordial,To the Nameless Dead,Traitors Gate,18,409506,False,0.0689,0.957,7,-5.024,1,0.0904,2.39e-06,0.258,0.0706,0.0647,185.43,1,black-metal
+5Vaz1iHgNjvAGNMfpdSBsK,Bölzer,Aura,C.M.E.,17,358666,True,0.164,0.949,1,-11.465,0,0.0709,2.64e-06,0.62,0.22,0.0584,138.396,4,black-metal
+2QYy0J6BjijIuF5e0s40bN,Surra,Ninho de Rato,"Brasileiro, Otário e Triste",24,54520,False,0.439,0.988,5,-5.82,1,0.125,0.00396,0.104,0.309,0.103,95.176,4,death-metal
+3rHuhOKNZr91fXM9HHbdNb,Finntroll,Ur Jordens Djup,Korpens Saga,25,206160,False,0.366,0.983,2,-3.54,0,0.0508,1.89e-06,0.349,0.365,0.464,97.571,1,death-metal
+3HCzXf0lNpekSqsGBcGrCd,Nightwish,Imaginaerum,I Want My Tears Back,48,307533,False,0.492,0.959,4,-3.721,0,0.064,0.00065,0.00013,0.0524,0.558,139.968,4,symphonic-metal
+1Ukudp67IGGBFRx08lxGtC,Thorns,Thorns,Shifting Channels,17,377026,False,0.606,0.674,11,-6.982,0,0.0714,0.151,0.0431,0.11,0.102,112.505,4,black-metal
+5oAvb7LpUBwQfBtQ6hmS4Q,Nightwish,Endless Forms Most Beautiful (Deluxe Version),Élan,58,287000,False,0.576,0.588,5,-9.553,1,0.0308,0.0124,0.000177,0.148,0.316,127.969,4,symphonic-metal
+0RsOUnm1wNpbXxZ8a4abOP,Nightwish,Dark Passion Play,Amaranth,58,231444,False,0.558,0.859,2,-3.992,0,0.0421,0.00469,0.00196,0.0831,0.31,127.98,4,symphonic-metal
+4tFf6fOGHCqv00VDYEKJrT,Masacre,Reqviem,Cortejo Fúnebre,21,537640,False,0.25,0.863,11,-11.353,1,0.11,2.86e-05,0.173,0.0823,0.366,157.613,4,death-metal
+4CglFxZhBqgr8nUMDjxalT,The Black Dahlia Murder,Abysmal,That Cannot Die Which Eternally Is Dead,26,269438,False,0.412,0.994,4,-3.362,0,0.145,2.8e-05,0.24,0.139,0.044,92.999,4,death-metal
+4VcN84ZdC7doe4yoIarJUA,Testament,Brotherhood of the Snake,Brotherhood of the Snake,52,253988,False,0.289,0.989,1,-4.006,1,0.11,6e-06,0.179,0.122,0.198,136.419,4,thrash-metal
+0hAIs32U2SmJcXymlcyF8h,Asking Alexandria,Asking Alexandria,Alone In A Room,64,245861,True,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,4,symphonic-metal
+6kYGUoIczys9WNpuQGBdoG,Urgehal,Goatcraft Torment,Selvmordssalme,16,360000,False,0.0679,0.917,9,-6.398,1,0.0686,1.51e-06,0.000689,0.211,0.194,184.386,4,black-metal
+4yUk1knKtOuUEPT2iy85Xp,Halestorm,Metal,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+24cUJMEiMkGfdhTgt2ZUgV,Halestorm,Rock - Best of 2022,The Steeple,4,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,symphonic-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+3CC6lcyI1em6JDrR4xsSbB,The Haunted,rEVOLVEr (Deluxe Edition),Sweet Relief,22,208640,False,0.476,0.992,2,-3.297,1,0.129,1.26e-06,0.165,0.269,0.173,105.016,4,death-metal
+7cHlzfauy7MZYQyOzldnBs,Naglfar,Harvest,Way of the Rope,16,356560,False,0.215,0.956,11,-6.195,1,0.0975,1.56e-06,0.87,0.119,0.176,129.865,4,black-metal
+2aiM5sgeG0yHZ1kEh3N9iq,LIK,Misanthropic Breed,Female Fatal to the Flesh,20,276480,True,0.17,0.912,6,-6.124,1,0.0659,2e-06,0.000285,0.195,0.308,125.603,4,black-metal
+5Pd7suZX0i2HTHnhJSf5eG,Nightwish,Imaginaerum,Song Of Myself - Instrumental,21,752200,False,0.342,0.707,0,-7.844,1,0.043,0.188,0.369,0.149,0.0552,76.924,4,symphonic-metal
+2MuWTIM3b0YEAskbeeFE1i,Metallica,Master Of Puppets (Remastered),Master Of Puppets,81,515386,False,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,4,thrash-metal
+4izC2yID6txfr8xXN6xbZQ,Entombed,"To Ride, Shoot Straight and Speak the Truth",They,20,245720,False,0.179,0.994,8,-5.352,1,0.191,0.000316,0.916,0.0885,0.0398,138.382,4,death-metal
+1pF5SqpGCz8tHh0MR88Tg4,Celtic Frost,Into the Pandemonium,Mexican Radio,8,209320,False,0.242,0.931,7,-7.779,1,0.0777,9.83e-06,0.0792,0.0371,0.424,178.937,4,black-metal
+6pENUmGEfCNLwd5QY3j60T,Sarcófago,The Laws of Scourge,The Laws of Scourge,20,198360,False,0.288,0.95,10,-7.497,0,0.061,1.64e-05,0.878,0.304,0.442,132.454,4,black-metal
+5HMhCuc9L0z4XGwfNS4YpQ,Slayer,Soundtrack To The Apocalypse (Deluxe Version),New Faith,29,185826,True,0.25,0.992,6,-2.926,1,0.202,0.000878,0.000879,0.0948,0.158,88.336,4,thrash-metal
+0VEyOWSkQ0yiYJiMxzAkS8,Therion,Les Fleurs du mal,Dis moi poupée,22,202186,False,0.513,0.935,11,-2.608,0,0.0425,0.0021,0.0765,0.162,0.606,115.047,4,symphonic-metal
+5h5LOXw9vBTqMoPDOHxbar,Paradise Lost,Icon,Deus Misereatur,21,117400,False,0.395,0.433,0,-13.474,0,0.0316,0.00108,0.941,0.0739,0.117,105.878,4,death-metal
+3BuUE97Z9XW1qoJ0Qxa7ER,Anaal Nathrakh,Vanitas,The Blood-Dimmed Tide,16,200920,True,0.292,0.67,6,-2.811,1,0.133,3.66e-05,0.315,0.326,0.0972,129.871,4,black-metal
+20GcfxNGnwLuhuRPkigmSX,Primordial,To the Nameless Dead,No Nation On This Earth,17,492000,False,0.0954,0.869,2,-5.071,0,0.0802,3.2e-06,0.31,0.348,0.137,89.08,4,black-metal
+6NeUmwrvmkIuTO9dh3qOwT,Dark Tranquillity,Fiction,Misery's Crown,48,254106,False,0.464,0.964,6,-4.338,1,0.0603,0.000128,0.205,0.324,0.585,135.078,4,death-metal
+46KUIRcVKflqj3uxUstwsH,Mercyful Fate,9,Buried Alive,24,281333,False,0.488,0.844,2,-10.276,1,0.0393,9.6e-05,1.5e-06,0.376,0.67,125.992,4,death-metal
+41E5ZIq8nAekTVTYbGa8sk,Mörk Gryning,Hinsides Vrede,A Glimpse of the Sky,19,176431,False,0.13,0.941,2,-8.255,0,0.0953,5.23e-06,0.89,0.106,0.291,179.918,3,black-metal
+02oW7CYWjfiCs1rZs7GNes,Within Temptation,The Heart Of Everything,All I Need,57,290946,False,0.234,0.73,10,-4.854,1,0.0446,0.199,4.77e-06,0.13,0.12,152.972,3,symphonic-metal
+6sk5whQY8BNVqodOygHYpM,Cruel Force,The Rise Of Satanic Might,Forces Of Hades,17,137760,True,0.156,0.997,1,-5.26,0,0.22,1.45e-06,0.384,0.0682,0.0594,148.712,4,black-metal
+7sxiG6BuAb28nh3qGmbz7L,Born Of Osiris,Tomorrow We Die Alive,Machine,49,264773,False,0.443,0.991,1,-3.458,1,0.281,0.00398,0.000579,0.106,0.0519,155.045,4,death-metal
+4v3Iyw1DP578eRpoQPpcv9,Lamb of God;Megadeth;Dave Mustaine,Wake up Dead (feat. Dave Mustaine),Wake up Dead (feat. Dave Mustaine),50,223413,False,0.225,0.937,0,-4.596,1,0.124,9.51e-05,0.163,0.119,0.351,161.195,4,thrash-metal
+5ohfpKB5tt275f4Y4lQ9F7,Slayer,Reign In Blood (Expanded),Angel Of Death,60,291773,False,0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459,4,thrash-metal
+7866E49sLyI938dEqxi8a4,Metallica,Ride The Lightning (Remastered),Fade To Black - Remastered,56,417226,False,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,4,thrash-metal
+5EtMSb48HPvR3cV7CkEKvX,Therion,Theli,Invocation of Naamah,24,329360,False,0.403,0.727,6,-7.943,0,0.0372,0.000337,0.00218,0.199,0.141,83.934,4,symphonic-metal
+2O7UGwJPVlix15Wn4sa5vw,Metallica,Ride The Lightning (Deluxe / Remastered),Ride The Lightning - Remastered,60,396986,False,0.257,0.975,9,-6.128,1,0.175,6.07e-05,0.1,0.222,0.276,149.312,4,thrash-metal
+19CKLFb8SrjZ3IlpalE3RU,Nightwish,Decades,"Nightwish - Demo, Remastered",22,348581,False,0.593,0.378,9,-12.861,0,0.0353,0.492,0.000778,0.112,0.0431,121.176,4,symphonic-metal
+45znDER6ghdltzbU6EyvPR,Unanimated,Ancient God Of Evil,Eye Of The Greyhound,18,271413,False,0.253,0.956,7,-6.385,1,0.157,2.54e-05,0.00612,0.44,0.126,129.066,4,black-metal
+5GkFWVUlCk5zbrmfAl7p57,Antichrist Siege Machine,Purifying Blade,Defiled in Iniquity,17,188312,False,0.114,0.991,6,-6.103,1,0.115,1e-06,0.84,0.287,0.0646,176.516,4,black-metal
+4r0iMLzHLz4Q5OXMCAElDO,Rings of Saturn,Embryonic Anomaly Remake,Abducted Remake,20,248640,False,0.471,0.989,4,-2.218,0,0.183,0.000808,0.7,0.156,0.194,124.98,4,death-metal
+2W68NbenOWhxY0nqI9pchB,Hate,Auric Gates of Veles,Triskhelion,20,243280,False,0.371,0.993,1,-5.726,1,0.217,5.78e-06,0.296,0.342,0.0372,134.087,4,death-metal
+7gPherwdZt8Pdh8Srhw5HR,Carpathian Forest,Black Shining Leather,Lunar Nights,16,394373,True,0.171,0.807,8,-7.643,0,0.055,3.31e-06,0.84,0.156,0.151,124.244,4,black-metal
+4PE5KCTtRcMhQUHBXvBlXR,Cradle Of Filth,Metal,Courting Baphomet,0,317480,False,0.476,0.968,0,-5.046,0,0.0424,0.000103,0.0487,0.0469,0.421,94.993,4,black-metal
+2SGmVE90PzF7iSbRbToHnk,Suicide Silence,No Time to Bleed,Disengage,50,244533,False,0.298,0.968,6,-2.684,1,0.123,1.5e-05,0.00932,0.0952,0.221,100.004,4,death-metal
+086vL45zWiqfib5SMKNjVg,Ajattara,Murhat,Kunnes Taivas Meidät Erottaa,22,182480,False,0.286,0.686,2,-4.114,0,0.0729,2.73e-06,0.0,0.367,0.217,90.94,4,black-metal
+4ABDFuZgqdg9X8Rw02WfYF,Nightwish,Spooky Scary Season,The Phantom Of The Opera,1,248240,False,0.433,0.848,5,-6.92,0,0.0496,6.53e-06,0.0316,0.0982,0.324,131.9,4,symphonic-metal
+5sICkBXVmaCQk5aISGR3x1,Metallica,Metallica,Enter Sandman,81,331266,False,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,4,thrash-metal
+0QSx3sQoHPNUfg2vwh5tOi,Therion,Theli,Nightside of Eden,25,449280,False,0.439,0.739,9,-7.746,1,0.0339,0.000155,0.0458,0.227,0.308,138.986,4,symphonic-metal
+06WUUNf7q18NZfjIsQFsfa,Slayer,Repentless,Delusions of Saviour,73,115413,False,0.223,0.805,8,-8.969,1,0.037,0.000179,0.814,0.0849,0.25,168.165,4,thrash-metal
+08W2yaBJw7hsPuwe7NRobe,Cradle Of Filth,Damnation And A Day,Babalon A.D. (So Glad for the Madness),22,337933,False,0.408,0.981,0,-5.364,0,0.159,0.000169,0.00504,0.288,0.204,161.079,4,black-metal
+0ppdt8zRZOHIKh4ZDB0Zp9,Opeth,Ghost Reveries,Ghost of Perdition,52,629480,False,0.292,0.818,9,-6.227,0,0.0413,0.000697,0.00192,0.0544,0.19,93.924,3,death-metal
+5RqXWlzFcJRVa0Pcm9oot7,Bewitcher,Cursed Be Thy Kingdom,Valley of the Ravens,21,323813,False,0.418,0.939,7,-5.151,1,0.0481,0.0075,0.0,0.329,0.567,109.221,4,black-metal
+2FsDybzWgntIa8M3Y7AenT,Behemoth,The Satanist,O Father O Satan O Sun!,49,433440,True,0.261,0.92,1,-4.151,1,0.064,0.000382,2.78e-05,0.157,0.183,84.013,4,death-metal
+16aSroNWhLAgkp1PDBQ2GY,Nightwish,Endless Forms Most Beautiful,Endless Forms Most Beautiful - Radio Edit,21,252040,False,0.489,0.874,2,-8.241,0,0.045,8.41e-05,0.00015,0.0797,0.436,153.98,4,symphonic-metal
+5nekfiTN45vlxG0eNJQQye,Metallica,Ride The Lightning (Deluxe / Remastered),Fade To Black - Remastered,69,417226,False,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,4,thrash-metal
+0a5UnIvDUBzqwUduJsouRy,Halestorm,The Strange Case of... (Deluxe),Here's to Us,56,177546,True,0.514,0.866,0,-3.657,1,0.0449,0.0524,0.0,0.17,0.45,159.973,4,symphonic-metal
+3otvs1xgZahX3z7RPfW0Qf,Immortal,Blizzard Beasts,Noctambulant,18,142986,False,0.1,0.925,9,-7.157,0,0.0818,9.72e-06,0.708,0.0485,0.035,85.405,4,black-metal
+2dxlfJhdNKW64ZOQEVyJcR,Amon Amarth,Versus The World,...And The World Will Cease To Be,24,417040,False,0.361,0.975,4,-4.955,0,0.153,1.48e-06,0.93,0.0679,0.0693,137.979,4,death-metal
+0CqCpm4LLQbHUX5ysizWJS,Asking Alexandria,Stand Up And Scream,The Final Episode (Let's Change Channel),61,242080,True,0.213,0.957,3,-2.967,1,0.235,0.00156,0.0,0.394,0.157,196.118,3,symphonic-metal
+6ursmCnbc9oDRGa2yHKkoZ,Sepultura,Roots,Roots Bloody Roots,62,212253,False,0.428,0.874,4,-6.664,0,0.128,0.000337,0.0419,0.311,0.261,119.708,4,thrash-metal
+5Rb3OxCE0BAuDfgTr4awtF,Asking Alexandria,Like A House On Fire,Antisocialist,56,216411,True,0.572,0.852,6,-4.712,0,0.0322,0.00105,0.0,0.0844,0.378,129.969,4,symphonic-metal
+2EnSzL1nt1ZOs6fPPvu9au,A Life Once Lost,Hunter,Rehashed,23,199266,False,0.45,0.976,2,-3.52,1,0.101,6.65e-06,0.309,0.177,0.329,152.708,4,death-metal
+5Cpk0Hg5KSUmm0BdyIkVVW,Malevolence,Self Supremacy,Low Life,24,264188,True,0.391,0.975,1,-2.308,1,0.0971,0.000119,2.12e-05,0.403,0.286,111.111,4,death-metal
+0nLiqZ6A27jJri2VCalIUs,Metallica,Metallica,Nothing Else Matters,80,388266,False,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,3,thrash-metal
+0NnicOp4n0spMySji0vMd4,Between The Buried And Me,Alaska,Roboturner,22,427413,True,0.193,0.935,6,-4.501,1,0.117,1.09e-05,0.382,0.341,0.182,100.041,1,death-metal
+6KqSLa2tVMwtbVGPwss78F,Xandria,Neverworld's End,Euphoria,22,270253,False,0.471,0.895,7,-3.538,0,0.0462,0.00127,0.624,0.092,0.407,94.983,4,symphonic-metal
+2uhGhGjoSFyOeyFDc9zHhQ,Manes,Slow Motion Death Sequence,Building the Ship of Theseus,18,234800,False,0.502,0.736,8,-7.418,0,0.0272,0.0106,0.000227,0.109,0.639,135.055,3,black-metal
+3WLUCqIJd8JS8jc3wwaC8Q,Carnifex,Bury Me in Blasphemy,The Heretic Anthem,50,252068,False,0.499,0.979,1,-5.938,1,0.125,2.68e-05,0.054,0.175,0.105,101.009,4,black-metal
+0RsOUnm1wNpbXxZ8a4abOP,Nightwish,Dark Passion Play,Amaranth,58,231444,False,0.558,0.859,2,-3.992,0,0.0421,0.00469,0.00196,0.0831,0.31,127.98,4,symphonic-metal
+6mDWvF0ewkcTtu78sfc5lX,Noxa,Grind Viruses,Sinetron Sucks,28,98826,True,0.313,0.981,2,-3.922,1,0.0921,2.19e-05,0.971,0.153,0.149,120.1,1,death-metal
+4NmieuZWuPz5jb3V3sDoV8,Therion,Theli,Opus Eclipse,19,219826,False,0.493,0.771,2,-6.797,1,0.0276,0.0219,0.82,0.231,0.561,129.97,4,symphonic-metal
+20uDfvpjbtEFz4AeC9O7AQ,Megadeth,Halloween Metal Nights,"The Sick, The Dying… And The Dead!",2,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,thrash-metal
+0RZVAhyB8vhxQz6ITjiuyA,Nightwish,HUMAN. :II: NATURE.,Noise,57,340281,False,0.5,0.85,2,-7.759,1,0.0493,0.000406,0.00515,0.121,0.434,76.976,4,symphonic-metal
+5WGvXmLt6acluR7TfhlHUH,Cannibal Corpse,Violence Unimagined,Inhumane Harvest,50,272994,True,0.13,0.947,8,-5.888,1,0.095,2.45e-05,0.368,0.0453,0.334,60.631,4,death-metal
+6rLEeo9rNT87t2xHry8xUl,Whitechapel,Our Endless War,The Saw Is the Law,53,267613,False,0.476,0.994,11,-3.429,0,0.18,0.000569,0.000149,0.139,0.216,115.103,4,death-metal
+5fwkL23a23iIMUsOOABVc3,Burzum,Burzum/Aske,War,46,150466,False,0.178,0.785,9,-11.093,1,0.0476,0.0077,0.0161,0.239,0.535,175.939,4,black-metal
+1AlGB2QDSuanDxQYBhmdym,LIK,Misanthropic Breed,Misanthropic Breed,19,81724,False,0.162,0.522,4,-6.572,1,0.0446,0.0925,0.981,0.278,0.0836,159.835,4,black-metal
+1hDMHBbFCXMMZCS2EOBYKV,In Flames,Subterranean,Ever Dying,26,263200,True,0.339,0.826,7,-7.993,0,0.0591,0.00116,0.856,0.203,0.162,138.698,4,death-metal
+27BPqOwVbRks2NqK9i01ZY,Goretrade,Mistaken Conception (Special Edition 2cd),Reduced to Redemption,34,189000,False,0.227,0.955,7,-6.664,1,0.119,0.00465,0.502,0.209,0.349,159.931,4,death-metal
+4jAz4qncdxl1kyvzi6l2We,Eulogy,Live and Raw,Fading Sun - Live,22,274924,False,0.163,0.895,7,-8.18,1,0.0791,0.000354,0.309,0.331,0.126,88.847,4,death-metal
+6RbC38oDCIXD8V2AOU1Tjr,Metallica;Marianne Faithfull,Reload,The Memory Remains,63,279173,False,0.435,0.901,10,-3.694,0,0.0429,0.000303,0.0072,0.185,0.547,143.646,4,thrash-metal
+3cXSZnTbHig0sntFrDqE0f,Leviathan,Scar Sighted,Wicked Fields of Calm,17,345742,False,0.258,0.974,4,-7.602,1,0.0637,0.00471,0.993,0.194,0.148,155.944,4,black-metal
+6BudTyfN4IAnhEndUwB1j3,Deicide,Metal,Once upon the Cross,0,214213,False,0.205,0.95,10,-8.498,0,0.131,1.93e-05,0.805,0.212,0.313,184.498,4,black-metal
+5GNwm3jX0MDAkwogL9XKby,Wiegedood,There's Always Blood At The End Of The Road,Theft and Begging,19,245269,False,0.168,0.919,3,-2.493,1,0.19,1.19e-05,0.902,0.0831,0.0355,122.604,4,black-metal
+3uEveqIDu17zTBVJI26WNE,Blind Witness,Nightmare On Providence Street,For Life,21,125493,True,0.586,0.987,4,-2.826,0,0.206,2.06e-05,0.19,0.116,0.19,119.872,4,death-metal
+300bSfVhnNrXHZEHKxQjPU,Alcest,Kodama,Kodama,41,547400,False,0.466,0.573,3,-9.266,0,0.031,0.000925,0.782,0.341,0.245,104.996,3,black-metal
+7JJ2YihKiiTove86Gt12LV,Halestorm,Top of the Rock,The Steeple,0,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,symphonic-metal
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,0,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+2z71jdeVcC782NgsYZ6N8q,Black Sabbath,Paranoid,Paranoid (2012 - Remaster),28,166693,False,0.415,0.647,4,-12.021,0,0.0696,4.14e-05,0.000847,0.208,0.409,163.047,4,thrash-metal
+2OHeJR6Cfvm42512gonFRh,Within Temptation;Keith Caputo,The Heart Of Everything,What Have You Done (feat. Keith Caputo),53,313333,False,0.259,0.932,6,-3.813,0,0.189,0.00356,0.000138,0.0982,0.122,114.378,5,symphonic-metal
+0bF3nL5ggogmwPt3ggMMQZ,For Today,Portraits,Joel (The Watchman),23,248333,False,0.339,0.832,0,-4.857,1,0.159,0.000328,0.0056,0.585,0.235,122.607,4,death-metal
+3YpJ3bdjvjmuXZc0VYAB3Q,The Ghost Inside,Fury and the Fallen Ones,Inherent Youth,23,170586,False,0.33,0.996,7,-0.715,1,0.147,0.000317,9.65e-05,0.186,0.238,102.511,4,death-metal
+58AGHUAqFCIxw2mAjDC2AQ,Therion,Beloved Antichrist,Temple of New Jerusalem,18,241933,False,0.558,0.756,9,-8.08,0,0.0325,0.000235,0.818,0.118,0.355,124.998,4,symphonic-metal
+712ukvLX20rwHuTWg7Gcjb,Kreator,Violent Revolution,Violent Revolution,51,294800,False,0.506,0.994,7,-5.733,1,0.0935,0.000176,0.0152,0.155,0.205,144.04,4,thrash-metal
+1sXdW94CrEIrYdbfON4Sxt,Nightwish,Dark Passion Play,Amaranth,52,231444,False,0.558,0.859,2,-3.992,0,0.0421,0.00469,0.00196,0.0831,0.31,127.98,4,symphonic-metal
+0JNQXKglzHsy4eed3PWxgP,End It,End It,Blind Faith,24,171458,False,0.21,0.931,0,-5.296,1,0.0669,3.55e-05,0.909,0.343,0.453,156.866,4,black-metal
+6RzK7XvwxnRq6AKDklJS6L,Megadeth,"The Sick, The Dying… And The Dead!","The Sick, The Dying… And The Dead!",61,304053,False,0.303,0.976,5,-3.583,0,0.225,0.00266,0.135,0.0707,0.193,88.536,4,thrash-metal
+4aYq2wFD8bH0mzKzA5rioD,Between The Buried And Me,Alaska,Backwards Marathon,24,507106,False,0.245,0.935,1,-5.338,0,0.106,0.00144,0.0467,0.469,0.511,117.578,5,death-metal
+2FsDybzWgntIa8M3Y7AenT,Behemoth,The Satanist,O Father O Satan O Sun!,49,433440,True,0.261,0.92,1,-4.151,1,0.064,0.000382,2.78e-05,0.157,0.183,84.013,4,black-metal
+5bmaJghY9t1XB4fT7Czndk,Incantation,Tricennial of Blasphemy,Nefarious Warriors,18,287533,False,0.243,0.957,1,-8.131,1,0.0783,4.34e-06,0.819,0.0816,0.167,113.465,4,black-metal
+1u2kXFKLaZu0VEpwBy3oQO,Therion,Leviathan,Aži Dahāka,23,186635,False,0.359,0.87,9,-11.567,0,0.0641,0.000486,0.00031,0.103,0.264,186.046,4,symphonic-metal
+5EtMSb48HPvR3cV7CkEKvX,Therion,Theli,Invocation of Naamah,24,329360,False,0.403,0.727,6,-7.943,0,0.0372,0.000337,0.00218,0.199,0.141,83.934,4,symphonic-metal
+6vSY2O8TWgHP0oLPn5WhbH,Annihilator,Set The World On Fire,Phoenix Rising,44,228546,False,0.598,0.76,2,-5.822,0,0.0295,0.0107,1.07e-05,0.343,0.164,120.488,4,thrash-metal
+3Ks3K2RmCxSUcXS6cOvd43,Sodom,Agent Orange,Agent Orange,11,365320,False,0.271,0.988,4,-4.936,0,0.117,1.66e-05,0.735,0.21,0.253,114.027,4,thrash-metal
+4siXNiLG9VJR6Z2kP6fFjv,Opeth,Deliverance,Deliverance,44,816720,False,0.283,0.973,4,-4.006,0,0.0459,0.000281,0.706,0.192,0.275,97.303,4,death-metal
+4NcYRApZOUk4Y9vBSlFiZd,Hypocrisy,Abducted,Slippin' Away,40,312933,False,0.364,0.565,7,-8.793,0,0.0315,0.0005,0.289,0.254,0.0583,121.285,4,black-metal
+3iUJrkMilUVkUKtYZK7Th4,Exodus,Tempo of the Damned,Blacklist,57,376920,False,0.534,0.969,3,-3.378,1,0.0535,0.000359,0.564,0.269,0.598,75.005,4,thrash-metal
+3IKJNHnVZ2bXGjAFBJiUYo,Black Sabbath,13,God Is Dead?,58,532266,False,0.379,0.726,3,-4.935,0,0.0332,0.000193,0.00266,0.0578,0.178,120.012,4,thrash-metal
+4tWzqVTAa1idOC7EBVEMX8,DeadSquad;Eet Syahranie,Catharsis,Murder,30,164741,False,0.265,0.982,1,-2.975,1,0.195,6.44e-05,0.924,0.343,0.207,117.863,4,death-metal
+2VPK0BMgwyRtx9QlyBpdb0,Nightwish,Oceanborn,Sleeping Sun,51,245000,False,0.333,0.572,2,-6.455,0,0.0302,0.00885,0.0,0.102,0.0707,110.402,4,symphonic-metal
+0Tarx49GGqUsSusrf7OMHW,Conan,Existential Void Guardian,Vexxagon,19,403373,False,0.265,0.755,11,-7.897,0,0.0374,3.67e-06,0.768,0.372,0.176,120.85,4,black-metal
+5n7ulscvYsWROejxxTg3kC,Toxic Holocaust,Chemistry of Consciousness (Deluxe Version),Wargasm - Bonus Track,21,157311,False,0.308,0.963,2,-4.646,1,0.0753,0.0,0.113,0.327,0.705,164.556,4,black-metal
+24NZxP8aIM5BlA0aSMRXNn,Paradise Lost,Icon,Shallow Seasons,21,295760,False,0.15,0.771,10,-10.871,1,0.0474,0.00056,0.00024,0.491,0.333,80.663,4,death-metal
+6lkVbijlh932FSS2I0gDrR,Nightwish,HUMAN. :II: NATURE.,How's the Heart?,52,302179,False,0.543,0.643,2,-8.649,0,0.0278,0.00448,9.51e-06,0.111,0.272,104.006,4,symphonic-metal
+72Cz4BgCt2RZQL3JQVwRwG,Within Temptation,The Purge,The Purge,51,256466,False,0.487,0.905,5,-3.901,0,0.0739,7.14e-05,0.000432,0.0964,0.496,93.909,4,symphonic-metal
+2nAXdlfl5k2Y390mIdwNtU,The Acacia Strain,Continent,Dr. Doom,26,146400,True,0.366,0.961,11,-4.584,0,0.144,0.00116,0.0147,0.235,0.189,169.915,4,death-metal
+2SWPkTic9y4pzjqXzUyOiJ,Kvaen;Rasmus Rova;Sebastian Ramstedt,The Great Below,Ensamvarg,22,277385,False,0.191,0.795,6,-13.144,1,0.057,1.24e-06,0.0157,0.266,0.336,119.931,4,black-metal
+28TbVu2FO5BuiY2ZszGiLm,Morbid Angel,Formulas Fatal to the Flesh,Covenant of Death,17,368000,False,0.287,0.963,1,-7.56,1,0.11,0.000112,0.56,0.363,0.22,100.586,4,death-metal
+6UsQsPIPP7gjdtlISXx3F2,Within Temptation,The Unforgiving,A Demon's Fate,48,330253,False,0.459,0.912,5,-3.443,0,0.0596,0.000579,0.000214,0.0995,0.311,134.077,4,symphonic-metal
+2auGZBF35U0Hx18EzGSVOX,Gojira,From Mars to Sirius,Backbone,53,258265,False,0.311,0.993,2,-2.479,1,0.0727,1.41e-05,0.00131,0.198,0.118,90.436,4,death-metal
+6ZiaGtb94L6LtRbC3yHkJW,Old Man's Child,In Defiance of Existence,Life Deprived,18,289346,False,0.183,0.887,1,-5.99,1,0.058,2.99e-06,0.893,0.356,0.15,157.824,4,black-metal
+5H0MBW8OIzc5aFEGQSSjTf,Leprosy,Devorando Sueños,Cuando Mis Ojos Se Cierren para Siempre,26,325506,False,0.515,0.966,6,-4.344,1,0.0435,6.06e-05,0.0329,0.0333,0.531,145.549,4,death-metal
+2R1n2QizkN1QygvkqyHhM5,Old Man's Child,In Defiance of Existence,The Soul Receiver,23,271493,False,0.414,0.922,2,-5.348,1,0.0377,4.17e-06,0.802,0.125,0.277,139.93,4,black-metal
+7DD4VX7uMlDYDapfyujrTI,Beside,Eleven Heroes,Eleven Heroes,27,257125,True,0.528,0.993,0,-3.958,0,0.138,0.000606,0.454,0.186,0.0688,119.983,4,death-metal
+3h5OOaUCkNCdqISpeMshOI,Deströyer 666,Unchain the Wolves,Tyranny,19,419533,False,0.297,0.968,10,-4.983,0,0.0943,1.01e-05,0.351,0.293,0.202,105.393,4,black-metal
+4WFYHBYhFA6tmCRYKng2MB,Slayer,World Painted Blood,World Painted Blood,54,353133,False,0.476,0.994,10,-3.19,0,0.175,0.000247,0.152,0.0793,0.126,92.865,4,thrash-metal
+1CWbHFlEu2B9vgdhlvXZD3,Therion,Les Fleurs du mal,Wahala manitou,21,152880,False,0.538,0.937,7,-3.27,1,0.0468,0.00223,0.000895,0.124,0.475,120.016,3,symphonic-metal
+6egRwYsMJ8DVJQAKOjHWou,Municipal Waste,The Last Rager,Wave of Death,62,113040,False,0.402,0.99,8,-2.934,0,0.126,1.85e-05,0.549,0.0749,0.481,82.341,4,thrash-metal
+6IVKiq8Xxhvg03MUtu5smv,Epica,Omega,The Skeleton Key,51,306346,False,0.486,0.75,0,-8.237,0,0.0544,0.0141,0.00139,0.104,0.229,141.966,4,symphonic-metal
+463jvTBlNaxfX7Sg5El4Y0,Myrkgrav,Sjuguttmyra,De to spellemenn - 2013 edition,20,169879,False,0.41,0.923,10,-5.385,1,0.0642,0.0662,0.0,0.322,0.386,110.027,5,black-metal
+6UuS3yTKdLCRZN2Aw7S0By,Mörk Gryning,Hinsides Vrede,Infernal,17,220950,False,0.305,0.947,11,-8.729,0,0.0842,2.64e-06,0.726,0.223,0.126,179.96,4,black-metal
+5noXDjLiHIkv54lOOkR1wi,Burgerkill,Berkarat,Luka,22,317333,False,0.466,0.952,7,-5.227,1,0.0664,0.00152,0.000944,0.0655,0.143,104.36,4,death-metal
+39J33DJuRt96XzCjGclZOU,Epica,Live At Paradiso,Mother Of Light - Live At Paradiso,24,430312,False,0.492,0.904,7,-7.496,0,0.127,0.0229,2.45e-05,0.754,0.242,160.014,3,symphonic-metal
+02FMm5i1pZR6TC9IeAmx1B,Angelmaker,Angelmaker,I Long for Rest,47,210346,True,0.53,0.833,0,-4.475,1,0.0499,3.24e-05,0.385,0.359,0.357,119.945,4,black-metal
+5Pd7suZX0i2HTHnhJSf5eG,Nightwish,Imaginaerum,Song Of Myself - Instrumental,21,752200,False,0.342,0.707,0,-7.844,1,0.043,0.188,0.369,0.149,0.0552,76.924,4,symphonic-metal
+0ElAcOj8tudMA6X6KZ7SMO,Black Sabbath,Master of Reality,Children of the Grave (2009 - Remaster),29,315893,False,0.337,0.722,6,-11.384,1,0.0478,0.0352,0.052,0.101,0.28,149.103,4,thrash-metal
+1mecmGWlkkXnSWbvcP7ArF,The Acacia Strain,Wormwood,The Carpathian,27,197906,False,0.511,0.986,2,-4.232,1,0.121,3.64e-05,0.00662,0.437,0.286,109.993,4,death-metal
+2MTneA2YvNBzvd8zDpWE4n,Gojira,From Mars to Sirius,From The Sky,47,348013,False,0.221,0.983,2,-2.821,1,0.11,1.45e-05,0.0018,0.668,0.0501,174.029,3,death-metal
+16kr19DhH7WAPmHsYw46tI,Theatres Des Vampires,Suicide Vampire,Lilith Mater Inferorum,17,225266,False,0.413,0.723,0,-5.785,1,0.0335,0.000265,0.000631,0.27,0.195,149.799,4,black-metal
+1ntXEb7Bn6IVtPfGej8caM,Through The Eyes of the Dead,Bloodlust,When Everything Becomes Nothing,21,296906,False,0.235,0.991,4,-3.794,1,0.176,8.52e-05,0.932,0.279,0.192,122.894,4,death-metal
+2kxrOSUTm4YRisCQGx3P41,Mayhem,Wolf's Lair Abyss (Bonus Tracks),I Am the Labyrinth,20,326040,False,0.121,0.873,1,-5.598,1,0.0718,1.18e-06,0.914,0.449,0.0458,96.742,4,black-metal
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+153SwL1d9SfCLWhqIs08we,Annihilator,Alice In Hell,Alison Hell,49,301053,False,0.365,0.978,9,-6.314,1,0.0698,0.00016,0.00241,0.206,0.108,101.886,4,thrash-metal
+0nLiqZ6A27jJri2VCalIUs,Metallica,Metallica,Nothing Else Matters,80,388266,False,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,3,thrash-metal
+4FufIZHtVB3D0nRaChnYBN,Equilibrium,Turis Fratyr (+Demo 2003),Widars Hallen,22,496893,False,0.111,0.922,11,-4.363,0,0.062,0.000164,0.379,0.309,0.188,169.945,4,death-metal
+7eDtl2KToh99gXNRRfuY9l,Thy Art Is Murder,Hate,Reign of Darkness,57,215226,False,0.392,0.966,9,-3.863,1,0.172,0.00132,0.0473,0.239,0.0764,139.83,4,death-metal
+7ouNLsVN2jPFZrcnajBTKN,Exodus,Pleasures of the Flesh,Faster Than You'll Ever Live to Be,23,265586,False,0.136,0.946,6,-5.112,0,0.135,2.87e-06,0.404,0.0562,0.467,185.396,4,thrash-metal
+0dHogHUS4xgLOoFBt0ko1j,In Flames,Reroute to Remain,Cloud Connected,59,220706,False,0.48,0.908,0,-5.466,0,0.0452,5.45e-06,0.856,0.0932,0.313,95.084,4,death-metal
+2gSUtqdBM4k39be9FzQjOH,Meshuggah,ObZen,Combustion,48,248933,False,0.457,0.997,1,-4.992,0,0.0634,8.36e-06,0.899,0.138,0.53,110.021,4,death-metal
+1PhLYngBKbeDtdmDzCg3Pb,Metallica,Metallica,Sad But True,71,323933,False,0.633,0.846,7,-6.347,1,0.0337,0.000819,0.00139,0.0762,0.448,89.23,4,thrash-metal
+01goDEgLNLAVOmRQ8Ip7js,Alcest,Kodama,Oiseaux de proie,39,468226,False,0.233,0.619,8,-8.78,0,0.0337,5.94e-05,0.801,0.24,0.139,114.298,4,black-metal
+05nNelgkr53RyE6Y7lfiXe,Necrophobic,Mark Of The Necrogram,Odium Caecum,19,265333,False,0.1,0.924,2,-5.64,1,0.108,2.93e-05,0.733,0.0905,0.0876,179.984,4,black-metal
+0QRxtcxL31dRAeiUUuENPu,Sepultura,Chaos A.D.,Territory,56,287480,False,0.332,0.946,2,-6.233,1,0.127,0.000275,0.0304,0.136,0.303,153.091,4,thrash-metal
+7q2YcJaxk5Erqn5NNUEvKk,Devil Master,Ecstasies Of Never Ending Night,Golgotha's Cruel Song,22,207480,False,0.107,0.961,0,-7.655,1,0.117,6.86e-06,0.463,0.355,0.321,174.687,4,black-metal
+7LGfapaZt3B0aX3lihpJgl,The Red Chord,Clients,Antman,23,187200,False,0.333,0.984,8,-4.317,1,0.164,0.000121,3.17e-06,0.132,0.191,115.464,3,death-metal
+5JAnXx5BBES4FEf4d4t4CC,Metallica,St. Anger,St. Anger,62,441132,True,0.396,0.947,2,-2.652,0,0.0477,0.00115,0.0179,0.089,0.443,93.043,4,thrash-metal
+6nyGWTFwJo1wUERwp4QJVf,Moonsorrow,Verisäkeet,Pimeä,20,848026,False,0.174,0.95,4,-6.359,0,0.0987,6.62e-06,0.927,0.108,0.125,124.988,4,black-metal
+2ccrRdnmzDblAFpto4PBCh,Burgerkill,Beyond Coma and Despair,We Will Bleed,25,213333,True,0.419,0.981,1,-4.116,1,0.138,8.33e-05,0.00367,0.287,0.0831,93.034,4,death-metal
+6IorP3Xt1etJwbXRbcXYfh,Burgerkill,Venomous,House of Greed,25,417493,True,0.289,0.998,7,-3.723,1,0.139,0.000316,0.00544,0.264,0.0436,135.795,4,death-metal
+0jSbXIEAlr1ZathgE6rlnm,Nightwish,From Wishes To Eternity (Live),Come Cover Me - Live,21,284800,False,0.356,0.909,2,-3.942,0,0.0705,0.00277,1e-06,0.92,0.167,146.936,4,symphonic-metal
+1kLXoAje5Z4mlZOAFgZZj3,Opeth,Blackwater Park,The Drapery Falls,43,652040,False,0.103,0.859,7,-6.107,1,0.0803,0.000339,0.168,0.0974,0.306,186.415,3,death-metal
+7pTdgwpdyloAu2nhIHocR6,Antichrist Siege Machine,Purifying Blade,Intro - The Way of Cain,17,78876,False,0.207,0.733,1,-12.181,1,0.0671,0.375,0.731,0.649,0.32,88.287,4,black-metal
+22GbAGb80ZZNgm2yrBMnpR,Metallica,Metallica,Wherever I May Roam,66,403866,False,0.55,0.824,9,-7.848,0,0.0347,0.000362,0.00115,0.0865,0.332,131.387,4,thrash-metal
+5op4dOCfAiYDMgmOATf2Lo,Testament,Metal,Electric Crown,0,330226,False,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,4,thrash-metal
+16o0xXRpe0LLRv6mk6Gbv5,Tankard,Schwarz-Weiß wie Schnee,Forza Sge,23,234812,False,0.497,0.809,1,-6.759,1,0.0301,0.00115,0.0,0.101,0.591,84.945,4,thrash-metal
+3z8klrCTw3L63v2V6zNK2i,At The Gates,The Nightmare Of Being,The Abstract Enthroned,22,266973,False,0.433,0.977,5,-5.053,0,0.139,0.000106,0.00454,0.323,0.114,120.023,4,death-metal
+3r3KRYYOFjNGD4OJB5ddam,Nightwish,The Sound of Nightwish Reborn,"While Your Lips Are Still Red - Theme from the Movie ""Lieksa!""",56,258977,False,0.472,0.658,7,-4.971,0,0.0256,0.0244,0.000146,0.195,0.113,100.044,4,symphonic-metal
+2ZYzHk9xJsGuj7BVtmnyrG,Epica,Design Your Universe,Incentive,22,254905,False,0.612,0.967,7,-5.059,1,0.0778,0.00109,0.396,0.0624,0.302,113.895,4,symphonic-metal
+61Am1jm5R2wE7XkhFNvujS,Avhath,The Avhath Rites,False Preacher,19,96652,False,0.23,0.939,7,-6.315,1,0.0753,0.000104,0.236,0.704,0.185,87.184,3,black-metal
+5S98MKSX7MJKmLTyvNXdg9,Hecate Enthroned,"The Slaughter of Innocence, A Requiem for the Mighty",Beneath a December Twilight,17,410533,False,0.204,0.86,8,-12.73,1,0.0542,3.41e-05,0.886,0.311,0.0832,131.587,4,black-metal
+7zuXFwL74ARL4m44jO3sWl,Gruzja,Vulgator (Priest Simulator Ost),Steampop,22,212246,False,0.482,0.942,7,-5.292,1,0.175,7.86e-05,0.00237,0.509,0.401,149.947,4,black-metal
+36xRtAOogMyyvoFHspk06W,Tankard,Eintracht Frankfurt : Alle Zusammen (Best of 1959-2013),Forza SGE,23,234812,False,0.497,0.809,1,-6.759,1,0.0301,0.00115,0.0,0.101,0.591,84.945,4,thrash-metal
+3bG1B0UTDX0UYg9qeec3gL,Halestorm,Metal Lives!,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+4s745NgYuKpZpgcC4SS91y,Brownout;Brown Sabbath;Aaron Behrens,"Brownout Presents Brown Sabbath, Vol. II",Sabbath Bloody Sabbath,19,341765,False,0.332,0.786,1,-8.419,0,0.045,0.00182,0.00185,0.142,0.724,143.4,4,thrash-metal
+67BMusU7lw2tEwR9mPiE5m,Anthrax;Public Enemy,Release Your ANGER,Bring The Noise,0,210493,False,0.599,0.831,2,-7.86,1,0.159,0.000155,2.13e-06,0.117,0.281,121.05,4,thrash-metal
+73xAQWV4i6aASNqCkqR1OU,Valkyrja,The Antagonist's Fire,Madness Redeemer,17,316869,False,0.24,0.979,2,-6.965,1,0.0812,2.1e-06,0.566,0.334,0.0861,135.018,4,black-metal
+4cX3coEOqkpZV7A2Zsg0w0,Slaughter to Prevail,Kostolom,I Killed A Man,45,245000,True,0.481,0.963,0,-1.902,1,0.134,6.73e-05,0.00954,0.169,0.11,124.979,4,death-metal
+3Ky8IzV8IVSwijtaTWB2SK,Slayer,Seasons In The Abyss,Seasons In The Abyss,59,397826,False,0.263,0.97,5,-4.182,0,0.163,0.00338,0.000795,0.0922,0.17,151.729,4,thrash-metal
+39J33DJuRt96XzCjGclZOU,Epica,Live At Paradiso,Mother Of Light - Live At Paradiso,24,430312,False,0.492,0.904,7,-7.496,0,0.127,0.0229,2.45e-05,0.754,0.242,160.014,3,symphonic-metal
+5fpPd6Di3TCFDBF4Z2QxBW,Nightwish,Imaginaerum (The Score),Undertow,20,317920,False,0.364,0.225,5,-12.155,1,0.0326,0.663,0.947,0.127,0.105,143.914,4,symphonic-metal
+0qZfhc3NDoeWKomjWX3DBU,LIK,Carnage,Rid You of Your Flesh,23,220200,False,0.209,0.989,0,-4.644,1,0.125,1.87e-06,0.348,0.177,0.113,104.536,4,black-metal
+4tk1j373NAOpTtjasixnlQ,Toxic Holocaust,Evil Never Dies,Damned to Fire,21,122586,True,0.349,0.994,9,-5.989,1,0.0978,1.84e-06,0.008,0.204,0.141,104.387,4,black-metal
+4obj5sXvj0OJsoSsHjEdNs,In Element,Lyra,The Innocence,36,261365,False,0.51,0.949,5,-7.061,0,0.114,0.000515,0.000619,0.387,0.173,102.526,4,death-metal
+4NtpLuz8QFPrCofWmeBYy8,Amon Amarth,The Great Heathen Army,Find a Way or Make One,57,270613,False,0.606,0.96,4,-6.227,1,0.044,0.000929,0.000536,0.0413,0.417,115.053,4,death-metal
+60rHc4AkLlP4XVSATvBb6K,Halestorm,The Strange Case of...,I Miss the Misery,61,183506,False,0.469,0.969,0,-2.219,1,0.0589,0.009,1.11e-05,0.346,0.476,164.042,4,symphonic-metal
+6Boqs3NAzPMxyhztKZOIyi,Anthrax,Halloween Metal Nights,Medusa,1,284040,False,0.334,0.814,11,-14.175,0,0.0447,0.0247,0.000593,0.501,0.676,150.813,4,thrash-metal
+22gqvbY26PtNBdBDVZ2uEx,Gruzja,I iść dalej,Jego głos,18,188966,False,0.342,0.998,6,-4.212,0,0.134,1.45e-05,0.00235,0.355,0.0419,134.404,4,black-metal
+3D0xB8fSqMyycALgNMpxwM,Moonspell,From Down Below - Live 80 Meters Deep,Without Rule - Live 80 Meters Deep,18,489000,False,0.367,0.879,0,-7.413,1,0.0742,0.000555,0.698,0.963,0.102,139.879,4,black-metal
+5IhtaTempjlVlPmSgI0FQS,Nightwish,Imaginaerum,Storytime,58,322280,False,0.465,0.971,5,-3.466,0,0.0749,0.00366,0.00375,0.326,0.483,156.171,4,symphonic-metal
+1G5TH4XNjghT6K9qiBiMyA,Wolves In The Throne Room,Celestial Lineage,Permanent Changes in Consciousness,19,114773,False,0.103,0.364,5,-21.217,1,0.0479,0.844,0.923,0.13,0.117,79.371,4,black-metal
+2dBTnT6T47pNHeXngkr2Vj,Gojira,From Mars to Sirius,Where Dragons Dwell,46,414106,False,0.201,0.936,2,-2.976,1,0.0769,9.72e-06,0.00759,0.0834,0.125,89.014,4,death-metal
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+1wVUMLb3gQ2GJWHlxecq4Y,Epica,Live At Paradiso,Cry For The Moon - Live At Paradiso,24,478500,False,0.465,0.81,2,-7.454,0,0.0454,0.00913,0.000138,0.974,0.216,89.936,4,symphonic-metal
+0CIAROs18qpnm9jewGJ7lS,Avantasia,Ghostlights,Lucifer,46,228465,False,0.268,0.643,4,-8.299,0,0.0445,0.0124,0.0,0.108,0.308,131.15,4,symphonic-metal
+7jbf5HTZGIORLBkJqueO5G,Asking Alexandria;Grace Grundy,Like A House On Fire,I Don't Need You,50,222827,False,0.555,0.472,3,-7.275,0,0.0294,0.132,0.0,0.221,0.35,140.105,4,symphonic-metal
+1VgvLMN2BS6sX3al2o6p4n,George Jones;Merle Haggard,"Kickin' Out The Footlights... Again: Jones Sings Haggard, Haggard Sings Jones",Don't Get Around Much Anymore,11,180093,False,0.668,0.34,10,-12.151,1,0.0757,0.799,5.03e-06,0.13,0.494,100.582,4,symphonic-metal
+51RlUEHxhyPzYZPu7K24A7,Therion,Lepaca Kliffoth,The Beauty in Black,20,192906,False,0.43,0.576,1,-7.745,1,0.0298,0.0117,0.534,0.123,0.377,78.236,4,symphonic-metal
+4OMgqSsMbVhPCFnivcNAqh,Black Sabbath,The Dio Years (Bonus Track Version),Heaven and Hell - 2007 Remaster,32,418973,False,0.311,0.694,3,-8.203,0,0.0308,0.0115,0.0379,0.15,0.321,87.807,4,thrash-metal
+3rCMkB2nbMzHXaXMX7KHAQ,Samael,Worship Him,Into The Pentagram,21,405800,False,0.311,0.729,4,-7.047,1,0.0346,0.000116,0.222,0.225,0.119,141.326,4,black-metal
+3XclwoQxz4p6Dl7VUf90KW,Black Sabbath,Black Sabbath,N.I.B. (2009 - Remaster),30,366173,False,0.463,0.552,4,-9.403,0,0.0605,0.141,9.66e-06,0.129,0.421,105.495,4,thrash-metal
+60DXdtL1WH2mSl5mdzMIjf,Devil Master,Ecstasies Of Never Ending Night,Funerary Gyre of Dreams & Madness,20,154680,False,0.345,0.955,6,-6.698,0,0.0961,5.79e-06,0.899,0.0896,0.109,140.352,4,black-metal
+16QKHy8t8ahorxJd2Gn2Eu,Nightwish,From Wishes To Eternity (Live),The Pharaoh Sails To Orion - Live,21,399733,False,0.191,0.978,7,-3.395,1,0.0987,0.000112,0.00649,0.964,0.269,155.759,4,symphonic-metal
+0XbovShNMapTfU5t1jgmgi,Samael,Ceremony of Opposites,To Our Martyrs,21,157280,False,0.248,0.969,1,-6.384,1,0.0615,0.000158,0.721,0.383,0.447,148.138,4,black-metal
+01d8pAucIn2NA37da2uHZK,Gruzja,Vulgator (Priest Simulator Ost),Legion,25,288101,False,0.296,0.908,0,-4.699,1,0.163,0.000496,0.000334,0.599,0.236,175.047,4,black-metal
+5uh9wvwU20dUHQXo6eAVhG,Therion,Les Fleurs du mal,En Alabama,22,157440,False,0.497,0.919,8,-2.693,0,0.0297,6.95e-05,0.323,0.0565,0.643,101.984,4,symphonic-metal
+6Vr7Y4VhprmpQk4voaHYvs,Havukruunu,Uinuos Syömein Sota,Kuin Öinen Meri,20,356103,False,0.122,0.99,5,-3.51,1,0.167,0.031,0.000465,0.73,0.0361,149.344,4,black-metal
+579dIsL1u8C60C4o1BD5Bp,Testament,Groove Metal Roots & Branches,Hail Mary,0,212733,False,0.38,0.935,1,-7.061,1,0.0595,6.45e-06,0.197,0.111,0.529,109.096,4,thrash-metal
+0sKAv3DtfTaTSlcS3Eq9rW,Sepultura,The Complete Max Cavalera Collection 1987-1996,From the Past Comes the Storms,22,296866,False,0.295,0.993,4,-5.378,1,0.113,2.26e-05,0.0523,0.091,0.189,108.451,4,thrash-metal
+5DU6cgGm1nOa2vBNPvXlHC,Therion,Theli,Interludium,19,107426,False,0.322,0.499,1,-8.847,0,0.042,1.72e-06,0.312,0.285,0.0795,74.996,4,symphonic-metal
+3R6WrsYpIuxJw7ZGHT5w85,Asking Alexandria,Alone Again,Alone Again,52,228977,False,0.496,0.969,10,-3.085,1,0.0688,7.49e-05,5.93e-06,0.242,0.199,109.977,4,symphonic-metal
+5fOVDPjgTqKFGK4xmnhCeR,Acranius,Mercy Denied,Scorn,21,217519,True,0.336,0.852,0,-7.694,1,0.0762,0.000391,0.513,0.265,0.424,160.035,4,death-metal
+6hNCDSgYDBai0E2AUSaz9f,Dead To Fall,Empire of Pines,Empire of Pines,23,158571,False,0.441,0.967,9,-5.926,1,0.152,2.63e-05,0.000374,0.139,0.0628,105.02,4,death-metal
+7JJ2YihKiiTove86Gt12LV,Halestorm,Top of the Rock,The Steeple,0,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,symphonic-metal
+3y7xqINqRIrgDFkjvN468u,Inquisition,Invoking the Majestic Throne of Satan,Rituals of Human Sacrifice for Lord Baal,18,359413,False,0.19,0.935,0,-4.014,1,0.111,0.00352,0.834,0.211,0.102,75.614,4,black-metal
+2K3areNeCsCI55wKupEhBW,Bewitcher,Cursed Be Thy Kingdom,Cursed Be Thy Kingdom,17,176746,False,0.295,0.953,4,-5.58,0,0.0814,2.72e-06,0.000332,0.142,0.645,141.102,4,black-metal
+4e4iAJsWibbUk5P7RCL6GQ,Sabbat,Envenom,Satan Bless You,18,188772,False,0.0848,0.991,11,-8.197,0,0.0769,0.00817,0.45,0.219,0.108,178.755,4,thrash-metal
+76sOApXMrNk38OcLeOPmHn,Surra,Escorrendo Pelo Ralo,Bom Dia Senhor,34,272346,False,0.343,0.959,4,-3.119,1,0.09,0.00172,0.0,0.0869,0.229,138.377,4,death-metal
+2R6UrJ8uWbSIiHWmvRQvN8,Metallica,Garage Inc.,Whiskey In The Jar,75,304693,False,0.511,0.97,10,-3.72,1,0.0414,5.6e-06,0.00136,0.18,0.566,132.986,4,thrash-metal
+3eEUS9f0kxkN4khAPjPoRy,Death,Scream Bloody Gore (Reissue),Denial of Life,20,215069,False,0.136,0.934,2,-6.208,1,0.0954,1.32e-06,0.76,0.232,0.127,99.989,4,death-metal
+0hfRN3y0YvVvjuVDuhBtEo,Truchło Strzygi,Gwiezdny Demon,A.C.D.C.,21,194081,True,0.238,0.961,6,-5.279,0,0.0682,3.82e-05,0.0091,0.594,0.348,136.985,4,black-metal
+5uSq44B4BVNOG5FklL98lc,Wolves In The Throne Room,Celestial Lineage,Woodland Cathedral,18,326306,False,0.0629,0.404,5,-10.396,1,0.0362,0.21,0.0,0.0873,0.037,67.305,5,black-metal
+6FUwPb4mGlUDbx42uspXaZ,Metallica,Reload,Fuel,71,269800,True,0.49,0.951,1,-3.777,1,0.0477,2.02e-05,0.0027,0.0314,0.589,106.946,4,thrash-metal
+5P559Ckl8orM6ebbHVB0Ke,Traitors,Night Terrors,Phantasm,28,180571,True,0.471,0.99,5,-2.596,1,0.156,0.0219,0.1,0.449,0.105,105.055,4,death-metal
+3tuSIZFUb07HoDn24EvSoE,Mercyful Fate,The Beginning,Devil Eyes,25,352333,False,0.402,0.758,0,-12.155,1,0.0354,0.0162,0.00701,0.0842,0.726,131.788,4,death-metal
+6TYQRlRci6AkVrN9a5C7ne,Black Sabbath,Paranoid,War Pigs (2009 - Remaster),33,475000,False,0.369,0.679,6,-9.729,0,0.0742,0.128,0.0125,0.197,0.508,91.883,4,thrash-metal
+3h4XhRcBz3DaD5ND5l9DIV,Death Angel,Humanicide,Immortal Behated,21,368465,False,0.576,0.889,9,-6.259,1,0.0425,0.00125,0.597,0.237,0.217,119.982,4,thrash-metal
+51TG9W3y9qyO8BY5RXKgnZ,Megadeth,Countdown To Extinction,Symphony Of Destruction,74,246733,False,0.61,0.891,4,-5.452,0,0.0587,0.000805,0.0928,0.0657,0.51,139.903,4,thrash-metal
+0cIBOfHKEvwyiAcwlRmylP,Hellripper,Complete and Total Fucking Mayhem,Blood on the Cross,18,121000,True,0.304,0.766,10,-6.837,0,0.0369,7.68e-05,0.449,0.229,0.0978,185.847,4,black-metal
+5op4dOCfAiYDMgmOATf2Lo,Testament,Metal,Electric Crown,0,330226,False,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,4,thrash-metal
+2z71jdeVcC782NgsYZ6N8q,Black Sabbath,Paranoid,Paranoid (2012 - Remaster),28,166693,False,0.415,0.647,4,-12.021,0,0.0696,4.14e-05,0.000847,0.208,0.409,163.047,4,thrash-metal
+7JJ2YihKiiTove86Gt12LV,Halestorm,Top of the Rock,The Steeple,0,207445,False,0.43,0.981,5,-2.929,1,0.0744,0.00014,5.45e-06,0.287,0.585,157.01,4,symphonic-metal
+5LyRtsQLhcXmy50VXhQXXS,Megadeth,Rust In Peace (Expanded Edition),Holy Wars...The Punishment Due - Remastered,69,392600,False,0.325,0.985,11,-3.941,1,0.151,0.00177,0.107,0.351,0.221,125.307,4,thrash-metal
+3fKeB6lVdwe6rUT2mnLo08,Infant Annihilator,The Elysian Grandeval Galèriarch,Blasphemian,46,444704,True,0.176,0.953,10,-3.418,0,0.314,0.000407,0.834,0.088,0.0395,80.476,4,thrash-metal
+7Chqf4yGnQlLWAWic9b0ET,Within Temptation,The Silent Force,Stand My Ground,54,267986,False,0.271,0.866,5,-4.072,0,0.0578,0.0489,0.000762,0.116,0.127,175.665,4,symphonic-metal
+6olS0TmHmsGr0hXtcBsiVM,Megadeth,Youthanasia (Expanded Edition),A Tout Le Monde - Remastered 2004,66,262133,False,0.272,0.747,5,-4.86,0,0.0401,0.000393,4.03e-05,0.16,0.255,202.777,4,thrash-metal
+47XYw9EUxucHfkqdQDyBrD,Exciter,Violence & Force,Pounding Metal,19,275466,False,0.289,0.734,11,-11.385,0,0.0588,2.36e-05,0.00112,0.0598,0.651,174.51,4,black-metal
+2jz9uL1m8Ke92TU8qV2PKU,Epica,Live At Paradiso,Façade of Reality - Live At Paradiso,26,529239,False,0.327,0.876,8,-6.83,1,0.0812,0.0177,0.00723,0.765,0.26,177.882,3,symphonic-metal
+07T0no1kAzs6PghXEK7VLG,Fallujah,Undying Light,Eyes Like the Sun,19,282400,False,0.38,0.947,2,-4.558,0,0.0858,1.55e-05,0.891,0.333,0.166,77.492,4,black-metal
+5sICkBXVmaCQk5aISGR3x1,Metallica,Metallica,Enter Sandman,81,331266,False,0.577,0.828,6,-8.691,0,0.0298,0.00213,0.0114,0.0581,0.604,123.257,4,thrash-metal
+1sXdW94CrEIrYdbfON4Sxt,Nightwish,Dark Passion Play,Amaranth,52,231444,False,0.558,0.859,2,-3.992,0,0.0421,0.00469,0.00196,0.0831,0.31,127.98,4,symphonic-metal
+7vQpf3W7HaMeqjgYN1a6mu,Brownout;Brown Sabbath,Brownout Presents Brown Sabbath,Into the Void,19,388877,False,0.34,0.729,6,-5.995,1,0.0401,0.0134,0.833,0.112,0.415,154.28,4,thrash-metal
+5faD0zZ9fMa3J5ZN3lIWtp,Entombed,Left Hand Path,Left Hand Path,46,399093,False,0.166,0.927,7,-8.797,1,0.0736,3.94e-06,0.651,0.344,0.219,131.984,4,black-metal
+6nUpzmNt1zC6IhLFQ9jYRu,al'Tyr,Vive La France,Vive La France,34,472852,False,0.508,0.98,11,-6.256,0,0.143,0.00375,0.202,0.73,0.0572,103.971,4,black-metal
+3pKsUMqpVr4ZJ13Mm91Xig,Testament,The Gathering,Down for Life,60,203680,False,0.344,0.955,1,-10.614,1,0.0444,5.4e-06,0.111,0.0665,0.352,111.671,4,thrash-metal
+0o5ybOU1GM8gnVDrvYc5ze,Manes,Be All End All,A Deathpact Most Imminent,19,308667,False,0.586,0.605,11,-12.281,0,0.0279,0.0199,0.791,0.0874,0.215,110.026,4,black-metal
+1VfHfFRW7SEXxrmrRCbpFI,Dead To Fall,Everything I Touch Falls To Pieces,Eternal Gates Of Hell,23,196893,False,0.349,0.842,1,-8.844,0,0.0846,0.00421,0.0314,0.325,0.402,102.268,4,death-metal
+1dJojwU52t4AdB3DhbGRcj,The Acacia Strain,Continent,Seaward,25,255800,True,0.27,0.95,11,-5.251,0,0.116,0.00129,0.0267,0.262,0.389,150.117,4,death-metal
+0CqCpm4LLQbHUX5ysizWJS,Asking Alexandria,Stand Up And Scream,The Final Episode (Let's Change Channel),61,242080,True,0.213,0.957,3,-2.967,1,0.235,0.00156,0.0,0.394,0.157,196.118,3,symphonic-metal
+7gOVxn8jQX8rhBYcKfMtBn,Within Temptation,Black Symphony,The Truth Beneath The Rose,22,442773,False,0.227,0.867,3,-6.857,0,0.063,0.00189,3.52e-06,0.959,0.191,119.487,4,symphonic-metal
+5ZOOjqoCaUydmo8bxSdosj,Exodus,Fabulous Disaster,The Toxic Waltz,53,290280,False,0.262,0.988,11,-4.922,0,0.253,0.00655,0.897,0.132,0.227,91.319,4,thrash-metal
+1HvBZ5Kk6exD3PoohClhEf,Enslaved,Riitiir,Thoughts Like Hammers,19,570053,False,0.397,0.841,6,-6.205,1,0.044,3.15e-05,0.0826,0.394,0.203,142.022,3,black-metal
+7fA3BwrbrioTWbuIPZAoE0,Darkthrone,Ravishing Grimness,The Beast,17,329586,False,0.19,0.992,11,-5.929,1,0.104,1.83e-06,0.815,0.256,0.0731,131.051,4,black-metal
+0sC5ub2JcnKmypbITsfsJa,Eisregen,Knochenkult,19 Nägel für Sophie,21,303680,False,0.557,0.813,8,-6.798,1,0.0372,0.0044,0.000421,0.102,0.427,125.047,4,black-metal
+6TRgCcErnco2Wku1BqtWF9,Strapping Young Lad,The New Black,Antiproduct,23,236106,False,0.435,0.981,7,-4.118,0,0.0864,6.27e-05,0.354,0.196,0.305,97.401,4,death-metal
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+70w09DCtrlBwveabyxe5R6,The Kovenant,Animatronik,Spaceman,20,322906,False,0.439,0.971,3,-4.157,1,0.105,6.89e-05,0.00442,0.208,0.35,74.906,4,black-metal
+2GPLn5UUjEfD91aMLFQ3T4,Sepultura,Under a Pale Grey Sky (Live),Spit - Live,22,147066,False,0.356,0.984,6,-5.217,1,0.0984,0.00113,0.103,0.946,0.278,98.836,4,thrash-metal
+580FUZNWX3xqmGVbJOsu15,Sepultura,Under a Pale Grey Sky (Live),Attitude - Live,22,354706,False,0.36,0.964,0,-6.629,1,0.17,0.0042,0.11,0.315,0.16,93.944,4,thrash-metal
+39CWhngoWrX3oxZM8Y15H0,Hypocrisy,End of Disclosure,Tales of Thy Spineless,25,276324,False,0.169,0.958,10,-5.11,0,0.13,1.87e-06,0.703,0.171,0.139,110.0,3,black-metal
+27uDL5cAoMijxbDLfaz9Xv,Slayer,God Hates Us All,Bloodline,55,216973,False,0.408,0.971,9,-3.876,1,0.125,5.7e-05,0.191,0.135,0.237,118.445,4,thrash-metal
+17al11TqKQrLfpmC3dHh3Q,Deafheaven,10 Years Gone (Live),Language Games - Live,17,351719,False,0.197,0.957,5,-5.827,1,0.0969,1e-05,0.924,0.057,0.073,138.224,4,black-metal
+4nOn70NoLWKOwqSaSwbjR4,Eluveitie,Everything Remains (As It Never Was),Isara,39,164413,False,0.392,0.772,4,-4.349,0,0.0301,0.0497,0.0301,0.921,0.102,160.043,4,death-metal
+2918T2ucPJn7lIxP0IGZnW,Asking Alexandria,Like A House On Fire,The Violence,54,208395,False,0.646,0.851,8,-4.22,0,0.0662,0.00618,0.0,0.629,0.333,129.921,4,symphonic-metal
+5xdYNr5NPkTo5xg0FK412N,Aversions Crown,Xenocide,Cynical Entity,22,285250,False,0.174,0.972,0,-4.435,0,0.124,2.61e-05,0.856,0.37,0.0381,145.111,4,death-metal
+3jAqsT9Eg9mHimPDds8ONN,Bodysnatcher,Death of Me (Deluxe Version),Bone Casket,24,159033,True,0.519,0.911,1,-2.799,1,0.101,8.51e-05,0.236,0.176,0.401,119.974,4,death-metal
+3Ks3K2RmCxSUcXS6cOvd43,Sodom,Agent Orange,Agent Orange,11,365320,False,0.271,0.988,4,-4.936,0,0.117,1.66e-05,0.735,0.21,0.253,114.027,4,thrash-metal
+4potb0thacFGHRtt747ekE,Within Temptation;Tarja,Hydra,Paradise (What About Us?) (feat. Tarja),12,319688,False,0.461,0.928,4,-3.542,0,0.0699,0.00058,0.0011,0.615,0.433,135.031,4,symphonic-metal
+0n3sHHfdOq6Awix3JPe3xl,Halestorm,ReAniMate: The CoVeRs eP,Bad Romance,65,248400,False,0.545,0.927,1,-4.736,1,0.0706,0.0128,2.33e-06,0.367,0.682,124.061,4,symphonic-metal
+1dnfJhycquK7AK5dRCsNIn,Epica,Live At Paradiso,Another Me (In Lack'ech) - Live At Paradiso,25,287312,False,0.592,0.777,4,-7.156,0,0.0374,0.0758,0.0,0.953,0.515,104.005,4,symphonic-metal
+6R9j9XEisGCoIE8r8UtbiS,Nightwish,Imaginaerum,Last Ride of the Day,53,271120,False,0.448,0.951,2,-3.391,0,0.0522,0.00247,0.0,0.0862,0.581,161.974,3,symphonic-metal
+4mPQiwpU2CXLuciRC026b3,Bodysnatcher;Jorge Sotomayer,This Heavy Void,Drowned,21,163920,True,0.348,0.924,10,-4.735,0,0.144,0.00055,0.000353,0.0684,0.214,75.011,5,death-metal
+3HWQCyULin4sLlCvY9WaG8,Delain,Moonbathers,Pendulum,20,221697,False,0.461,0.875,1,-5.108,0,0.0372,4.62e-06,0.0718,0.147,0.423,102.997,4,symphonic-metal
+6GYyGwbJeHyFj9po98ZGpS,Meshuggah,The Violent Sleep of Reason,Born in Dissonance,48,274586,False,0.264,0.986,11,-5.059,1,0.102,4.09e-06,0.00625,0.0535,0.227,106.161,4,death-metal
+651aMl2jYthoJyI9WvNKo4,Frozen Soul,Crypt Of Ice,Gravedigger,22,229638,True,0.243,0.977,6,-7.248,1,0.209,3.52e-06,0.96,0.106,0.047,140.032,4,death-metal
+7lU6oNl33lp9UGYal9qsVv,Samael,Ceremony of Opposites,Ceremony of Opposites,21,279626,False,0.484,0.846,9,-6.371,1,0.0464,0.000409,0.825,0.137,0.207,136.903,4,black-metal
+3U9gogDStAfWxSm91PJuxb,Slayer,South Of Heaven,South Of Heaven,64,298533,True,0.31,0.991,5,-3.769,0,0.316,0.000132,0.085,0.0969,0.0395,140.071,4,thrash-metal
+5l4DU5tgUtLqFSxir6y0dp,Asking Alexandria;Within Temptation,Faded Out (feat. Within Temptation),Faded Out (feat. Within Temptation),65,185542,False,0.478,0.937,8,-4.775,1,0.0938,0.000151,0.0,0.198,0.526,74.966,4,symphonic-metal
+6FUwPb4mGlUDbx42uspXaZ,Metallica,Reload,Fuel,71,269800,True,0.49,0.951,1,-3.777,1,0.0477,2.02e-05,0.0027,0.0314,0.589,106.946,4,thrash-metal
+5JpbpsjhJeNwixBzbobklV,Within Temptation,The Unforgiving,Shot in the Dark,54,302240,False,0.524,0.883,1,-4.148,1,0.0348,0.00413,0.000104,0.107,0.289,106.045,4,symphonic-metal
+579dIsL1u8C60C4o1BD5Bp,Testament,Groove Metal Roots & Branches,Hail Mary,0,212733,False,0.38,0.935,1,-7.061,1,0.0595,6.45e-06,0.197,0.111,0.529,109.096,4,thrash-metal
+5dB3ggBnFcCWzN1ASj5y5B,Gatecreeper,Deserted,Anxiety - Bonus Track,23,256813,False,0.171,0.98,7,-5.553,1,0.144,9.27e-06,0.336,0.364,0.182,158.076,4,death-metal
+6bKp7enSiddwKgfJ49Zkq4,LIK,Carnage,Dr Duschanka,18,264499,False,0.147,0.992,11,-4.652,1,0.0941,3.62e-06,0.0111,0.548,0.123,157.405,4,black-metal
+1eJWO5h4Prnu5aWZBhmawk,Darzamat,Solfernus' Path,Pain Collector,17,238386,False,0.513,0.968,4,-4.002,1,0.217,8.74e-06,0.25,0.37,0.166,115.014,4,black-metal
+5IX4TbIR5mMHGE4wiWwKW0,Metallica,...And Justice For All,One,73,447440,False,0.437,0.695,7,-9.447,1,0.0617,0.00111,0.0857,0.124,0.413,102.178,3,thrash-metal
+6ckozbGmOusAnLT2LEbERy,Metallica,Ride The Lightning (Remastered),Fight Fire With Fire - Remastered,61,284506,False,0.283,0.988,0,-7.017,1,0.111,3.75e-05,0.728,0.0712,0.133,90.791,4,thrash-metal
+0VEyOWSkQ0yiYJiMxzAkS8,Therion,Les Fleurs du mal,Dis moi poupée,22,202186,False,0.513,0.935,11,-2.608,0,0.0425,0.0021,0.0765,0.162,0.606,115.047,4,symphonic-metal
+2WmbbiWfFEKsSZe6E5GeVe,Nightwish,Century Child,The Phantom Of The Opera,60,248706,False,0.431,0.829,5,-7.713,0,0.0491,7.33e-06,0.03,0.086,0.356,131.891,4,symphonic-metal
+0TuQ4wmBzjFFewYkYv3Cdx,Children Of Bodom,Hatebreeder,Bed Of Razors,43,235866,False,0.394,0.971,2,-3.104,0,0.0588,0.00115,0.54,0.165,0.335,138.702,4,death-metal
+5tM6eTpydHiDAeyUOcDNHm,Meshuggah,Immutable,Ligature Marks,48,313017,False,0.53,0.892,6,-5.987,1,0.0451,5.9e-05,0.368,0.0984,0.709,149.995,4,death-metal
+2Ktelx9o1yDeBGBW4CaVGL,In Element,Shapes of Eternity (Rarities and Aimless Sounds),Crystallize (Remix),36,314000,False,0.406,0.94,5,-6.208,0,0.295,0.157,0.0118,0.12,0.17,180.033,4,death-metal
+6gCCanQYC6OTcW2OGRnoeP,Psychonaut 4,Beautyfall,"Sana Sana Sana, Cura Cura Cura",37,504484,False,0.226,0.683,2,-7.47,0,0.0419,0.000125,0.00143,0.0863,0.0421,139.989,4,black-metal
+66ul4n9S4ZNukykUKJhYoV,Hypocrisy,The Final Chapter,Dominion,19,213866,False,0.367,0.962,7,-6.568,1,0.0842,1.11e-06,0.898,0.199,0.294,97.105,4,black-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+6SO03S6E3WsdfUsrdz447z,Epica,Omega,Rivers,48,288016,False,0.468,0.301,0,-10.897,0,0.0283,0.594,0.00101,0.163,0.0979,83.894,4,symphonic-metal
+2d5A0pXGLvKHoQtidmezwM,Dawn Of Ashes,Theophany,Tribe of Chemosh,20,306000,False,0.348,0.95,11,-3.361,0,0.169,4.52e-05,9.24e-05,0.147,0.229,180.004,4,black-metal
+06WUUNf7q18NZfjIsQFsfa,Slayer,Repentless,Delusions of Saviour,73,115413,False,0.223,0.805,8,-8.969,1,0.037,0.000179,0.814,0.0849,0.25,168.165,4,thrash-metal
+1crtYCEopK0zrxSFj0XJGK,Truchło Strzygi,Pora Umierać,Apokaliptyczny Młot (Obliteracja Poprzez Życie),19,306370,True,0.263,0.715,8,-9.528,1,0.0902,0.000425,3.78e-05,0.413,0.241,151.917,4,black-metal
+5fpPd6Di3TCFDBF4Z2QxBW,Nightwish,Imaginaerum (The Score),Undertow,20,317920,False,0.364,0.225,5,-12.155,1,0.0326,0.663,0.947,0.127,0.105,143.914,4,symphonic-metal
+0aczJXo71p9tVHXALQKIE9,Brujeria,Raza Odiada,Ritmons Satanicos,20,413306,False,0.248,0.696,2,-7.028,0,0.0491,0.017,0.000365,0.0893,0.202,134.722,4,death-metal
+2bnsTOWLjWLNnWoDyT4S9E,Miss May I,Shadows Inside,Lost in the Grey,52,210889,False,0.437,0.941,10,-5.18,1,0.0933,3.22e-06,0.000721,0.259,0.265,165.053,4,death-metal
+788uJvGtd7xPaFhVHeN0bb,Cavalera Conspiracy,Groove Metal Roots & Branches,Ultra-Violent,0,226533,False,0.336,0.976,10,-4.086,0,0.216,8.9e-05,0.00218,0.122,0.222,110.682,4,death-metal
+5AxTA7EKcIiqc51nfBoKl2,Kvelertak,Meir,Snilepisk,20,172906,False,0.133,0.944,0,-4.561,1,0.129,4.09e-06,0.919,0.32,0.306,86.603,1,black-metal
+0SMek8tzVJRYzQkloRhiEk,Regarde Les Hommes Tomber,Ascension,Au Bord Du Gouffre,20,532971,False,0.163,0.983,5,-4.327,0,0.0881,1.66e-06,0.419,0.25,0.0463,130.704,4,black-metal
+0wYg0PneIcCF1vp1s69DfM,Eisregen,Marschmusik,Gott der Panzer,20,326826,False,0.375,0.939,7,-5.123,1,0.0904,0.000363,0.000302,0.1,0.163,120.195,4,black-metal
+1NPrCrNOTBUnv5YyexpzCa,Frozen Soul,Crypt Of Ice,Encased in Ice,25,293642,False,0.203,0.977,5,-8.196,1,0.128,5.85e-06,0.937,0.149,0.0378,138.398,4,death-metal
+4Iiylqe2XjsQQqGSJ90QhB,Cradle Of Filth,Existence Is Futile,Necromantic Fantasies,41,340769,False,0.493,0.969,10,-6.061,0,0.0689,2.28e-05,0.385,0.15,0.224,110.071,4,black-metal
+5vqIuqCVw18SSLrkSR57tc,D.F.C.,Igreja Quadrangular Do Triângulo Redondo,Censura,28,86622,True,0.403,0.924,2,-5.014,1,0.079,0.00147,0.165,0.479,0.365,102.805,4,death-metal
+4E5xVW505akJX0wcKj8Mpd,Megadeth,Rust In Peace (Expanded Edition),Tornado Of Souls - Remastered 2004,68,319266,False,0.519,0.982,7,-3.547,1,0.108,0.00203,0.00055,0.0971,0.361,97.745,4,thrash-metal
+67BMusU7lw2tEwR9mPiE5m,Anthrax;Public Enemy,Release Your ANGER,Bring The Noise,0,210493,False,0.599,0.831,2,-7.86,1,0.159,0.000155,2.13e-06,0.117,0.281,121.05,4,thrash-metal
+6nswV1Lz3OZkaiCJfmVUOa,Metallica,Reload,The Unforgiven II,66,396440,False,0.497,0.89,8,-4.559,0,0.0445,0.00055,0.00129,0.255,0.249,133.047,4,thrash-metal
+7ALT7GdBvEkUHQ75rdDxGX,Marduk,Those of the Unlight,A Sculpture of the Night,18,209320,True,0.164,0.985,3,-13.524,1,0.0769,0.000356,0.0139,0.345,0.0312,156.844,4,black-metal
+0n3sHHfdOq6Awix3JPe3xl,Halestorm,ReAniMate: The CoVeRs eP,Bad Romance,65,248400,False,0.545,0.927,1,-4.736,1,0.0706,0.0128,2.33e-06,0.367,0.682,124.061,4,symphonic-metal
+1NGTfArxVfDc8u1P4kG9KX,Hypocrisy,The Arrival,War Within,22,292506,False,0.53,0.959,7,-5.257,1,0.0502,1.23e-05,0.851,0.359,0.358,124.967,4,death-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+2LTazmGAG6srTflsDKMPsk,Slayer,Seasons In The Abyss,Skeletons Of Society,49,280346,False,0.498,0.98,8,-4.083,0,0.129,0.000459,0.00142,0.111,0.302,106.859,4,thrash-metal
+6UB9mShVLbMm0W4e6vud4C,Metallica,Master Of Puppets (Remastered),Battery,65,312360,False,0.481,0.928,11,-8.799,0,0.0672,0.00022,0.558,0.106,0.427,96.699,4,thrash-metal
+5nYxvboEEXpXPxyrUTrtya,Darkthrone,Hate Them,Det Svartner Nå,17,338173,False,0.288,0.992,1,-4.202,1,0.0808,1.7e-05,0.279,0.12,0.0599,126.17,4,black-metal
+7IiqF2tYiixnpBcFjkocjA,Asking Alexandria,From Death To Destiny,Moving On,58,242593,False,0.446,0.761,3,-4.141,0,0.032,0.000569,0.0,0.182,0.336,134.971,4,symphonic-metal
+4OMgqSsMbVhPCFnivcNAqh,Black Sabbath,The Dio Years (Bonus Track Version),Heaven and Hell - 2007 Remaster,32,418973,False,0.311,0.694,3,-8.203,0,0.0308,0.0115,0.0379,0.15,0.321,87.807,4,thrash-metal
+17C4oPQ3sTpF11pi9yvGcs,Asking Alexandria,Stand Up And Scream,Not The American Average,63,279226,True,0.236,0.892,2,-4.106,0,0.188,0.0305,0.0,0.278,0.0685,184.981,4,symphonic-metal
+1SEZDfakTMMmUcHildSzsx,Overkill,From the Underground and Below,It Lives,23,271933,False,0.277,0.886,7,-7.724,1,0.0648,5.36e-05,0.874,0.181,0.434,81.707,4,thrash-metal
+0ElAcOj8tudMA6X6KZ7SMO,Black Sabbath,Master of Reality,Children of the Grave (2009 - Remaster),29,315893,False,0.337,0.722,6,-11.384,1,0.0478,0.0352,0.052,0.101,0.28,149.103,4,thrash-metal
+6ubqrTIJwspBSqx8XQHN2K,Halestorm,Into the Wild Life (Deluxe),Mayhem,55,216760,False,0.398,0.982,2,-3.979,1,0.178,0.00306,0.0243,0.44,0.401,172.822,4,symphonic-metal
+2k96T62rRwtvgFk7Uatx2G,Sodom,Code Red,Addicted to Abstinence,22,126573,False,0.365,0.973,10,-6.117,1,0.242,3.23e-05,1.73e-06,0.0969,0.301,165.225,4,thrash-metal
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+4P8vhDPA6EGRfCP8AdwQnF,The Last Ten Seconds of Life,Machina Non Grata,Axe to Grind,21,190120,True,0.446,0.92,1,-3.41,1,0.112,0.000102,0.293,0.0755,0.372,180.067,4,death-metal
+5op4dOCfAiYDMgmOATf2Lo,Testament,Metal,Electric Crown,0,330226,False,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,4,thrash-metal
+6bcIyAwnUIF34YelBWqMrS,Therion,Les Épaves,L'amour est bleu - Mellow Version,22,207306,False,0.556,0.675,7,-5.169,1,0.0238,0.0248,0.0016,0.144,0.357,105.024,4,symphonic-metal
+3aUH59ZFXGe7RltVQELk4k,Evil Darkness,Dark Blasting Tongue,We Burn with Hate,21,152466,True,0.368,0.88,5,-9.702,0,0.102,0.0079,0.623,0.112,0.372,144.803,4,death-metal
+2aaClnypAakdAmLw74JXxB,Sepultura,Metal,Arise,0,198226,False,0.371,0.961,9,-6.765,0,0.0931,1.52e-05,0.0548,0.0916,0.159,115.336,4,thrash-metal
+57tCkY0YC8dGKOddSmbap0,The Acacia Strain,The Dead Walk,Burnface,23,153653,False,0.439,0.989,1,-4.51,0,0.182,0.000335,0.006,0.347,0.0899,133.971,4,death-metal
+2WlNK8mfRvMT3m1ZOli1er,Born Of Osiris,Angel or Alien,Poster Child,45,276003,False,0.353,0.958,1,-4.997,1,0.0724,1.84e-05,0.0521,0.0823,0.264,199.984,4,death-metal
+6m8tf7OpS9BCRxQLWNeSn5,Manes,Slow Motion Death Sequence,Therapism,20,230562,False,0.63,0.732,0,-8.612,1,0.0478,0.0701,0.0074,0.0973,0.16,130.081,4,black-metal
+7j6b1wVBo73RNkNHFtERPb,Nightwish,Over The Hills And Far Away,Walking In The Air - Live,23,310773,False,0.253,0.695,2,-6.866,0,0.0371,0.0265,0.00142,0.945,0.312,119.181,4,symphonic-metal
+6DKP7aKpbczyNTZ3TQgl0q,Old Man's Child,Revelation 666 - The Curse of Damnation,Phantoms of Mortem Tales,16,335293,False,0.128,0.954,5,-4.753,1,0.0567,3.53e-06,0.128,0.167,0.183,147.166,4,black-metal
+0nLiqZ6A27jJri2VCalIUs,Metallica,Metallica,Nothing Else Matters,80,388266,False,0.553,0.362,4,-11.218,0,0.0263,0.0458,6.01e-06,0.075,0.158,142.352,3,thrash-metal
+4xXkmpsOPJtR7z7dy0tiNn,Epica;Fleshgod Apocalypse,The Great Tribulation (feat. Fleshgod Apocalypse),The Great Tribulation (feat. Fleshgod Apocalypse),50,303588,False,0.203,0.954,2,-6.158,1,0.115,0.00147,0.00266,0.058,0.114,95.008,4,symphonic-metal
+6tUzFC7gqFurOE3DY3vaO6,Epica,Live At Paradiso,The Phantom Agony - Live At Paradiso,25,653187,False,0.177,0.772,4,-8.065,0,0.159,0.0219,0.0151,0.688,0.0961,169.494,3,symphonic-metal
+3CYa33hVJKEwHC0HmgMQA8,The Acacia Strain,Wormwood,Nightman,28,171800,False,0.513,0.988,8,-3.453,1,0.0784,5.42e-05,0.00133,0.244,0.375,144.965,4,death-metal
+0qbV4e18lWrTTxlswVoLbI,Metallica,Death Magnetic,The Unforgiven III,60,466586,False,0.297,0.692,4,-5.625,0,0.0344,0.00196,3.75e-06,0.115,0.103,121.52,4,thrash-metal
+2nrfRdpLLrlfqkHzqgkfEu,Sepultura,Under a Pale Grey Sky (Live),Troops of Doom - Live at Brixton,22,166293,False,0.174,0.996,2,-5.256,1,0.13,0.000175,0.398,0.341,0.136,143.41,4,thrash-metal
+1pxWVfrLRtj1ecdsHjwew3,Samael,Aeonics - An Anthology,Supra Karma,17,269626,False,0.444,0.984,1,-3.418,1,0.0485,0.000188,0.947,0.552,0.21,100.01,4,black-metal
+4E5xVW505akJX0wcKj8Mpd,Megadeth,Rust In Peace (Expanded Edition),Tornado Of Souls - Remastered 2004,68,319266,False,0.519,0.982,7,-3.547,1,0.108,0.00203,0.00055,0.0971,0.361,97.745,4,thrash-metal
+4004xnMLj5QGxWvu6JPcJ7,Nightwish,Over The Hills And Far Away,Over The Hills And Far Away,56,302266,False,0.224,0.915,4,-3.299,0,0.0696,0.000313,0.000285,0.0916,0.381,101.766,3,symphonic-metal
+2zjkKyEsdA0L7MP0D5BaoE,King Diamond,Conspiracy,Amon Belongs to Them,26,231506,False,0.383,0.836,7,-13.16,1,0.0341,0.00744,0.699,0.422,0.494,100.14,4,death-metal
+4ORXSxr4tV5H6gH5KHAiAh,Asking Alexandria,The Black,The Black,57,281332,True,0.417,0.954,11,-4.152,0,0.0627,0.00151,0.0,0.407,0.146,96.993,4,symphonic-metal
+3BS64PH8btQGrEGOqMP8FG,The Agony Scene,The Darkest Red,Screams Turn to Silence,22,175853,False,0.473,0.997,7,-1.885,1,0.0938,1.43e-05,0.257,0.105,0.0846,105.57,4,death-metal
+5DLN0LQbIAD28k53GJfRPq,Anthrax,Halloween Metal Nights,Indians,1,341066,False,0.349,0.983,4,-5.969,0,0.0564,0.00065,0.000892,0.0365,0.422,105.571,4,thrash-metal
+0hAIs32U2SmJcXymlcyF8h,Asking Alexandria,Asking Alexandria,Alone In A Room,64,245861,True,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,4,symphonic-metal
+6sm4qIkuAMAq3rKcRCzLw6,Slaughter to Prevail,Kostolom,Demolisher,52,216000,True,0.209,0.991,1,-1.876,1,0.356,0.000407,0.000501,0.307,0.0659,199.865,4,death-metal
+6SOW1rdiCnxY64Fp89DluQ,Meshuggah,Immutable,The Abysmal Eye,50,295786,False,0.317,0.938,1,-6.973,0,0.078,2.62e-06,0.0016,0.293,0.132,175.018,4,death-metal
+5MapUlM1un2Kh4aZ3IyWcL,Halestorm,Into the Wild Life (Deluxe),I Am the Fire,55,217173,False,0.384,0.955,9,-2.884,0,0.266,0.0535,0.000997,0.0958,0.199,171.888,4,symphonic-metal
+5F2b8ExevODMQehJcEVjz9,Halestorm,Rock Brandneu,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+1PRlCWtYZPiYim0PKo1txN,Signs of the Swarm,Vital Deprivation,Vital Deprivation,22,46534,False,0.584,0.933,7,-3.924,1,0.118,0.000586,0.746,0.26,0.174,106.228,4,death-metal
+2Opl36RP0zmaF74JF6jnN4,In Element,Lyra,Melancholia,36,314645,False,0.541,0.98,8,-7.105,1,0.188,8.65e-06,0.00144,0.334,0.151,127.002,4,death-metal
+4mQZp6NPkTwwMxlnDsRUBF,Nailbomb,Point Blank,Exploitation,25,148026,False,0.22,0.956,10,-10.154,0,0.17,0.000149,0.503,0.366,0.21,105.293,4,death-metal
+0UkDQLM5G6PshSlRUWyiu0,Hypocrisy,End of Disclosure,Living Dead,20,231450,False,0.293,0.955,10,-5.383,0,0.0594,7.41e-06,0.829,0.289,0.327,170.004,4,black-metal
+5nekfiTN45vlxG0eNJQQye,Metallica,Ride The Lightning (Deluxe / Remastered),Fade To Black - Remastered,69,417226,False,0.256,0.924,7,-6.685,1,0.113,0.00369,0.234,0.114,0.28,113.574,4,thrash-metal
+14M68PdZSSMRzTBuJNuxO6,Kreator,Gods of Violence,Satan Is Real,52,278199,False,0.43,0.96,7,-4.32,1,0.0778,5.64e-05,0.0909,0.126,0.252,101.608,4,thrash-metal
+7LG0FEpKoKvHCv1S6FUrBY,Slaughter to Prevail,1984,1984,60,215000,True,0.465,0.993,0,-1.734,1,0.0903,0.000354,0.0335,0.464,0.204,92.472,4,death-metal
+21NhKlkXOJz3n8dSVL3ej5,Behemoth,Opvs Contra Natvram,Versvs Christvs,49,389927,False,0.207,0.883,1,-4.929,1,0.0722,0.000148,0.0124,0.071,0.142,181.908,4,death-metal
+7MvuFyAPlXazo6NUuei5Di,Therion,Les Fleurs du mal,Lilith,26,148626,False,0.328,0.8,7,-4.682,1,0.0374,0.00193,0.00171,0.265,0.428,81.455,4,symphonic-metal
+0hAIs32U2SmJcXymlcyF8h,Asking Alexandria,Asking Alexandria,Alone In A Room,64,245861,True,0.482,0.946,4,-3.23,0,0.0852,0.00251,0.0,0.0466,0.284,135.071,4,symphonic-metal
+0QV3swr7L8MZr72lL2izV1,Metallica,Hardwired…To Self-Destruct (Deluxe),Hardwired,63,189347,True,0.128,0.991,11,-3.289,1,0.0582,1.11e-05,0.00362,0.219,0.53,186.124,4,thrash-metal
+0vJYFKg9z1IvZiQUyX19cD,Black Sabbath,Paranoid,Iron Man (2012 - Remaster),23,353613,False,0.336,0.796,6,-10.845,0,0.0896,0.00361,0.00143,0.0621,0.417,155.28,4,thrash-metal
+6olS0TmHmsGr0hXtcBsiVM,Megadeth,Youthanasia (Expanded Edition),A Tout Le Monde - Remastered 2004,66,262133,False,0.272,0.747,5,-4.86,0,0.0401,0.000393,4.03e-05,0.16,0.255,202.777,4,thrash-metal
+4yUk1knKtOuUEPT2iy85Xp,Halestorm,Metal,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+2iA4neLS2rg1dlciGgmt4X,Megadeth,Release Your ANGER,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+17C4oPQ3sTpF11pi9yvGcs,Asking Alexandria,Stand Up And Scream,Not The American Average,63,279226,True,0.236,0.892,2,-4.106,0,0.188,0.0305,0.0,0.278,0.0685,184.981,4,symphonic-metal
+6Tjr3224DVeSWdq6dXgD6A,Slayer,Show No Mercy,The Antichrist,53,169533,False,0.342,0.937,0,-6.756,1,0.0726,6.09e-06,0.582,0.221,0.368,119.48,4,thrash-metal
+5IhtaTempjlVlPmSgI0FQS,Nightwish,Imaginaerum,Storytime,58,322280,False,0.465,0.971,5,-3.466,0,0.0749,0.00366,0.00375,0.326,0.483,156.171,4,symphonic-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+0J3Byk1w48wfuYOExLfdEl,Within Temptation;Chris Jones,An Acoustic Night At The Theatre,Utopia (feat. Chris Jones),39,230306,False,0.288,0.561,6,-6.461,1,0.0296,0.0264,0.0,0.119,0.183,113.599,4,symphonic-metal
+5FAx0Ro2QOrzA83AFQVHT3,Avhath,Frightened Teeth,Frightened Teeth,21,130771,False,0.175,0.983,0,-4.698,1,0.121,8.78e-06,0.877,0.362,0.107,170.244,4,black-metal
+5cKTyp5RFPALN8SbmYDGEk,Avhath,Lethargy / March to the Crater,March to the Crater,17,167963,False,0.137,0.258,8,-6.12,1,0.0724,0.0024,0.744,0.106,0.349,139.75,4,black-metal
+7GuZED83VYeWCoXJPysg7e,Avantasia;Ralf Scheepers,The Wicked Rule The Night,The Wicked Rule The Night,51,264946,False,0.29,0.909,10,-4.449,0,0.0511,2.17e-05,0.0024,0.114,0.28,170.011,4,symphonic-metal
+4izC2yID6txfr8xXN6xbZQ,Entombed,"To Ride, Shoot Straight and Speak the Truth",They,20,245720,False,0.179,0.994,8,-5.352,1,0.191,0.000316,0.916,0.0885,0.0398,138.382,4,black-metal
+18fzEuKBgJaElXWDmp6nxB,Therion,Sitra Ahra,Din,18,157853,False,0.282,0.969,8,-4.347,1,0.0709,0.00011,0.678,0.087,0.155,184.998,4,symphonic-metal
+0HF844CZVnlnsHOKmiPORg,Enslaved,Utgard,Flight of Thought and Memory,18,382040,False,0.367,0.896,1,-9.217,1,0.0969,0.00219,0.0937,0.364,0.102,159.935,1,black-metal
+2VPK0BMgwyRtx9QlyBpdb0,Nightwish,Oceanborn,Sleeping Sun,51,245000,False,0.333,0.572,2,-6.455,0,0.0302,0.00885,0.0,0.102,0.0707,110.402,4,symphonic-metal
+0SoSGyMnR4NJL6aK2IA0ea,Gruzja,Vulgator (Priest Simulator Ost),Happy End,24,228491,True,0.575,0.863,2,-4.917,1,0.05,0.000795,0.0226,0.154,0.637,120.033,4,black-metal
+4MWFv1DJVvQzEh949d9GfZ,Asking Alexandria,Life Gone Wild EP,"I Was Once, Possibly, Maybe , Perhaps A Cowboy King - Demo",24,241266,False,0.363,0.931,9,-4.265,1,0.0676,6.57e-05,8.38e-05,0.441,0.199,124.9,5,symphonic-metal
+1PhLYngBKbeDtdmDzCg3Pb,Metallica,Metallica,Sad But True,71,323933,False,0.633,0.846,7,-6.347,1,0.0337,0.000819,0.00139,0.0762,0.448,89.23,4,thrash-metal
+4ojxYY8trYxQBH06Ej6EPk,Overkill,Metal,Ignorance & Innocence,0,300373,False,0.496,0.853,7,-6.728,1,0.0383,0.000531,0.0959,0.266,0.612,137.295,4,thrash-metal
+1aXFBWnnPFRKUN7vuIA5h0,Metallica,Garage Inc.,Turn The Page,64,366466,False,0.426,0.813,8,-3.963,1,0.0318,1.94e-05,0.022,0.0937,0.228,149.013,4,thrash-metal
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+4WJTKbNJQ41zXnb84jSWaj,Sepultura,Groove Metal Roots & Branches,Roots Bloody Roots,0,212253,False,0.435,0.874,0,-6.664,1,0.123,0.000337,0.0419,0.311,0.265,120.167,4,thrash-metal
+0iflcVvXTep1z3w9HEkOck,Inquisition,Obscure Verses for the Multiverse,Spiritual Plasma Evocation,17,321320,False,0.479,0.926,7,-9.217,0,0.0934,1.06e-05,0.736,0.144,0.0722,115.009,4,black-metal
+1wVUMLb3gQ2GJWHlxecq4Y,Epica,Live At Paradiso,Cry For The Moon - Live At Paradiso,24,478500,False,0.465,0.81,2,-7.454,0,0.0454,0.00913,0.000138,0.974,0.216,89.936,4,symphonic-metal
+4fVbzqBB2X2XQfFpnaoxY9,Wolves In The Throne Room,Celestial Lineage,Astral Blood,19,616426,False,0.145,0.916,0,-8.108,1,0.0844,0.000125,0.794,0.351,0.0573,149.286,3,black-metal
+7xWgCUckC7bAQfrXGZ8l5e,Sodom,M-16 (20th Anniversary Edition),Napalm in the Morning (2021 - Remaster),10,356973,False,0.255,0.862,2,-5.637,1,0.0505,7.13e-05,0.0444,0.103,0.446,151.611,3,thrash-metal
+5SNDGulFALe3DpSbuYarl7,Nightwish,Century Child,Ever Dream,54,282933,False,0.394,0.873,7,-7.097,0,0.0594,0.000518,0.000158,0.277,0.25,147.806,4,symphonic-metal
+4ylGrwZtV1LlXtCYKldorX,Epica,The Solace System,Decoded Poetry,23,385556,False,0.469,0.931,7,-5.361,1,0.0463,0.000154,0.0501,0.341,0.383,91.981,4,symphonic-metal
+2XAXdBTkoCfXa3etTIcV63,Eulogy,Memento Mori,Cross to Bare,34,224347,False,0.562,0.888,10,-5.093,1,0.0396,0.0304,0.00688,0.159,0.406,134.997,4,death-metal
+66iX4HzM7YnmxmUZOSCG2F,Epica,The Phantom Agony (Expanded Edition),"Cry for the Moon (The Embrace That Smothers , Pt. 4)",54,406040,False,0.446,0.902,2,-5.33,0,0.046,0.00634,0.000345,0.0813,0.302,180.115,4,symphonic-metal
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,0,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+021HX1LUHVepJZhtAUYHnZ,Cruel Force,The Rise Of Satanic Might,Leather And Metal,23,166426,True,0.282,0.997,6,-4.833,1,0.0774,3.3e-06,0.664,0.052,0.615,177.114,4,black-metal
+7Ehz2k1K2YJ5xbyAAfaPAa,Thy Art Is Murder,Dear Desolation,Puppet Master,52,195790,True,0.322,0.996,9,-2.307,1,0.225,0.00428,0.0,0.342,0.0846,138.695,4,death-metal
+6x1CqgKyPiObhtVjZvL8mQ,DeadSquad,Tyranation,Lahir Mata Satir,33,236276,False,0.262,0.992,1,-3.979,1,0.265,0.000101,0.231,0.308,0.0492,94.527,3,death-metal
+6vSY2O8TWgHP0oLPn5WhbH,Annihilator,Set The World On Fire,Phoenix Rising,44,228546,False,0.598,0.76,2,-5.822,0,0.0295,0.0107,1.07e-05,0.343,0.164,120.488,4,thrash-metal
+7rlDUeAD7fTu9M3Ng8XMC4,Sepultura,Lisbela e o Prisioneiro (Trilha Sonora),O Matador,21,225306,False,0.251,0.744,2,-10.007,1,0.038,0.0104,0.839,0.499,0.082,147.955,4,thrash-metal
+3EgFBoMgwhv6cGC6svWyuL,Midnight,Satanic Royalty,Savage Dominance,19,207266,False,0.155,0.958,10,-3.658,0,0.0675,6.57e-06,0.178,0.297,0.19,155.723,4,black-metal
+7JxjFzQsWq7pLnbIhzgpZW,Månegarm,Ynglingaättens Öde,Adils fall,23,294933,False,0.456,0.93,2,-3.798,0,0.0515,9.53e-05,0.000171,0.457,0.54,155.98,3,black-metal
+0t1lDXmMWBzF6mfnQ6KwqZ,Slayer,Seasons In The Abyss,Dead Skin Mask,56,320520,False,0.342,0.987,3,-4.42,1,0.205,0.000262,0.00025,0.172,0.0418,110.125,4,thrash-metal
+5MuWGLrqeqYEcpqWMq5M1w,Asking Alexandria,The Black,I Won't Give In,60,229600,False,0.428,0.914,2,-3.017,1,0.0762,0.00594,0.0,0.309,0.494,74.989,4,symphonic-metal
+6Boqs3NAzPMxyhztKZOIyi,Anthrax,Halloween Metal Nights,Medusa,1,284040,False,0.334,0.814,11,-14.175,0,0.0447,0.0247,0.000593,0.501,0.676,150.813,4,thrash-metal
+4QoYZYRNnU3kDHzGbmZwFP,Epica,The Classical Conspiracy (Live in Miskolc),Cry for the Moon - Live in Miskolc,21,464000,False,0.485,0.891,2,-5.334,0,0.0461,0.0187,0.00094,0.982,0.245,90.029,4,symphonic-metal
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,0,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+5qOA9jbfWAtxOJ8zY1ReYf,Within Temptation,The Silent Force,Memories,51,231186,False,0.43,0.676,10,-7.367,0,0.0272,0.15,2.47e-06,0.187,0.215,90.927,4,symphonic-metal
+582QmuQapDg7uo1jcAKsgN,Megadeth,Release Your ANGER,Holy Wars...The Punishment Due - Remastered,0,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+5SNDGulFALe3DpSbuYarl7,Nightwish,Century Child,Ever Dream,54,282933,False,0.394,0.873,7,-7.097,0,0.0594,0.000518,0.000158,0.277,0.25,147.806,4,symphonic-metal
+3UsjgCLSPtcCBSmZaOq3qT,Månegarm,Ynglingaättens Öde,Auns söner,22,237173,False,0.542,0.958,7,-4.632,1,0.0417,9.74e-06,4.11e-05,0.436,0.575,134.968,4,black-metal
+06WUUNf7q18NZfjIsQFsfa,Slayer,Repentless,Delusions of Saviour,73,115413,False,0.223,0.805,8,-8.969,1,0.037,0.000179,0.814,0.0849,0.25,168.165,4,thrash-metal
+6IVKiq8Xxhvg03MUtu5smv,Epica,Omega,The Skeleton Key,51,306346,False,0.486,0.75,0,-8.237,0,0.0544,0.0141,0.00139,0.104,0.229,141.966,4,symphonic-metal
+17ExHVQYfJBlTSnbidz0LQ,Bleed From Within,I Am Damnation,I Am Damnation,49,286000,False,0.476,0.966,6,-4.228,1,0.0727,0.000662,0.000212,0.0538,0.227,92.506,4,death-metal
+5F2b8ExevODMQehJcEVjz9,Halestorm,Rock Brandneu,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+6L6tlqIYJmK7hwZQmzXuoC,Dark Funeral,Diabolis Interium,Heart of Ice,16,274240,False,0.215,0.941,8,-5.128,1,0.13,0.0,0.252,0.0602,0.0328,126.529,4,black-metal
+0wW2tk2F0X4SIAO6qDh7Ib,Samael,Solar Soul,Solar Soul,22,224400,False,0.535,0.981,2,-3.85,1,0.103,0.00106,0.0425,0.604,0.256,120.015,4,black-metal
+1HFOpXKl2F9pVDzKjbVTTy,Slayer,Repentless,Repentless,49,199866,True,0.402,0.994,8,-7.338,0,0.0623,3.79e-05,0.0934,0.145,0.247,104.111,4,thrash-metal
+55Tq6v0YrWM3OEw4s75cc0,Incantation,Mortal Throne of Nazarene,Demonic Incarnate,17,351800,False,0.0859,0.849,8,-5.48,1,0.0801,0.00011,0.962,0.336,0.129,165.985,3,black-metal
+1rj4j4uIMcwsmfCreEfxWZ,Carach Angren,Dance and Laugh Amongst the Rotten,Pitch Black Box,19,197146,False,0.366,0.665,7,-8.622,1,0.0384,0.0207,0.000154,0.111,0.248,91.033,4,black-metal
+4WVZCFBXHrQRhRc10oFWqD,Dom Zły,Śnisz bory tak gęste,Burza,19,278500,False,0.171,0.9,10,-6.047,1,0.18,5.22e-05,0.165,0.177,0.0368,120.034,4,black-metal
+3Jnxngdff0lVu2rza1GVx6,Black Sabbath,Paranoid,Paranoid (2009 - Remaster),42,167720,False,0.423,0.685,4,-9.651,0,0.078,6.28e-05,0.00642,0.133,0.328,162.78,4,thrash-metal
+4FyyPz7aB3NGy4MHehD662,Rotting Christ,Triarchy of the Lost Lovers,Diastric Alchemy,17,298933,False,0.283,0.9,9,-7.861,0,0.0526,0.00138,0.12,0.0537,0.417,137.493,4,black-metal
+7EJZZm3qwQWCOyhDr3oDQs,Death,Scream Bloody Gore (Reissue),Scream Bloody Gore,21,272684,False,0.279,0.9,11,-7.133,0,0.0588,0.0,0.583,0.321,0.189,107.69,4,death-metal
+6W2KBpMMXW17r7dPyqi8Iu,Slayer,Repentless,Repentless,58,199866,True,0.4,0.994,8,-7.34,0,0.0625,3.65e-05,0.097,0.145,0.253,104.134,4,thrash-metal
+0AUKCd1vaiFo5Ef36yh670,Surra,Bica na Cara,Valeu Memo,25,189400,True,0.381,0.997,1,-2.822,0,0.16,0.0933,0.0101,0.104,0.101,111.445,4,death-metal
+1DExxS5BN5kv7MbKj6jWgU,Revenge The Fate,Redemption,Pembalasan,33,194930,False,0.252,0.972,1,-3.58,0,0.185,1.97e-05,0.847,0.398,0.157,110.492,4,death-metal
+3jpGc7gcoTyQsrlfQ332Ql,Arch Enemy,"Deceiver, Deceiver","Deceiver, Deceiver",50,231773,False,0.185,0.983,1,-7.301,1,0.235,1.66e-05,0.191,0.197,0.102,178.864,4,death-metal
+2wqiV4aIMOosmQMqnLxXbA,Avantasia,The Mystery of Time,Invoke the Machine,25,332893,False,0.543,0.983,2,-4.27,0,0.066,0.00124,0.00149,0.332,0.27,109.992,4,symphonic-metal
+7i8l9o6EtdeTnD1id65IxF,The Acacia Strain,Continent,The Combine,25,122160,True,0.622,0.92,10,-4.745,1,0.0815,0.0117,2.37e-05,0.36,0.49,112.109,3,death-metal
+0VEyOWSkQ0yiYJiMxzAkS8,Therion,Les Fleurs du mal,Dis moi poupée,22,202186,False,0.513,0.935,11,-2.608,0,0.0425,0.0021,0.0765,0.162,0.606,115.047,4,symphonic-metal
+64syMK7oo9VPihJBj1IBGH,Napalm Death,Scum,Scum,45,158200,False,0.184,0.954,4,-7.719,1,0.103,1.22e-05,0.804,0.0932,0.222,83.346,3,death-metal
+1fyADQZzxd77Of2PjB4n7c,Ihsahn,Das Seelenbrechen,Pulse,43,293760,False,0.509,0.474,6,-10.7,0,0.0295,0.0227,0.72,0.128,0.0988,142.008,4,black-metal
+2xkvHKRX4CVg1Pr0sK7mwH,Mysticum,In the Streams of Inferno,The Rest,17,266281,False,0.287,0.938,7,-6.407,0,0.0709,2.06e-06,0.795,0.177,0.11,165.145,4,black-metal
+7DczAzWKf2WOretzrzQOCf,Gojira,Metal,Stranded,0,269533,False,0.512,0.879,7,-4.69,0,0.031,9.54e-05,0.00745,0.0824,0.484,92.358,4,death-metal
+7JP8lWYrxpA8luKU8IPd3Y,Asking Alexandria,See What’s On The Inside,Alone Again,56,228977,False,0.496,0.969,10,-3.085,1,0.0688,7.49e-05,5.93e-06,0.242,0.199,109.977,4,symphonic-metal
+2dNyGWJDXBsy6nqI2AYRkx,Entombed,Wolverine Blues (Full Dynamic Range Edition),Wolverine Blues,17,132093,False,0.38,0.916,10,-11.547,1,0.0487,0.0025,0.882,0.242,0.29,152.409,1,black-metal
+4fiOTntQKr24p07FvQDHZE,Slayer,Reign In Blood (Expanded),Raining Blood,65,255186,False,0.227,0.995,10,-4.361,0,0.173,0.000405,0.393,0.127,0.0363,87.499,4,thrash-metal
+4XeacvPPCoh3siE3kYt6QQ,Arkona,Lunaris,Lunaris,17,397000,False,0.301,0.892,0,-7.302,1,0.105,0.000106,0.817,0.175,0.0375,120.081,4,symphonic-metal
+0KTE42CfNdxyAXD6VUpypM,Burzum,Thulean Mysteries,Thulean Mysteries,19,261549,False,0.0791,0.097,7,-21.318,1,0.0433,0.985,0.983,0.108,0.0305,61.086,5,black-metal
+579dIsL1u8C60C4o1BD5Bp,Testament,Groove Metal Roots & Branches,Hail Mary,0,212733,False,0.38,0.935,1,-7.061,1,0.0595,6.45e-06,0.197,0.111,0.529,109.096,4,thrash-metal
+5ewW3UyoQblDHBySUFfNi9,Alcest,Split EP,Circe Poisoning the Sea,38,189506,False,0.406,0.189,10,-16.322,0,0.0306,0.944,0.952,0.113,0.0645,131.934,3,black-metal
+5FTkkXzay4muIam94XQwPT,Mizmor;Thou,Myopia,Myopia,19,621811,False,0.269,0.729,7,-9.062,1,0.0419,0.000237,0.865,0.176,0.117,101.779,3,black-metal
+1gUrib1Zs9FCjWQhqQX6dh,Eisregen,Marschmusik,Fleischbrand,24,329426,False,0.446,0.939,9,-6.032,1,0.0771,2.06e-05,0.00343,0.354,0.315,140.049,4,black-metal
+59nMQImAcxsAT1CevjgdWJ,DeadSquad,Tyranation,Pragmatis Sintetis,23,259095,False,0.279,0.993,1,-4.334,1,0.216,7.16e-05,0.727,0.065,0.103,124.233,4,death-metal
+39RBvhHW917F3eSjhb1RHK,Mercyful Fate,9,Burn In Hell,25,229506,False,0.507,0.871,11,-9.516,0,0.041,1.61e-05,1.92e-06,0.0875,0.65,117.004,4,death-metal
+0uubTSWb1mBcwxJ28pkLEJ,Liturgy,Origin of the Alimonies,Lonely OIOION,18,280600,False,0.069,0.721,0,-6.426,0,0.0708,0.000429,0.891,0.134,0.0351,70.306,4,black-metal
+6J4VOoKhRZFNeWkVH0WTzH,Testament,The Formation of Damnation,For the Glory of...,58,72493,False,0.45,0.892,8,-5.099,1,0.0466,2.8e-06,0.883,0.0878,0.49,120.048,4,thrash-metal
+6KqhPfkGbliDxjIQBVzltm,Samael,Worship Him,Manitou,18,223626,False,0.265,0.962,4,-6.976,0,0.101,0.000172,0.213,0.596,0.0754,150.655,4,black-metal
+6RueO0HhGmb5AFdEXypQhq,Municipal Waste,Hazardous Mutation,Set to Destruct,23,121026,False,0.32,0.985,4,-4.452,0,0.0957,0.000764,0.043,0.312,0.593,95.735,4,thrash-metal
+04Nhn19E68jXniH3U6OWoD,Bewitcher,Cursed Be Thy Kingdom,Electric Phantoms,19,257200,False,0.316,0.974,0,-6.375,0,0.114,7.55e-05,0.0153,0.385,0.49,138.718,4,black-metal
+0ihbD7cgJePV0WLQ4brEkT,Gatecreeper,Sonoran Depravation,Lost Forever,23,214737,False,0.444,0.879,11,-6.618,0,0.0402,1.94e-06,0.738,0.445,0.219,120.022,4,death-metal
+5ohfpKB5tt275f4Y4lQ9F7,Slayer,Reign In Blood (Expanded),Angel Of Death,60,291773,False,0.326,0.995,1,-4.38,1,0.147,9.41e-05,0.386,0.145,0.092,105.459,4,thrash-metal
+7iX4C1EgJgtt5ocP5IRrMt,Brownout;Brown Sabbath;Alex Maas,Brownout Presents Brown Sabbath,Hand of Doom,17,463991,False,0.379,0.543,0,-8.478,0,0.0445,0.0418,0.000456,0.109,0.377,146.446,4,thrash-metal
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+3jmkqJcTvtyuAk0YHTMkc7,Behemoth,Evangelion,Ov Fire and the Void,49,267320,False,0.471,0.973,1,-4.35,1,0.0806,2.29e-05,0.621,0.0243,0.152,130.034,4,death-metal
+0t8rptID6gfVZ2oHat2Omj,Nightwish,Highest Hopes-The Best Of Nightwish,Sleeping Sun - 2005 Version,38,264680,False,0.402,0.5,2,-8.18,0,0.0313,0.0443,0.000136,0.0948,0.0729,110.38,4,symphonic-metal
+20k4IdK8MCb9HKTT8r18CQ,Eulogy,Memento Mori,Corvid,34,348339,False,0.404,0.918,10,-5.593,1,0.0582,0.00995,0.0856,0.321,0.523,144.332,4,death-metal
+51TG9W3y9qyO8BY5RXKgnZ,Megadeth,Countdown To Extinction,Symphony Of Destruction,74,246733,False,0.61,0.891,4,-5.452,0,0.0587,0.000805,0.0928,0.0657,0.51,139.903,4,thrash-metal
+0pldPlzkIYwU23QgQhrlf1,Evil Darkness,Dark Blasting Tongue,Self Destruction,33,110920,True,0.354,0.942,3,-9.01,1,0.122,0.0226,0.823,0.277,0.235,144.987,4,death-metal
+39CJN5XXMaWOSn5LDtzzpM,Upon A Burning Body,The World Is My Enemy Now,"Blood, Sweat and Tears",26,203386,False,0.422,0.996,10,-2.088,1,0.183,0.000336,0.0,0.37,0.106,154.943,4,death-metal
+1955ZZJe1TzmSR0TomnNjI,Megadeth,Halloween Spooky Party 2022,Symphony Of Destruction,0,246733,False,0.61,0.889,4,-5.452,0,0.0585,0.000794,0.0865,0.0657,0.506,139.903,4,thrash-metal
+1AHKz2rFjUWKyC7D2nir5Q,Overkill,Groove Metal Roots & Branches,Dreaming in Columbia,0,240960,False,0.513,0.955,6,-6.854,0,0.0673,0.00047,0.687,0.0419,0.417,132.112,4,thrash-metal
+2NVFCFOAfBOUty2tkDinp5,The Contortionist,Clairvoyant,Reimagined,46,202360,False,0.552,0.585,4,-6.362,0,0.0261,0.000572,0.000927,0.078,0.275,135.052,4,death-metal
+19KiI0QSV1PmzWmPYgpVf2,Negator,VNITAS PVRITAS EXISTENTIA,Temple of Light,21,337315,False,0.417,0.927,9,-9.146,1,0.0801,1.56e-05,2.22e-05,0.334,0.107,126.956,4,black-metal
+4ATJgvvr6VLCkAMZ8MxfUt,Truchło Strzygi,Gwiezdny Demon,Ostatnie tchnienie Nosferatu,25,250326,True,0.341,0.924,6,-4.794,1,0.049,1.09e-05,0.00983,0.281,0.285,132.477,4,black-metal
+5uDWqYSiWqWTXK9CbAKIA8,Within Temptation,Resist (Extended Deluxe),Endless War,46,249360,False,0.452,0.865,3,-4.502,0,0.0511,0.00212,0.0,0.281,0.26,144.988,4,symphonic-metal
+6Boqs3NAzPMxyhztKZOIyi,Anthrax,Halloween Metal Nights,Medusa,1,284040,False,0.334,0.814,11,-14.175,0,0.0447,0.0247,0.000593,0.501,0.676,150.813,4,thrash-metal
+7mBFKY2XoYU6MkERazfaZx,Nervosa,Victim of Yourself,Into Moshpit,24,223240,False,0.357,0.993,1,-5.736,1,0.0769,4.04e-05,0.0283,0.0942,0.297,100.529,4,death-metal
+0jSbXIEAlr1ZathgE6rlnm,Nightwish,From Wishes To Eternity (Live),Come Cover Me - Live,21,284800,False,0.356,0.909,2,-3.942,0,0.0705,0.00277,1e-06,0.92,0.167,146.936,4,symphonic-metal
+2tgX2ZvbV9c8zdAalS1ige,Arsonists Get All The Girls,The Game of Life,Save The Castle Screw The Princess,22,311986,False,0.321,0.986,0,-2.262,1,0.23,4.76e-05,0.439,0.276,0.251,129.857,4,death-metal
+4v3Iyw1DP578eRpoQPpcv9,Lamb of God;Megadeth;Dave Mustaine,Wake up Dead (feat. Dave Mustaine),Wake up Dead (feat. Dave Mustaine),50,223413,False,0.225,0.937,0,-4.596,1,0.124,9.51e-05,0.163,0.119,0.351,161.195,4,thrash-metal
+2OoS1aZFAFscH1cUiKlazH,Sepultura,Chaos A.D.,Refuse / Resist,57,199226,True,0.475,0.953,2,-6.951,1,0.15,0.000291,0.00338,0.104,0.232,118.033,4,thrash-metal
+5B3vZE0PeDS9MYfD2supyD,Marduk,Dark Endless,Within the Abyss,17,219453,False,0.205,0.912,8,-6.826,1,0.0914,1.81e-06,0.00956,0.25,0.459,149.672,4,black-metal
+4PgjfAQVdKbPiJDhDxcu8i,Epica;Jan Chris de Koeijer,Live At Paradiso,Consign To Oblivion - Live At Paradiso,24,695090,False,0.472,0.834,5,-7.19,1,0.0495,0.0293,0.000514,0.696,0.142,90.032,4,symphonic-metal
+1QhB4xAsples3ILh2jrADU,Hypocrisy,The Fourth Dimension / Maximum Abduction,Mind Corruption,25,231333,False,0.416,0.846,6,-8.412,1,0.0377,5.56e-05,0.00527,0.0905,0.333,101.183,4,death-metal
+68dbBNemjW6Pty2B63xTEh,Månegarm,Ynglingaättens Öde,Vitta vettr,20,356266,False,0.47,0.959,10,-4.408,1,0.0502,1.8e-05,0.0147,0.228,0.295,143.963,4,black-metal
+3jkg3492UhXZE378fyanq6,Suicidal Tendencies,How Will I Laugh Tomorrow When I Can't Even Smile Today,Pledge Your Allegiance,34,270693,True,0.424,0.711,9,-12.811,1,0.0352,0.0236,0.000324,0.133,0.441,92.493,4,thrash-metal
+0RZVAhyB8vhxQz6ITjiuyA,Nightwish,HUMAN. :II: NATURE.,Noise,57,340281,False,0.5,0.85,2,-7.759,1,0.0493,0.000406,0.00515,0.121,0.434,76.976,4,symphonic-metal
+4iQBVLsc2PEkoq1B99jTPw,Kvaen;Pierre Törnkvist,The Funeral Pyre,Septem Peccata Mortalia,17,254095,False,0.39,0.847,4,-7.669,0,0.0497,0.00331,0.981,0.271,0.349,100.033,4,black-metal
+0oRJe5bo3zq3WhNkkkADYN,Månegarm,Nattväsen,Nattväsen,20,351253,False,0.256,0.855,7,-3.897,1,0.0417,0.000271,0.00335,0.149,0.417,115.12,4,black-metal
+3c272JQ5S83nlQ8rjrK5Ur,Dimmu Borgir,Eonian,Interdimensional Summit,47,279148,False,0.454,0.969,1,-4.897,0,0.0748,2.18e-05,0.171,0.0709,0.386,140.172,3,black-metal
+3Tg8JctqoeIwZ3Rue8BjaI,Sepultura,Roots,Ratamahatta,56,270640,False,0.53,0.95,10,-5.402,0,0.0959,0.00801,0.205,0.33,0.411,112.627,4,thrash-metal
+1u2kXFKLaZu0VEpwBy3oQO,Therion,Leviathan,Aži Dahāka,23,186635,False,0.359,0.87,9,-11.567,0,0.0641,0.000486,0.00031,0.103,0.264,186.046,4,symphonic-metal
+2T2vudIHfVMA5ychWTU3KA,Children Of Bodom,Are You Dead Yet?,Are You Dead Yet?,62,234880,False,0.461,0.961,8,-3.011,1,0.0479,6.39e-06,0.14,0.308,0.416,96.009,4,death-metal
+7HNuOSdFjkJi1Oho5k4FPR,Upon A Burning Body,The World Is Ours,Devil's Advocate,23,216546,False,0.295,0.971,10,-5.39,1,0.193,0.0019,0.000158,0.397,0.291,132.417,1,death-metal
+3pGjdNmcVEbSzsyv86ssvV,Claustrofobia,Peste,Metal Malóka,25,212400,True,0.214,0.998,4,-1.78,0,0.324,0.228,7.83e-06,0.342,0.055,74.602,4,death-metal
+0RRNdm9FhEGVl0p6S9JlIT,Tiamat,The Musical History of Tiamat,Gaia - live in Stockholm 1994,19,383093,False,0.397,0.591,2,-8.146,0,0.032,0.0343,0.519,0.777,0.11,119.838,4,black-metal
+6G7KraD6OUZ8lSMfgjiPr5,In Flames,"I, the Mask",Stay with Me,53,316907,False,0.424,0.757,5,-7.259,0,0.0364,0.000975,0.000608,0.129,0.244,95.043,4,death-metal
+1dnfJhycquK7AK5dRCsNIn,Epica,Live At Paradiso,Another Me (In Lack'ech) - Live At Paradiso,25,287312,False,0.592,0.777,4,-7.156,0,0.0374,0.0758,0.0,0.953,0.515,104.005,4,symphonic-metal
+6kVCQVk1kEUk8v2fHmlS24,Fluids,Ignorance Exalted,Capped,24,179800,False,0.35,0.973,11,-5.87,0,0.0716,0.0229,0.905,0.35,0.0782,90.051,4,death-metal
+7kPZ2v5kmx0PTI5zV6mvDz,Slayer,God Hates Us All,Disciple,50,215693,True,0.252,0.994,8,-3.66,1,0.227,0.000888,0.0156,0.168,0.0767,101.02,4,thrash-metal
+2ktq6Mjg0O6BVq9U8FTzGE,Jesus Piece,3 Song Tape,Left to Drown,20,120104,False,0.481,0.969,5,-8.917,0,0.0865,0.00811,0.205,0.343,0.0919,146.995,4,black-metal
+4OAgWmisw29lzun5bfaUeV,Craft,White Noise and Black Metal,Darkness Falls,17,290400,False,0.107,0.99,8,-5.61,1,0.103,4.47e-06,0.274,0.342,0.186,181.558,3,black-metal
+705Brpf4yyvCyFT5V8XGTJ,Kaunis Kuolematon,Syttyköön Toinen Aurinko,Mustavalkoinen,21,359400,False,0.491,0.749,11,-7.936,1,0.0369,0.00264,0.41,0.124,0.0931,110.091,3,death-metal
+5soihaBWFEQqCYu0HOUVzK,Nightwish,Wishmaster,Wishmaster,52,264026,False,0.379,0.95,1,-4.898,1,0.114,1.76e-05,0.0398,0.242,0.427,174.219,4,symphonic-metal
+6HQfFAupOMsmfWV4CbG1Kj,Gojira,Magma,The Shooting Star,52,342346,False,0.497,0.844,2,-5.055,0,0.0346,0.00158,0.0854,0.155,0.32,126.137,4,death-metal
+3jYMAtv2dEi8V4sIh8h1W2,Blood Incantation,Starspawn,"Hidden Species (Vitrification of Blood, Pt. 2)",22,417720,False,0.254,0.836,1,-9.412,1,0.0529,2.71e-05,0.899,0.328,0.163,144.368,3,death-metal
+50Uf5o0LGW9SRFSz4sLjML,Fleshgod Apocalypse,King,In Aeternum - Orchestral Version,19,327013,False,0.176,0.521,11,-10.428,0,0.0474,0.584,0.963,0.216,0.142,74.977,4,black-metal
+2R6UrJ8uWbSIiHWmvRQvN8,Metallica,Garage Inc.,Whiskey In The Jar,75,304693,False,0.511,0.97,10,-3.72,1,0.0414,5.6e-06,0.00136,0.18,0.566,132.986,4,thrash-metal
+2MuWTIM3b0YEAskbeeFE1i,Metallica,Master Of Puppets (Remastered),Master Of Puppets,81,515386,False,0.543,0.836,4,-9.11,0,0.0353,0.000647,0.431,0.153,0.56,105.173,4,thrash-metal
+7zWPlO8Mcjc5mQGf7v8dlE,Asking Alexandria,Asking Alexandria,Into The Fire,58,237003,True,0.375,0.965,8,-2.436,0,0.123,0.000164,0.000835,0.28,0.292,175.014,4,symphonic-metal
+5awljpWNO5TpXCyjpvCBbs,Testament,The Ritual,Return to Serenity,53,390800,False,0.294,0.613,1,-10.527,1,0.0384,0.235,0.000494,0.139,0.228,112.385,3,thrash-metal
+7dm4124xNhGrXxX2eE0CCP,Repugnant,Epitome of Darkness,Mutilated Remains,21,280546,False,0.127,0.991,1,-3.288,1,0.102,5.36e-06,0.526,0.376,0.0433,147.027,4,death-metal
+6UB9mShVLbMm0W4e6vud4C,Metallica,Master Of Puppets (Remastered),Battery,65,312360,False,0.481,0.928,11,-8.799,0,0.0672,0.00022,0.558,0.106,0.427,96.699,4,thrash-metal
+3bG1B0UTDX0UYg9qeec3gL,Halestorm,Metal Lives!,Wicked Ways,0,206959,False,0.342,0.991,2,-2.836,1,0.125,2.44e-05,0.049,0.404,0.242,176.359,4,symphonic-metal
+1M8LMTTEajUuw7AN0g4f4i,Megadeth,Halloween Metal Nights,Holy Wars...The Punishment Due - Remastered,2,392600,False,0.327,0.985,11,-3.941,1,0.151,0.00177,0.108,0.351,0.218,125.232,4,thrash-metal
+7MOMkeydYmyvxbidrx2gT4,Rotting Christ,A Dead Poem,Full Colour Is the Night,17,287466,False,0.455,0.887,9,-6.57,0,0.0342,3.08e-06,0.554,0.116,0.439,136.103,4,black-metal
+5d0B19teJRYmeAx1B5vH9K,Within Temptation,Mother Earth,Ice Queen - Live,25,310026,False,0.295,0.67,8,-8.206,0,0.0472,0.00603,0.0,0.336,0.321,185.116,4,symphonic-metal
+38fIaph07Kd8ZIN6l17ZJs,Metallica,Kill 'Em All (Remastered),Whiplash - Remastered,62,248546,True,0.384,0.916,4,-6.468,0,0.0983,0.000611,0.422,0.14,0.192,158.042,4,thrash-metal
+6XnPopwCZ6odHVVqMsllL5,Within Temptation;Jacoby Shaddix,Resist (Extended Deluxe),The Reckoning,54,251106,False,0.31,0.825,1,-4.53,1,0.0563,0.00356,0.0,0.641,0.475,89.885,4,symphonic-metal
+5EtMSb48HPvR3cV7CkEKvX,Therion,Theli,Invocation of Naamah,24,329360,False,0.403,0.727,6,-7.943,0,0.0372,0.000337,0.00218,0.199,0.141,83.934,4,symphonic-metal
+1sBGKVkGtoyxjtVKp5Vz2K,Månegarm,Nattväsen,Bergagasten,16,310213,False,0.565,0.852,0,-3.869,0,0.034,0.00129,0.00114,0.0962,0.51,124.96,4,black-metal
+5RKNHGP5Nv526dJ5LmgcjX,Sepultura,Arise,Orgasmatron,55,254386,False,0.495,0.98,9,-5.467,1,0.091,0.000177,0.000451,0.227,0.326,138.217,4,thrash-metal
+1u2kXFKLaZu0VEpwBy3oQO,Therion,Leviathan,Aži Dahāka,23,186635,False,0.359,0.87,9,-11.567,0,0.0641,0.000486,0.00031,0.103,0.264,186.046,4,symphonic-metal
+4wwUsbKQ4zosUj6DC4vkjW,I Declare War,Amidst the Bloodshed,Amidst the Bloodshed,23,126693,False,0.347,0.819,0,-5.841,0,0.0881,0.000559,0.582,0.172,0.102,59.639,3,death-metal
+4lI1izPJwDoyDCrxgMCWtN,Epica,Live At Paradiso,Run For A Fall - Live At Paradiso,24,428187,True,0.271,0.583,4,-8.182,0,0.0517,0.246,1.59e-05,0.806,0.251,112.003,4,symphonic-metal
+0VEyOWSkQ0yiYJiMxzAkS8,Therion,Les Fleurs du mal,Dis moi poupée,22,202186,False,0.513,0.935,11,-2.608,0,0.0425,0.0021,0.0765,0.162,0.606,115.047,4,symphonic-metal
+5QdO7aRLZEUhwti8gTM0qW,Myrkur,Dronning Ellisiv,Dronning Ellisiv,42,272628,False,0.523,0.481,5,-9.757,1,0.0269,0.93,0.0012,0.236,0.198,137.985,3,black-metal
+35qULvfVsRGHE2u4OkNzI0,Upon A Burning Body,Southern Hostility,All Pride No Pain,51,207398,False,0.594,0.933,4,-6.072,0,0.198,0.00017,0.359,0.264,0.159,108.041,4,death-metal
+4004xnMLj5QGxWvu6JPcJ7,Nightwish,Over The Hills And Far Away,Over The Hills And Far Away,56,302266,False,0.224,0.915,4,-3.299,0,0.0696,0.000313,0.000285,0.0916,0.381,101.766,3,symphonic-metal
+1aXFBWnnPFRKUN7vuIA5h0,Metallica,Garage Inc.,Turn The Page,64,366466,False,0.426,0.813,8,-3.963,1,0.0318,1.94e-05,0.022,0.0937,0.228,149.013,4,thrash-metal
+4fiOTntQKr24p07FvQDHZE,Slayer,Reign In Blood (Expanded),Raining Blood,65,255186,False,0.227,0.995,10,-4.361,0,0.173,0.000405,0.393,0.127,0.0363,87.499,4,thrash-metal
+3gpcZWzukI9SNHwpOrjKMW,Transmetal,Velóz y Devastador,Enviado del Infierno,30,207632,False,0.343,0.703,5,-11.202,0,0.029,0.00701,0.0776,0.0841,0.496,111.84,4,death-metal
+4P44lP7mjdMrHiNP9O5X13,Midnight,Rebirth by Blasphemy,You Can Drag Me Through Fire,20,244000,False,0.0925,0.957,8,-5.241,0,0.0687,1.07e-05,0.0261,0.0703,0.185,178.333,4,black-metal
+0WZZENH0kt3O2cBE8q5IRq,Arch Enemy,War Eternal,War Eternal,60,256053,True,0.445,0.98,5,-4.369,0,0.0731,2.45e-05,0.163,0.129,0.285,155.045,4,death-metal
+3jp9WtnLoaBkAu9wOhPDiz,Tribulation,The Children of the Night,Winds,21,411786,False,0.208,0.902,2,-5.759,0,0.0594,0.000279,0.00104,0.0558,0.136,130.995,4,death-metal
+5lETDIvyWLJvR3YwohnwOZ,The Kovenant,Animatronik,Mannequin,19,300653,False,0.525,0.93,7,-4.414,0,0.0387,0.000139,0.0338,0.11,0.229,120.142,4,black-metal
+18qbcoPDMyUrQQ422XAskt,Black Pantera,Ascensão,Fogo Nos Racistas,32,219108,True,0.52,0.989,1,-4.98,1,0.0895,0.0284,4.3e-05,0.122,0.307,111.916,4,death-metal
+0HXZLXE9zsZwJg6yGKWDTh,Eternal Helcaraxe,Drown in Ash,Where Dead Things Roam Free,17,339626,False,0.331,0.838,5,-7.88,0,0.0557,1.71e-06,0.768,0.093,0.25,119.829,3,black-metal
+6KOD8XlwpJYM6jQJq6uPoj,Brujeria,Raza Odiada,Primer Meco,22,75066,False,0.424,0.928,7,-7.876,1,0.177,0.00148,0.00019,0.514,0.337,125.811,4,death-metal
+15Fp9Tll3vmaimwaIPgdQi,Sepultura,The Complete Max Cavalera Collection 1987-1996,Troops of Doom,22,199706,False,0.344,0.982,11,-7.031,1,0.119,0.00029,0.685,0.167,0.0733,121.521,4,thrash-metal
+385iB1Psu1btHmaZqJ1dOr,Djin,The Science Of Thought,Stockholm Syndrome,22,252813,False,0.543,0.991,6,-2.363,1,0.135,1.3e-05,0.00382,0.629,0.364,130.034,4,death-metal
+0vpLgxoX2cpJM0Fvxwbw84,Meshuggah,Chaosphere (Reloaded),New Millennium Cyanide Christ,48,335666,False,0.269,0.964,10,-5.182,0,0.143,0.000241,0.00211,0.131,0.159,149.86,4,death-metal
+2jfku0KZPbMQaxm00a8EnK,Mercyful Fate,In the Shadows,Legend Of The Headless Rider,23,463106,False,0.302,0.88,2,-8.769,1,0.0708,0.0215,0.0151,0.664,0.32,146.89,4,death-metal
+1E0yt5XSdjE9NOu897RilW,Slayer,Seasons In The Abyss,War Ensemble,56,291733,False,0.332,0.988,8,-4.111,1,0.146,7.65e-05,0.0126,0.055,0.097,98.878,4,thrash-metal
+4db68Sbkp5DydcmUAJgNvs,Gideon;Drew York,Out of Control,2 CLOSE (feat. Drew York),28,222823,True,0.587,0.959,5,-3.304,0,0.0692,0.000136,0.0578,0.67,0.446,97.531,4,death-metal
+5oAvb7LpUBwQfBtQ6hmS4Q,Nightwish,Endless Forms Most Beautiful (Deluxe Version),Élan,58,287000,False,0.576,0.588,5,-9.553,1,0.0308,0.0124,0.000177,0.148,0.316,127.969,4,symphonic-metal
+5NJu4ptSsZp7ocFb459rt7,Truchło Strzygi,Gwiezdny Demon,Kreatura Obrzydlistwa,20,255149,True,0.262,0.92,1,-4.562,1,0.0521,1.73e-05,0.00138,0.766,0.216,116.972,4,black-metal
+2VvmryAbIRod1FwZHtwqC5,Nightwish,Highest Hopes-The Best Of Nightwish,Wish I Had An Angel,60,243213,False,0.438,0.936,0,-6.465,1,0.0533,9.68e-06,0.029,0.47,0.58,79.512,4,symphonic-metal
+3dWNUqrgkQakv9fj5epwPK,Metallica,Load,Mama Said,60,319693,False,0.448,0.504,8,-7.749,0,0.0317,0.0171,0.000849,0.38,0.391,135.254,4,thrash-metal
+46OE15rOBGfa2XHqLEqCcs,Bucovina,Septentrion,Noaptea Nimanui,21,343320,False,0.269,0.913,9,-4.476,0,0.0439,0.000231,0.146,0.367,0.155,98.105,4,black-metal
+3LwqbTRN5BnTb1Pc3jxbZ9,Ensiferum,From Afar,Elusive Reaches,23,206413,False,0.449,0.993,9,-5.927,0,0.0925,1.49e-05,0.00643,0.144,0.468,100.026,4,death-metal
+4r27uNqLbWgXGKHzhA7n6x,Saor,Aura (Remastered),Aura (Remastered),17,817017,False,0.246,0.81,8,-8.678,1,0.0714,0.00251,0.234,0.339,0.0771,144.995,4,black-metal
+0V7cyyQLdJg0ythOljTCPn,Vomit Forth,Seething Malevolence,Seething Malevolence,23,194072,True,0.342,0.966,6,-5.948,1,0.187,0.000106,0.0512,0.184,0.217,167.175,4,death-metal
+01cGujYWGF7JchJLSgf6Ta,Obituary,Cause of Death (Reissue),Chopped in Half,46,225360,False,0.257,0.989,10,-5.918,0,0.0867,6.72e-06,0.521,0.263,0.385,109.267,4,death-metal
+1dN75q3yZzOqWsz1qHE6gz,Horn,Turm am Hang,Turm am Hang,22,309105,False,0.422,0.847,7,-5.601,0,0.0565,0.0029,0.174,0.102,0.268,113.363,4,black-metal
+3gQjip4rD3Aq2vvDb9mjAj,Attila,Soundtrack to a Party,Soda in the Water Cup,22,228653,False,0.349,0.978,9,-4.823,1,0.234,0.000342,0.129,0.405,0.153,172.866,3,death-metal
+6fKSBgaJyoPSttcFgjDaIg,Hypocrisy,The Final Chapter,Inquire Within,18,347466,False,0.346,0.9,11,-7.899,0,0.0451,9.17e-06,0.692,0.12,0.248,140.11,4,black-metal
+0tUWRioloZrqmq95DAMsOK,Within Temptation,Resist (Extended Deluxe),Mad World,46,297413,False,0.572,0.824,5,-5.464,0,0.0323,0.00203,2.66e-05,0.132,0.531,119.982,4,symphonic-metal
+4zD7fckgtkUcy4TBnabVuT,Dimmu Borgir,Alive in Torment (Live),Puritania - Live,16,186506,False,0.147,0.991,5,-2.818,0,0.287,0.000123,0.551,0.91,0.0863,83.017,4,black-metal
+63yJNPFapPMRBRzuu7kQwP,Avantasia,Ghostlights,Spectres - Live,22,364000,False,0.463,0.868,8,-6.524,1,0.103,0.0341,4.58e-05,0.945,0.166,126.078,4,symphonic-metal
+3u2O5KKgRUJdRPEefHsZfv,Einherjer,"Av Oss, For Oss",Nidstong,18,245066,False,0.378,0.917,7,-3.495,0,0.0438,1.83e-06,0.774,0.0465,0.379,139.992,4,black-metal
+0jRdMXriTIWk0Bjr3ZSp49,Cadaveria,Horror Metal (Undead Edition),Flowers in Fire,18,411605,False,0.462,0.744,11,-8.118,0,0.0424,7.97e-05,0.0854,0.287,0.0621,134.063,4,black-metal
+30DndvseLl8zjo78OBwbpl,Norma Jean,Meridional,Bastardizer,24,195960,False,0.138,0.916,8,-6.32,1,0.104,4.68e-05,0.304,0.767,0.278,178.542,4,death-metal
+5op4dOCfAiYDMgmOATf2Lo,Testament,Metal,Electric Crown,0,330226,False,0.357,0.905,1,-7.787,1,0.0523,0.00395,0.000417,0.375,0.546,81.294,4,thrash-metal
+4iXJ1MCn4P10QNSbIDT1ig,Before I Turn,Lovelorn,Cold,22,241750,False,0.455,0.979,4,-2.631,0,0.0939,4.1e-05,0.000954,0.0844,0.204,130.025,4,death-metal
+3MBcaBv5QE0r93kFG9PWfG,Samael,Ceremony of Opposites,Flagellation,24,221546,False,0.353,0.973,1,-6.297,1,0.0787,1.31e-05,0.708,0.104,0.286,118.021,4,black-metal
