@@ -1,71 +1,71 @@
-# Klasifikacija metal podžanrova na osnovu audio karakteristika
+# Класификација metal поджанрова на основу аудио карактеристика
 
-Projekat iz predmeta **Softverski algoritmi u sistemima automatskog upravljanja**
+Пројекат из предмета **Софтверски алгоритми у системима аутоматског управљања**
 
-**Student:** Marko Durić, RA 106-2023
-**Profesor:** Darko Čapko
-**Asistent:** Emina Demirović
+**Студент:** Марко Дурић, РА 106-2023
+**Професор:** Дарко Чапко
+**Асистент:** Емина Демировић
 
-## Opis projekta
+## Опис пројекта
 
-Cilj projekta je razvoj modela koji na osnovu audio karakteristika pjesme (tempo, energy, danceability, itd.) predviđa kojem od četiri metal podžanra pjesma pripada:
+Циљ пројекта је развој модела који на основу аудио карактеристика пјесме (tempo, energy, danceability, итд.) предвиђа којем од четири metal поджанра пјесма припада:
 
 - Black metal
 - Death metal
 - Symphonic metal
 - Thrash metal
 
-Skup podataka preuzet je sa Kaggle platforme i sadrži Spotify audio karakteristike pjesama.
+Скуп података преузет је са Kaggle платформе и садржи Spotify аудио карактеристике пјесама.
 
-## Struktura projekta
+## Структура пројекта
 
 ```
-├── data/               # Sirovi i obrađeni podaci (CSV)
-├── models/             # Sačuvani modeli, scaler i label encoder (.pkl)
-├── notebooks/          # Jupyter notebook-ovi (EDA, feature engineering, modeling)
-├── report/             # Word izvještaj sa rezultatima i zaključcima
-├── results/            # Grafici i metrike izdvojeni iz notebook-ova
-├── src/                # Pomoćne Python skripte za čišćenje sirovih podataka
-├── app.py              # Streamlit aplikacija za predikciju
-└── requirements.txt    # Lista potrebnih Python biblioteka
+├── data/               # Сирови и обрађени подаци (CSV)
+├── models/             # Сачувани модели, scaler и label encoder (.pkl)
+├── notebooks/          # Jupyter notebook-ови (EDA, feature engineering, modeling)
+├── report/             # Word извјештај са резултатима и закључцима
+├── results/            # Графици и метрике издвојени из notebook-ова
+├── src/                # Помоћне Python скрипте за чишћење сирових података
+├── app.py              # Streamlit апликација за предикцију
+└── requirements.txt    # Листа потребних Python библиотека
 ```
 
-## Instalacija
+## Инсталација
 
-1. Kloniraj repozitorijum:
+1. Клонирај репозиторијум:
 ```bash
 git clone https://github.com/TvojeKorisnickoIme/metal-genre-classification.git
 cd metal-genre-classification
 ```
 
-2. Instaliraj potrebne biblioteke:
+2. Инсталирај потребне библиотеке:
 ```bash
 pip install -r requirements.txt
 ```
 
-## Pokretanje notebook-ova
+## Покретање notebook-ова
 
-Notebook-ovi se pokreću ovim redoslijedom (svaki sledeći zavisi od fajlova koje prethodni sačuva u `data/processed/` i `models/`):
+Notebook-ови се покрећу овим редослиједом (сваки сљедећи зависи од фајлова које претходни сачува у `data/processed/` и `models/`):
 
-1. `notebooks/01_EDA.ipynb` — eksplorativna analiza podataka
-2. `notebooks/02_feature_engineering.ipynb` — priprema podataka za modelovanje
-3. `notebooks/03_modeling.ipynb` — treniranje, tuning i evaluacija modela
+1. `notebooks/01_EDA.ipynb` — експлоративна анализа података
+2. `notebooks/02_feature_engineering.ipynb` — припрема података за моделовање
+3. `notebooks/03_modeling.ipynb` — тренирање, tuning и евалуација модела
 
-Otvori ih u Jupyteru, PyCharmu ili VS Code-u i pokreni **Restart & Run All**.
+Отвори их у Jupyteru, PyCharmu или VS Code-у и покрени **Restart & Run All**.
 
-## Pokretanje Streamlit aplikacije
+## Покретање Streamlit апликације
 
-Nakon što su notebook-ovi pokrenuti i modeli sačuvani u `models/` folderu, pokreni:
+Након што су notebook-ови покренути и модели сачувани у `models/` фолдеру, покрени:
 
 ```bash
 streamlit run app.py
 ```
 
-Aplikacija se otvara u browseru na adresi `http://localhost:8501`. Unesi audio karakteristike pjesme i klikni **"Predvidi podžanr"** da dobiješ predikciju sa pripadajućim vjerovatnoćama za sve četiri klase.
+Апликација се отвара у browseru на адреси `http://localhost:8501`. Унеси аудио карактеристике пјесме и кликни **"Predvidi podžanr"** да добијеш предикцију са припадајућим вјероватноћама за све четири класе.
 
-## Rezultati
+## Резултати
 
-| Model | Accuracy | F1-score |
+| Модел | Accuracy | F1-score |
 |---|---|---|
 | XGBoost (Tuned) | **83,2%** | **0,834** |
 | XGBoost | 81,1% | 0,815 |
@@ -73,17 +73,17 @@ Aplikacija se otvara u browseru na adresi `http://localhost:8501`. Unesi audio k
 | Random Forest | 78,4% | 0,788 |
 | SVM (RBF kernel) | 71,1% | 0,707 |
 | KNN (K=1) | 63,2% | 0,631 |
-| Logistička regresija | 58,4% | 0,581 |
+| Логистичка регресија | 58,4% | 0,581 |
 
-Najbolji model je **XGBoost (Tuned)**, sačuvan u `models/xgboost_tuned.pkl`.
+Најбољи модел је **XGBoost (Tuned)**, сачуван у `models/xgboost_tuned.pkl`.
 
-Detaljni rezultati, grafici i diskusija dostupni su u Word izvještaju u `report/` folderu.
+Детаљни резултати, графици и дискусија доступни су у Word извјештају у `report/` фолдеру.
 
-## Korištene biblioteke
+## Коришћене библиотеке
 
-- pandas, numpy — obrada podataka
-- matplotlib, seaborn — vizualizacija
-- scikit-learn — modeli, preprocessing, metrike
-- xgboost — gradient boosting model
-- streamlit — web aplikacija za deployment
-- joblib — čuvanje modela
+- pandas, numpy — обрада података
+- matplotlib, seaborn — визуализација
+- scikit-learn — модели, preprocessing, метрике
+- xgboost — gradient boosting модел
+- streamlit — web апликација за deployment
+- joblib — чување модела
