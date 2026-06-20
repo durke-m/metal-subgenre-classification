@@ -3,14 +3,14 @@ import pandas as pd
 import numpy as np
 import joblib
 
-# ─── Konfiguracija stranice ────────────────────────────────────────
+# ─── Конфигурација странице ────────────────────────────────────────
 st.set_page_config(
-    page_title="Metal Genre Classifier",
-    page_icon="🤘",
+    page_title="Класификатор метал поджанрова",
+   #page_icon="🤘",
     layout="centered"
 )
 
-# ─── Učitavanje modela i pomoćnih objekata ─────────────────────────
+# ─── Учитавање модела и помоћних објеката ──────────────────────────
 @st.cache_resource
 def load_artifacts():
     model = joblib.load("models/xgboost_tuned.pkl")
@@ -27,23 +27,27 @@ FEATURE_COLS = [
     "time_signature", "duration_s"
 ]
 
-GENRE_EMOJI = {
-    "black-metal": "🦇",
-    "death-metal": "💀",
-    "symphonic-metal": "🎻",
-    "thrash-metal": "⚡"
-}
+#GENRE_EMOJI = {
+  #  "black-metal": "🦇",
+   # "death-metal": "💀",
+   # "symphonic-metal": "🎻",
+   # "thrash-metal": "⚡"
+#}
 
-# ─── Naslov ─────────────────────────────────────────────────────────
-st.title("🤘 Metal Genre Classifier")
+# Тоналитети – Spotify key кодира тонове бројевима 0-11
+KEY_NAMES = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+KEY_OPTIONS = list(range(12))
+
+# ─── Наслов ─────────────────────────────────────────────────────────
+st.title("Класификатор Metal поджанрова")
 st.markdown(
-    "Unesi audio karakteristike pjesme i model će predvidjeti kojem "
-    "**metal podžanru** najvjerovatnije pripada: **black, death, symphonic** ili **thrash metal**."
+    "Унеси аудио карактеристике пјесме и модел ће предвидјети којем "
+    "**метал поджанру** највјероватније припада: **black, death, symphonic** или **thrash metal**."
 )
 st.divider()
 
-# ─── Ulazni atributi ────────────────────────────────────────────────
-st.subheader("🎚️ Audio karakteristike")
+# ─── Улазни атрибути ────────────────────────────────────────────────
+st.subheader("️Аудио карактеристике")
 
 col1, col2 = st.columns(2)
 
@@ -58,18 +62,18 @@ with col1:
     liveness = st.slider("Liveness", 0.0, 1.0, 0.2, 0.01)
 
 with col2:
-    valence = st.slider("Valence (veselost)", 0.0, 1.0, 0.25, 0.01)
+    valence = st.slider("Valence (веселост)", 0.0, 1.0, 0.25, 0.01)
     tempo = st.slider("Tempo (BPM)", 40, 220, 130)
-    duration_s = st.slider("Trajanje (sekunde)", 60, 600, 240)
-    key = st.selectbox("Key (tonalitet)", list(range(0, 12)), index=0)
-    mode = st.radio("Mode", options=[1, 0], format_func=lambda x: "Dur (Major)" if x == 1 else "Mol (Minor)")
-    explicit = st.radio("Explicit sadržaj", options=[0, 1], format_func=lambda x: "Ne" if x == 0 else "Da")
+    duration_s = st.slider("Трајање (секунде)", 60, 600, 240)
+    key = st.selectbox("Key (тоналитет)", KEY_OPTIONS, index=0, format_func=lambda x: KEY_NAMES[x])
+    mode = st.radio("Mode", options=[1, 0], format_func=lambda x: "Дур (Major)" if x == 1 else "Мол (Minor)")
+    explicit = st.radio("Експлицитан садржај", options=[0, 1], format_func=lambda x: "Не" if x == 0 else "Да")
     time_signature = st.selectbox("Time signature", [3, 4, 5], index=1)
 
 st.divider()
 
-# ─── Predikcija ─────────────────────────────────────────────────────
-if st.button("🔮 Predvidi podžanr", use_container_width=True, type="primary"):
+# ─── Предикција ─────────────────────────────────────────────────────
+if st.button("Предвиди поджанр", use_container_width=True, type="primary"):
 
     input_data = pd.DataFrame([{
         "popularity": popularity,
@@ -89,30 +93,30 @@ if st.button("🔮 Predvidi podžanr", use_container_width=True, type="primary")
         "duration_s": duration_s
     }])[FEATURE_COLS]
 
-    # Skaliranje istim scalerom kao u treningu
+    # Скалирање истим scaler-ом као у тренингу
     input_scaled = scaler.transform(input_data)
 
-    # Predikcija
+    # Предикција
     pred_encoded = model.predict(input_scaled)[0]
     pred_proba = model.predict_proba(input_scaled)[0]
     pred_genre = label_encoder.inverse_transform([pred_encoded])[0]
 
-    emoji = GENRE_EMOJI.get(pred_genre, "🎵")
+    #moji = GENRE_EMOJI.get(pred_genre, "🎵")
 
-    st.success(f"### {emoji} Predviđeni podžanr: **{pred_genre.upper()}**")
+    st.success(f"Предвиђени поджанр: **{pred_genre.upper()}**")
 
-    st.markdown("#### Vjerovatnoće po žanru")
+    st.markdown("#### Вјероватноће по жанру")
     proba_df = pd.DataFrame({
-        "Žanr": label_encoder.classes_,
-        "Vjerovatnoća (%)": (pred_proba * 100).round(2)
-    }).sort_values("Vjerovatnoća (%)", ascending=False)
+        "Жанр": label_encoder.classes_,
+        "Вјероватноћа (%)": (pred_proba * 100).round(2)
+    }).sort_values("Вјероватноћа (%)", ascending=False)
 
-    st.bar_chart(proba_df.set_index("Žanr"))
+    st.bar_chart(proba_df.set_index("Жанр"))
     st.dataframe(proba_df, use_container_width=True, hide_index=True)
 
 st.divider()
 st.caption(
-    "Model: XGBoost (tunovan putem RandomizedSearchCV) · "
-    "Accuracy: 83.2% · F1-score: 0.834 · "
-    "Predmet: Softverski algoritmi u sistemima automatskog upravljanja"
+    "Модел: XGBoost (тjунован путем RandomizedSearchCV) · "
+    "Accuracy: 83,2% · F1-score: 0,834 · "
+    "Предмет: Софтверски алгоритми у системима аутоматског управљања"
 )
