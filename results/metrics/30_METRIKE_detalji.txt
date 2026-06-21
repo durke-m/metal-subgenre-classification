@@ -1,5 +1,6 @@
 ==================================================
 METRIKE SVIH MODELA - METAL GENRE CLASSIFICATION
+(uključujući hyperparameter tuning i top5 poređenje)
 ==================================================
 
 --- Logistička regresija ---
@@ -32,6 +33,21 @@ symphonic-metal   0.80      0.74      0.77       43
 thrash-metal      0.75      0.83      0.79       47
 
 --------------------------------------------------
+--- SVM (RBF kernel) ---
+Accuracy:  0.7105
+Precision: 0.7124
+Recall:    0.7105
+F1-score:  0.7068
+K-Fold CV: 0.6329 ± 0.0491
+
+Classification report:
+                 precision  recall  f1-score  support
+black-metal       0.62      0.78      0.69       50
+death-metal       0.62      0.48      0.54       50
+symphonic-metal   0.79      0.77      0.78       43
+thrash-metal      0.85      0.83      0.84       47
+
+--------------------------------------------------
 --- Random Forest ---
 Accuracy:  0.7842
 Precision: 0.7964
@@ -54,22 +70,27 @@ Top 5 najvažnijih atributa:
   acousticness:     0.0741
 
 --------------------------------------------------
---- SVM (RBF kernel) ---
-Accuracy:  0.7105
-Precision: 0.7124
-Recall:    0.7105
-F1-score:  0.7068
-K-Fold CV: 0.6329 ± 0.0491
+--- Random Forest (Tuned) ---
+RandomizedSearchCV: n_iter=50, cv=5, scoring=f1_weighted
+Accuracy:  0.7947
+Precision: 0.8126
+Recall:    0.7947
+F1-score:  0.7998
+K-Fold CV: 0.7408 ± 0.0490
 
 Classification report:
                  precision  recall  f1-score  support
-black-metal       0.62      0.78      0.69       50
-death-metal       0.62      0.48      0.54       50
-symphonic-metal   0.79      0.77      0.78       43
-thrash-metal      0.85      0.83      0.84       47
+black-metal       0.79      0.76      0.78       50
+death-metal       0.63      0.78      0.70       50
+symphonic-metal   0.90      0.84      0.87       43
+thrash-metal      0.95      0.81      0.87       47
+
+Poređenje original vs tunovan:
+  Original  → Accuracy: 0.7842, F1: 0.7881
+  Tunovan   → Accuracy: 0.7947, F1: 0.7998
 
 --------------------------------------------------
---- XGBoost (NAJBOLJI MODEL) ---
+--- XGBoost ---
 Accuracy:  0.8105
 Precision: 0.8262
 Recall:    0.8105
@@ -83,12 +104,71 @@ death-metal       0.67      0.80      0.73       50
 symphonic-metal   0.92      0.79      0.85       43
 thrash-metal      0.95      0.83      0.89       47
 
+--------------------------------------------------
+--- XGBoost (Tuned) [NAJBOLJI MODEL] ---
+RandomizedSearchCV: n_iter=50, cv=5, scoring=f1_weighted
+Accuracy:  0.8316
+Precision: 0.8396
+Recall:    0.8316
+F1-score:  0.8339
+K-Fold CV: 0.7553 ± 0.0371
+
+Classification report:
+                 precision  recall  f1-score  support
+black-metal       0.83      0.80      0.82       50
+death-metal       0.70      0.80      0.75       50
+symphonic-metal   0.88      0.88      0.88       43
+thrash-metal      0.95      0.85      0.90       47
+
+Poređenje original vs tunovan:
+  Original  → Accuracy: 0.8105, F1: 0.8146
+  Tunovan   → Accuracy: 0.8316, F1: 0.8339
+
+--------------------------------------------------
+--- XGBoost (Top 5 atributa) ---
+Atributi: popularity, instrumentalness, speechiness, danceability, acousticness
+Accuracy:  0.7579
+Precision: 0.7660
+Recall:    0.7579
+F1-score:  0.7608
+K-Fold CV: 0.7263 ± 0.0284
+
+Classification report:
+                 precision  recall  f1-score  support
+black-metal       0.80      0.74      0.77       50
+death-metal       0.59      0.66      0.62       50
+symphonic-metal   0.80      0.81      0.80       43
+thrash-metal      0.89      0.83      0.86       47
+
+Poređenje svi atributi (15) vs top 5 atributa:
+  Svi (15)  → Accuracy: 0.8316, F1: 0.8339
+  Top 5     → Accuracy: 0.7579, F1: 0.7608
+  Razlika   → -7.37 procentnih poena (smanjenje broja atributa od 67%)
+
 ==================================================
-FINALNO POREĐENJE (sortirano po F1-score)
+FINALNO POREĐENJE SVIH MODELA (sortirano po F1-score)
 ==================================================
-Model                  Accuracy  F1-score  CV Mean  CV Std
-XGBoost                0.8105    0.8146    0.7395   0.0327
-Random Forest          0.7842    0.7881    0.7461   0.0472
-SVM (RBF kernel)       0.7105    0.7068    0.6329   0.0491
-KNN (K=1)              0.6316    0.6308    0.5868   0.0315
-Logistička regresija   0.5842    0.5808    0.5184   0.0668
+Model                     Accuracy  F1-score  CV Mean  CV Std
+XGBoost (Tuned)           0.8316    0.8339    0.7553   0.0371
+XGBoost                   0.8105    0.8146    0.7395   0.0327
+Random Forest (Tuned)     0.7947    0.7998    0.7408   0.0490
+Random Forest             0.7842    0.7881    0.7461   0.0472
+XGBoost (Top 5 atributa)  0.7579    0.7608    0.7263   0.0284
+SVM (RBF kernel)          0.7105    0.7068    0.6329   0.0491
+KNN (K=1)                 0.6316    0.6308    0.5868   0.0315
+Logistička regresija      0.5842    0.5808    0.5184   0.0668
+
+==================================================
+ZAKLJUČAK
+==================================================
+Finalni odabrani model: XGBoost (Tuned)
+  - Accuracy: 83.16%
+  - F1-score: 0.8339
+  - Najbolji CV mean: 0.7553
+
+Hyperparameteri (XGBoost Tuned, najbolji pronađeni putem RandomizedSearchCV):
+  n_estimators=500, max_depth=5, learning_rate=0.05,
+  subsample=0.6, colsample_bytree=0.8, min_child_weight=3, gamma=0
+
+Ovaj model je eksportovan u models/xgboost_tuned.pkl i koristi se
+u Streamlit aplikaciji (app.py) za deployment.
